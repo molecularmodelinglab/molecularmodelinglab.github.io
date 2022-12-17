@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# A memorable quote or some shit
+# A memorable quote or some thing
 
 Some text about what we do and stuff
 
