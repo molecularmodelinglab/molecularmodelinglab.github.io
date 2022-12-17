@@ -5,7 +5,7 @@ nav:
   tooltip: Where we get the money
 ---
 
-# <i class="fa-regular fa-money-check-dollar"></i>Funding
+# <i class="fa-solid fa-money-check-dollar"></i>Funding
 
 Where we get our money from
 
