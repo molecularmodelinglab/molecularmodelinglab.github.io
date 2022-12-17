@@ -6,7 +6,7 @@ description: The webpage of the Molecular Modeling Lab run by Professor Alexande
 logo: images/logo_no_text.svg
 header: images/lab_photo.jpg
 footer: images/lab_photo.jpg
-baseurl: 
+baseurl: /lab-website-templates
 
 # site social media and other links
 links:
