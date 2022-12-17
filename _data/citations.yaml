@@ -1,67 +1,505 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s42004-022-00733-0
+  title: Generative and reinforcement learning approaches for the automated de novo
+    design of bioactive compounds
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Maria Korshunova
+  - Niles Huang
+  - Stephen Capuzzi
+  - Dmytro S. Radchenko
+  - Olena Savych
+  - Yuriy S. Moroz
+  - Carrow I. Wells
+  - Timothy M. Willson
+  - Alexander Tropsha
+  - Olexandr Isayev
+  publisher: Communications Chemistry
+  date: '2022-10-18'
+  link: https://doi.org/grhjft
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: fa9be1e5cce281e08fd24d6c45dc1e75ebbffe010d793307f7678fbd98f39d28
+- id: doi:10.1101/2021.12.17.473241
+  title: Efficient Design of Peptide-Binding Polymers Using Active Learning Approaches
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - A. Rakhimbekova
+  - A. Lopukov
+  - N. Klyachko
+  - A. Kabanov
+  - T.I. Madzhidov
+  - A. Tropsha
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-20'
+  link: https://doi.org/grhjfv
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: dec825f592b7e0be8b4734a34618e20ef74a596900fcbc25c4ddeba901b13f2a
+- id: doi:10.2196/26714
+  title: 'A Biomedical Knowledge Graph System to Propose Mechanistic Hypotheses for
+    Real-World Environmental Health Observations: Cohort Study and Informatics Application'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Karamarie Fecho
+  - Chris Bizon
+  - Frederick Miller
+  - Shepherd Schurman
+  - Charles Schmitt
+  - William Xue
+  - Kenneth Morton
+  - Patrick Wang
+  - Alexander Tropsha
+  publisher: JMIR Medical Informatics
+  date: '2021-07-20'
+  link: https://doi.org/gndq7b
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: e49abd18479a9e3965bf72ee16f058abc195e845a0ce7eda24aa871d42035d6a
+- id: doi:10.3390/diagnostics11050742
+  title: Identification of Tumor-Specific MRI Biomarkers Using Machine Learning (ML)
+  authors:
+  - Rima Hajjo
+  - Dima A. Sabbah
+  - Sanaa K. Bardaweel
+  - Alexander Tropsha
+  publisher: Diagnostics
+  date: '2021-04-21'
+  link: https://doi.org/gkdvkn
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 002141a606f0c1fdc476ad0ac5388e9ec4c876ee9f1699c3bdd07c19b00512d5
+- id: doi:10.1021/acs.jcim.0c01419
+  title: 'ZINC Express: A Virtual Assistant for Purchasing Compounds Annotated in
+    the ZINC Database'
+  authors:
+  - Tesia M. Bobrowski
+  - Daniel R. Korn
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-03-05'
+  link: https://doi.org/grhjfw
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: ca7d9e6f471e1aeed3a66aee2ceca8efadedb9a86e43232009e13919359cc973
+- id: doi:10.1021/acs.jcim.0c01164
+  title: Large-Scale Modeling of Multispecies Acute Toxicity End Points Using Consensus
+    of Multitask Deep Learning Methods
+  authors:
+  - Sankalp Jain
+  - Vishal B. Siramshetty
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Nicole Kleinstreuer
+  - Alexander Tropsha
+  - Marc C. Nicklaus
+  - Anton Simeonov
+  - Alexey V. Zakharov
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-02-03'
+  link: https://doi.org/gndrvt
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: cb80b338c5f804505187ca2b328bf551057f7d0a2d1706d6a055e8428eacc5f6
+- id: doi:10.1021/acs.chemrestox.0c00186
+  title: 'Pred-Skin: A Web Portal for Accurate Prediction of Human Skin Sensitizers'
+  authors:
+  - Joyce V. B. Borba
+  - Rodolpho C. Braga
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Nicole Kleinstreuer
+  - Alexander Tropsha
+  - Carolina Horta Andrade
+  publisher: Chemical Research in Toxicology
+  date: '2020-07-16'
+  link: https://doi.org/grhjfx
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 303ec3f77e6e8b54bcbfed5147b72020c6322ed3fba41b8eea8a5fc3fda4332d
+- id: doi:10.1021/acs.jcim.0c00971
+  title: 'OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design'
+  authors:
+  - Maria Korshunova
+  - Boris Ginsburg
+  - Alexander Tropsha
+  - Olexandr Isayev
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-01-04'
+  link: https://doi.org/ghrvbs
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 67513ec597a5984614704f932bcd778606b60eb15141a00dac3d367ea64b6a00
+- id: doi:10.1021/acs.jcim.0c01389
+  title: 'Editorial: Method and Data Sharing and Reproducibility of Scientific Results'
+  authors:
+  - Kenneth M. Merz
+  - Rommie Amaro
+  - Zoe Cournia
+  - Matthias Rarey
+  - Thereza Soares
+  - Alexander Tropsha
+  - Habibah A. Wahab
+  - Renxiao Wang
+  publisher: Journal of Chemical Information and Modeling
+  date: '2020-12-28'
+  link: https://doi.org/ghqz58
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 7e164272fcd314dc363fd2f227e32d1ccb2859ebe1d53e3d614d852612bd93f3
+- id: doi:10.2196/preprints.26714
+  title: 'A Biomedical Knowledge Graph System to Propose Mechanistic Hypotheses for
+    Real-World Environmental Health Observations: Cohort Study and Informatics Application
+    (Preprint)'
+  authors:
+  - Karamarie Fecho
+  - Chris Bizon
+  - Frederick Miller
+  - Shepherd Schurman
+  - Charles Schmitt
+  - William Xue
+  - Kenneth Morton
+  - Patrick Wang
+  - Alexander Tropsha
+  publisher: JMIR Publications Inc.
+  date: '2020-12-22'
+  link: https://doi.org/grhjf2
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: fe55ec2349496b0707b619af87b60d8eb85e13436328adb0a1fa6fea991d4700
+- id: doi:10.2196/17964
+  title: 'Visualization Environment for Federated Knowledge Graphs: Development of
+    an Interactive Biomedical Query Language and Web Application Interface'
+  authors:
+  - Steven Cox
+  - Stanley C Ahalt
+  - James Balhoff
+  - Chris Bizon
+  - Karamarie Fecho
+  - Yaphet Kebede
+  - Kenneth Morton
+  - Alexander Tropsha
+  - Patrick Wang
+  - Hao Xu
+  publisher: JMIR Medical Informatics
+  date: '2020-11-23'
+  link: https://doi.org/gndqz9
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 322b3fe181bd9d231e14f1b80b18345d2a22e7376debda1e072699e3c44dbfc3
+- id: doi:10.1007/s11095-020-02930-9
+  title: 'A Systems Biology Workflow for Drug and Vaccine Repurposing: Identifying
+    Small-Molecule BCG Mimics to Reduce or Prevent COVID-19 Mortality'
+  authors:
+  - Rima Hajjo
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2020-10-06'
+  link: https://doi.org/gmnhzz
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: c78343034c51ff543588d3f8861b6a9caad9a378c08c494d17a073a97a7040b6
+- id: doi:10.1021/acs.jmedchem.0c01338
+  title: "Correction to \u201CSynthesis and Structure\u2013Activity Relationships\
+    \ of DCLK1 Kinase Inhibitors Based on a 5,11-Dihydro-6<i>H</i>-benzo[<i>e</i>]pyrimido[5,4-<i>b</i>][1,4]diazepin-6-one\
+    \ Scaffold\u201D"
+  authors:
+  - Fleur M. Ferguson
+  - Yan Liu
+  - Wayne Harshbarger
+  - Ling Huang
+  - Jinhua Wang
+  - Xianming Deng
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  - Senthil Muthuswamy
+  - Kenneth D. Westover
+  - Nathanael S. Gray
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-08-13'
+  link: https://doi.org/grhjf3
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: ceffbc7c348b7a65274e335c5a1bb96b7a1026fa96c79779d702bff4e5e2b0c3
+- id: doi:10.1021/acs.jmedchem.0c00596
+  title: "Synthesis and Structure\u2013Activity Relationships of DCLK1 Kinase Inhibitors\
+    \ Based on a 5,11-Dihydro-6<i>H</i>-benzo[<i>e</i>]pyrimido[5,4-<i>b</i>][1,4]diazepin-6-one\
+    \ Scaffold"
+  authors:
+  - Fleur M. Ferguson
+  - Yan Liu
+  - Wayne Harshbarger
+  - Ling Huang
+  - Jinhua Wang
+  - Xianming Deng
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  - Senthil Muthuswamy
+  - Kenneth D. Westover
+  - Nathanael S. Gray
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-06-12'
+  link: https://doi.org/grhjf4
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 43fd005ccac945f317b72d1a5eb89d3053201d756b0ca697a66db16e98094af1
+- id: doi:10.21203/rs.3.rs-40730/v1
+  title: 'A Systems Biology Workflow for Drug and Vaccine Repurposing: Identifying
+    Small-molecule BCG Mimics to Prevent COVID-19 Mortality'
+  authors:
+  - Rima Hajjo
+  - Alexander Tropsha
+  publisher: Research Square Platform LLC
+  date: '2020-07-14'
+  link: https://doi.org/grhjf5
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 3de1c455df86c4f81f984018fc69caf7f968800cae5ebc288cc5ea2ac8c8e35c
+- id: doi:10.2196/preprints.17964
+  title: 'Visualization Environment for Federated Knowledge Graphs: Development of
+    an Interactive Biomedical Query Language and Web Application Interface (Preprint)'
+  authors:
+  - Steven Cox
+  - Stanley C Ahalt
+  - James Balhoff
+  - Chris Bizon
+  - Karamarie Fecho
+  - Yaphet Kebede
+  - Kenneth Morton
+  - Alexander Tropsha
+  - Patrick Wang
+  - Hao Xu
+  publisher: JMIR Publications Inc.
+  date: '2020-01-24'
+  link: https://doi.org/grhjf6
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 3eeaad90d10dbb3f1e4fa10209914cf16d4c3a042238af3fb3b1ed7903d72460
+- id: doi:10.1021/acs.jcim.9b00683
+  title: 'ROBOKOP KG and KGB: Integrated Knowledge Graphs from Federated Sources'
+  authors:
+  - Chris Bizon
+  - Steven Cox
+  - James Balhoff
+  - Yaphet Kebede
+  - Patrick Wang
+  - Kenneth Morton
+  - Karamarie Fecho
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2019-11-26'
+  link: https://doi.org/gj7chr
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: e97512cfe336a18bae2f40bee523b073f7891b1d94a42ce8ce338b918f826bc8
+- id: doi:10.1126/sciadv.aav9784
+  title: Cheminformatics-driven discovery of polymeric micelle formulations for poorly
+    soluble drugs
+  authors:
+  - Vinicius M. Alves
+  - Duhyeong Hwang
+  - Eugene Muratov
+  - Marina Sokolsky-Papkov
+  - Ekaterina Varlamova
+  - Natasha Vinod
+  - Chaemin Lim
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  - Alexander Kabanov
+  publisher: Science Advances
+  date: '2019-06-07'
+  link: https://doi.org/grhjf7
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: c36f7b3d99bd8f92a5139882def6899e98614f32d9860f544a9b7f8003320b46
+- id: doi:10.1021/acs.jcim.8b00747
+  title: "Quantitative Structure\u2013Price Relationship (QS$R) Modeling and the Development\
+    \ of Economically Feasible Drug Discovery Projects"
+  authors:
+  - Michael Fernandez
+  - Fuqiang Ban
+  - Godwin Woo
+  - Oleksandr Isaev
+  - Carl Perez
+  - Valery Fokin
+  - Alexander Tropsha
+  - Artem Cherkasov
+  publisher: Journal of Chemical Information and Modeling
+  date: '2019-02-15'
+  link: https://doi.org/gfv7f2
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 46e75ab7c2240d0b7f6ab175697f6fa60fff2e7cbd2c0815546455214d1816ba
+- id: doi:10.1021/acs.jcim.8b00927
+  title: Materials Informatics
+  authors:
+  - Hanoch Senderowitz
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-12-24'
+  link: https://doi.org/gfs7x2
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 22cd79f165d973958bb2a73a15d6f39dd51097407b5a9d152028d5ba63cb95c0
+- id: doi:10.1021/acs.jcim.8b00450
+  title: "Chemistry-Wide Association Studies (CWAS): A Novel Framework for Identifying\
+    \ and Interpreting Structure\u2013Activity Relationships"
+  authors:
+  - Yen S. Low
+  - Vinicius M. Alves
+  - Denis Fourches
+  - Alexander Sedykh
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-10-30'
+  link: https://doi.org/gfpbt9
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: b64acb2e736fe69faf84ff441cd53a9e270ef196f62963b115c0543ee942d0a5
+- id: doi:10.1007/s40264-018-0688-5
+  title: Predicting Adverse Drug Effects from Literature- and Database-Mined Assertions
+  authors:
+  - Mary K. La
+  - Alexander Sedykh
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Drug Safety
+  date: '2018-06-06'
+  link: https://doi.org/grhjf8
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 7a2dc9339823f65cdf988de845c2d8e94877ab73c36cc4884d2cecdfd60a6fe7
+- id: doi:10.1021/acs.jcim.8b00016
+  title: Materials Informatics
+  authors:
+  - Hanoch Senderowitz
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-04-11'
+  link: https://doi.org/grhjf9
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 60ecacbab1b21dfbf5251bff722f073e3bbd0ab51874747f59a0f068999f8ff0
+- id: doi:10.1126/sciadv.aap7885
+  title: Deep reinforcement learning for de novo drug design
+  authors:
+  - Mariya Popova
+  - Olexandr Isayev
+  - Alexander Tropsha
+  publisher: Science Advances
+  date: '2018-07-06'
+  link: https://doi.org/gdzfdc
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: ff475ea80b0bce708643bf2729526e94ea8c82926fe94ac4a3d259f692d6bc6d
+- id: doi:10.1021/acs.jcim.8b00124
+  title: "Multi-Descriptor Read Across (MuDRA): A Simple and Transparent Approach\
+    \ for Developing Accurate Quantitative Structure\u2013Activity Relationship Models"
+  authors:
+  - Vinicius M. Alves
+  - Alexander Golbraikh
+  - Stephen J. Capuzzi
+  - Kammy Liu
+  - Wai In Lam
+  - Daniel Robert Korn
+  - Diane Pozefsky
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-05-29'
+  link: https://doi.org/gdvdvh
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: d9e1501bf4b40f14d14cbcad11d0e8136af21d61bbbb84d0026acb8e5c69c06a
+- id: doi:10.1021/acssuschemeng.7b04220
+  title: A Perspective and a New Integrated Computational Strategy for Skin Sensitization
+    Assessment
+  authors:
+  - Vinicius M. Alves
+  - Stephen J. Capuzzi
+  - Rodolpho C. Braga
+  - Joyce V. B. Borba
+  - Arthur C. Silva
+  - Thomas Luechtefeld
+  - Thomas Hartung
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2018-02-07'
+  link: https://doi.org/gc79kv
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: baf68206cb776647a469ce77f982f1fc0c0d3a83bd481a4aee6eff5d7990dad9
+- id: doi:10.1021/acs.jcim.7b00589
+  title: "Chemotext: A Publicly Available Web Server for Mining Drug\u2013Target\u2013\
+    Disease Relationships in PubMed"
+  authors:
+  - Stephen J. Capuzzi
+  - Thomas E. Thornton
+  - Kammy Liu
+  - Nancy Baker
+  - Wai In Lam
+  - "Colin P. O\u2019Banion"
+  - Eugene N. Muratov
+  - Diane Pozefsky
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-01-19'
+  link: https://doi.org/gft9kg
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 8fcc2497f71f31b6c89932c82b5ee98504dbbd204cd2d7beb5cc165f288080c5
+- id: doi:10.1021/acs.jcim.7b00194
+  title: 'Pred-Skin: A Fast and Reliable Web Application to Assess Skin Sensitization
+    Effect of Chemicals'
+  authors:
+  - Rodolpho C. Braga
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Judy Strickland
+  - Nicole Kleinstreuer
+  - Alexander Trospsha
+  - Carolina Horta Andrade
+  publisher: Journal of Chemical Information and Modeling
+  date: '2017-05-10'
+  link: https://doi.org/f96vbp
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 2fa89ec3949d824a0d791f2b608ccf5b5db8f92d4324dd4f1088b7da4f55c92c
+- id: doi:10.1021/acs.jcim.6b00465
+  title: 'Phantom PAINS: Problems with the Utility of Alerts for <u>P</u>an-<u>A</u>ssay
+    <u>IN</u>terference Compound<u>S</u>'
+  authors:
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2017-02-25'
+  link: https://doi.org/f9th74
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 9cbda06134dc36b1e64ef4a5c27bd7ea489187575ec87d88ebe67e730b8b8c89
+- id: doi:10.1021/acs.jcim.6b00462
+  title: 'Chembench: A Publicly Accessible, Integrated Cheminformatics Portal'
+  authors:
+  - Stephen J. Capuzzi
+  - Ian Sang-June Kim
+  - Wai In Lam
+  - Thomas E. Thornton
+  - Eugene N. Muratov
+  - Diane Pozefsky
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2017-01-19'
+  link: https://doi.org/f9nfnx
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: e16513660c9a3df7d209925fc04f2cc5dc216629c7bb04b99a1ae11732697636

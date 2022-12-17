@@ -1,47 +1,46 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: BANANA
+  subtitle: BAsic NeurAl Network for bindding Affinity
   group: featured
-  image: images/photo.jpg
+  image: images/banana_logo_small.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: MPNN for predicting binding affinity of small molecules to protein pockets.
+  repo: molecularmodelinglab/banana
   tags:
-    - resource
+    - Model
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: BigBind
   group: featured
-  image: images/photo.jpg
+  image: images/bigbind_logo.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A dataset built from CrossDocked and ChEMBL data
+  repo: molecularmodelinglab/bigbind
   tags:
-    - resource
+    - Dataset
 
-- title: Cool Tutorial
+- title: SMACC
+  subtitle: Small Molecule Antiviral Compound Collection
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/smacc_logo.svg
+  link: https://smacc.mml.unc.edu/
+  description: A dataset a small molecules that have antiviral activity collected from ChEMBL.
   tags:
-    - resource
-    - publication
+    - Dataset
 
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: STopTox
+  group: featured
+  image: images/stoptox_logo_tp.png
+  link: https://stoptox.mml.unc.edu/
+  description: a machine learning app to predict the battery of acute toxicity test classically known as "6-pack"
   tags:
-    - software
+    - Webserver
+    - Model
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
+- title: SALSA
+  subtitle: Structurally Aware Latent Space Auto-encoder
+  group: featured
+  image: images/Salsa-Logo.png
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A contrastive autoencoder for generating a latent space where chemicals of similar graph edit distance are near each other
+  repo: molecularmodelinglab/salsa
   tags:
-    - software
+    - Model
