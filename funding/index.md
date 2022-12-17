@@ -2,7 +2,7 @@
 title: Funding
 nav:
   order: 1
-  Where we get the money
+  tooltip: Where we get the money
 ---
 
 # <i class="fa-regular fa-money-check-dollar"></i>Funding
