@@ -1,6 +1,3813 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.jconrel.2022.11.023
+  title: Efficient design of peptide-binding polymers using active learning approaches
+  authors:
+  - Assima Rakhimbekova
+  - Anton Lopukhov
+  - Natalia Klyachko
+  - Alexander Kabanov
+  - Timur I. Madzhidov
+  - Alexander Tropsha
+  publisher: Journal of Controlled Release
+  date: '2023-01-01'
+  link: https://doi.org/grm2gz
+  _cache: 7c49d2ae54806f7235147301fa58ff998262c8b25c656b25ffcee678c5a95276
+- id: doi:10.1016/j.yrtph.2022.105277
+  title: Integrated approach to elucidate metal-implant related adverse outcome pathways
+  authors:
+  - Jon-Michael T. Beasley
+  - Daniel R. Korn
+  - Konstantin I. Popov
+  - Reagan L. Dumproff
+  - Zoe L. Sessions
+  - Marielle K. Rath
+  - Vinicius M. Alves
+  - Kevin Causey
+  - Diego Rua
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Regulatory Toxicology and Pharmacology
+  date: '2022-12-01'
+  link: https://doi.org/grhjg8
+  _cache: 9ec5091742258c0f3e2417a66580a14b8a73e251464f3965084b8518560a35b8
+- id: doi:10.1111/cts.13302
+  title: 'Biolink Model: A universal schema for knowledge graphs in clinical, biomedical,
+    and translational science'
+  authors:
+  - Deepak R. Unni
+  - Sierra A. T. Moxon
+  - Michael Bada
+  - Matthew Brush
+  - Richard Bruskiewich
+  - J. Harry Caufield
+  - Paul A. Clemons
+  - Vlado Dancik
+  - Michel Dumontier
+  - Karamarie Fecho
+  - Gustavo Glusman
+  - Jennifer J. Hadlock
+  - Nomi L. Harris
+  - Arpita Joshi
+  - Tim Putman
+  - Guangrong Qin
+  - Stephen A. Ramsey
+  - Kent A. Shefchek
+  - Harold Solbrig
+  - Karthik Soman
+  - Anne E. Thessen
+  - Melissa A. Haendel
+  - Chris Bizon
+  - Christopher J. Mungall
+  - Liliana Acevedo
+  - Stanley C. Ahalt
+  - John Alden
+  - Ahmed Alkanaq
+  - Nada Amin
+  - Ricardo Avila
+  - Jim Balhoff
+  - Sergio E. Baranzini
+  - Andrew Baumgartner
+  - William Baumgartner
+  - Basazin Belhu
+  - MacKenzie Brandes
+  - Namdi Brandon
+  - Noel Burtt
+  - William Byrd
+  - Jackson Callaghan
+  - Marco Alvarado Cano
+  - Steven Carrell
+  - Remzi Celebi
+  - James Champion
+  - Zhehuan Chen
+  - "Mei\u2010Jan Chen"
+  - Lawrence Chung
+  - Kevin Cohen
+  - Tom Conlin
+  - Dan Corkill
+  - Maria Costanzo
+  - Steven Cox
+  - Andrew Crouse
+  - Camerron Crowder
+  - Mary E. Crumbley
+  - Cheng Dai
+  - "Vlado Dan\u010D\xEDk"
+  - Ricardo De Miranda Azevedo
+  - Eric Deutsch
+  - Jennifer Dougherty
+  - Marc P. Duby
+  - Venkata Duvvuri
+  - Stephen Edwards
+  - Vincent Emonet
+  - Nathaniel Fehrmann
+  - Jason Flannick
+  - Aleksandra M. Foksinska
+  - Vicki Gardner
+  - Edgar Gatica
+  - Amy Glen
+  - Prateek Goel
+  - Joseph Gormley
+  - Alon Greyber
+  - Perry Haaland
+  - Kristina Hanspers
+  - Kaiwen He
+  - Kaiwen He
+  - Jeff Henrickson
+  - Eugene W. Hinderer
+  - Maureen Hoatlin
+  - Andrew Hoffman
+  - Sui Huang
+  - Conrad Huang
+  - Robert Hubal
+  - "Kenneth Huellas\u2010Bruskiewicz"
+  - Forest B. Huls
+  - Lawrence Hunter
+  - Greg Hyde
+  - Tursynay Issabekova
+  - Matthew Jarrell
+  - Lindsay Jenkins
+  - Adam Johs
+  - Jimin Kang
+  - Richa Kanwar
+  - Yaphet Kebede
+  - Keum Joo Kim
+  - Alexandria Kluge
+  - Michael Knowles
+  - Ryan Koesterer
+  - Daniel Korn
+  - David Koslicki
+  - Ashok Krishnamurthy
+  - Lindsey Kvarfordt
+  - Jay Lee
+  - Margaret Leigh
+  - Jason Lin
+  - Zheng Liu
+  - Shaopeng Liu
+  - Chunyu Ma
+  - Andrew Magis
+  - Tarun Mamidi
+  - Meisha Mandal
+  - Michelle Mantilla
+  - Jeffrey Massung
+  - Denise Mauldin
+  - Jason McClelland
+  - Julie McMurry
+  - Philip Mease
+  - Luis Mendoza
+  - Marian Mersmann
+  - Abrar Mesbah
+  - Matthew Might
+  - Kenny Morton
+  - Sandrine Muller
+  - Arun Teja Muluka
+  - John Osborne
+  - Phil Owen
+  - Michael Patton
+  - David B. Peden
+  - R. Carter Peene
+  - Bria Persaud
+  - Emily Pfaff
+  - Alexander Pico
+  - Elizabeth Pollard
+  - Guthrie Price
+  - Shruti Raj
+  - Jason Reilly
+  - Anders Riutta
+  - Jared Roach
+  - Ryan T. Roper
+  - Greg Rosenblatt
+  - Irit Rubin
+  - Sienna Rucka
+  - "Nathaniel Rudavsky\u2010Brody"
+  - Rayn Sakaguchi
+  - Eugene Santos
+  - Kevin Schaper
+  - Charles P. Schmitt
+  - Shepherd Schurman
+  - Erik Scott
+  - Sarah Seitanakis
+  - Priya Sharma
+  - Ilya Shmulevich
+  - Manil Shrestha
+  - Shalki Shrivastava
+  - Meghamala Sinha
+  - Brett Smith
+  - Noel Southall
+  - Nicholas Southern
+  - Lisa Stillwell
+  - Michael " Michi" Strasser
+  - Andrew I. Su
+  - Casey Ta
+  - Anne E. Thessen
+  - Jillian Tinglin
+  - Lucas Tonstad
+  - "Thi Tran\u2010Nguyen"
+  - Alexander Tropsha
+  - Gaurav Vaidya
+  - Luke Veenhuis
+  - Adam Viola
+  - Marcin von Grotthuss
+  - Max Wang
+  - Patrick Wang
+  - Paul B. Watkins
+  - Rosina Weber
+  - Qi Wei
+  - Chunhua Weng
+  - Jordan Whitlock
+  - Mark D. Williams
+  - Andrew Williams
+  - Finn Womack
+  - Erica Wood
+  - Chunlei Wu
+  - Jiwen Kevin Xin
+  - Hao Xu
+  - Colleen Xu
+  - Chase Yakaboski
+  - Yao Yao
+  - Hong Yi
+  - Arif Yilmaz
+  - Marissa Zheng
+  - Xinghua Zhou
+  - Eric Zhou
+  - Qian Zhu
+  - Tom Zisk
+  - ' '
+  publisher: Clinical and Translational Science
+  date: '2022-06-06'
+  link: https://doi.org/gq6hdn
+  _cache: 405774706574c13f47e720dc411c3ee72803cd11c8e4c2de211e272682a01681
+- id: doi:10.1016/j.ailsci.2021.100028
+  title: Novel computational models offer alternatives to animal testing for assessing
+    eye irritation and corrosion potential of chemicals
+  authors:
+  - Arthur C. Silva
+  - Joyce V.V.B. Borba
+  - Vinicius M. Alves
+  - Steven U.S. Hall
+  - Nicholas Furnham
+  - Nicole Kleinstreuer
+  - Eugene Muratov
+  - Alexander Tropsha
+  - Carolina Horta Andrade
+  publisher: Artificial Intelligence in the Life Sciences
+  date: '2021-12-01'
+  link: https://doi.org/grhjhf
+  _cache: 8581957baead223bf2e0b7123dba7c70282ed07252846d4833f9709bee66f152
+- id: doi:10.1093/toxsci/kfac078
+  title: 'PreS/MD: Predictor of Sensitization Hazard for Chemical Substances Released
+    From Medical Devices'
+  authors:
+  - Vinicius M Alves
+  - Joyce V B Borba
+  - Rodolpho C Braga
+  - Daniel R Korn
+  - Nicole Kleinstreuer
+  - Kevin Causey
+  - Alexander Tropsha
+  - Diego Rua
+  - Eugene N Muratov
+  publisher: Toxicological Sciences
+  date: '2022-08-02'
+  link: https://doi.org/grhjhg
+  _cache: c1c1d92ec2e5625edf9d3dbff6a11b610adb53b4c13fb786b02e4eecee8e26f4
+- id: doi:10.3390/pathogens11070743
+  title: Analyzing the Systems Biology Effects of COVID-19 mRNA Vaccines to Assess
+    Their Safety and Putative Side Effects
+  authors:
+  - Rima Hajjo
+  - Dima A. Sabbah
+  - Alexander Tropsha
+  publisher: Pathogens
+  date: '2022-06-29'
+  link: https://doi.org/grhjhh
+  _cache: 46d99f287f7430f26c12349528e8a2ddd840c24303f40763fc1e76c92739d3dd
+- id: doi:10.1101/2022.07.09.499397
+  title: 'Small Molecule Antiviral Compound Collection (SMACC): a database to support
+    the discovery of broad-spectrum antiviral drug molecules'
+  authors:
+  - Holli-Joi Martin
+  - Cleber C. Melo-Filho
+  - Daniel Korn
+  - Richard T. Eastman
+  - Ganesha Rai
+  - Anton Simeonov
+  - Alexey V. Zakharov
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-11'
+  link: https://doi.org/grhjhj
+  _cache: 1613faea1d1699bfb2413ee3c73853ba85d28f92515a64b1368eb532f044fad9
+- id: doi:10.1021/acsptsci.2c00049
+  title: Allosteric Binders of ACE2 Are Promising Anti-SARS-CoV-2 Agents
+  authors:
+  - Joshua E. Hochuli
+  - Sankalp Jain
+  - Cleber Melo-Filho
+  - Zoe L. Sessions
+  - Tesia Bobrowski
+  - Jun Choe
+  - Johnny Zheng
+  - Richard Eastman
+  - Daniel C. Talley
+  - Ganesha Rai
+  - Anton Simeonov
+  - Alexander Tropsha
+  - Eugene N. Muratov
+  - Bolormaa Baljinnyam
+  - Alexey V. Zakharov
+  publisher: ACS Pharmacology &amp; Translational Science
+  date: '2022-06-22'
+  link: https://doi.org/grhjhk
+  _cache: 440307b9299031e601981944ed2f0137192edba6144f1d3e7d84a394da39329f
+- id: doi:10.1016/j.antiviral.2022.105360
+  title: Conserved coronavirus proteins as targets of broad-spectrum antivirals
+  authors:
+  - Cleber C. Melo-Filho
+  - Tesia Bobrowski
+  - Holli-Joi Martin
+  - Zoe Sessions
+  - Konstantin I. Popov
+  - Nathaniel J. Moorman
+  - Ralph S. Baric
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Antiviral Research
+  date: '2022-08-01'
+  link: https://doi.org/grhjhm
+  _cache: 8811d417080e583d4dfdf0d76bc8b70f5bc90374d22c6037cafd9268ee21da26
+- id: doi:10.1111/cts.13301
+  title: Progress toward a universal biomedical data translator
+  authors:
+  - Karamarie Fecho
+  - Anne E. Thessen
+  - Sergio E. Baranzini
+  - Chris Bizon
+  - Jennifer J. Hadlock
+  - Sui Huang
+  - Ryan T. Roper
+  - Noel Southall
+  - Casey Ta
+  - Paul B. Watkins
+  - Mark D. Williams
+  - Hao Xu
+  - William Byrd
+  - "Vlado Dan\u010D\xEDk"
+  - Marc P. Duby
+  - Michel Dumontier
+  - Gustavo Glusman
+  - Nomi L. Harris
+  - Eugene W. Hinderer
+  - Greg Hyde
+  - Adam Johs
+  - Andrew I. Su
+  - Guangrong Qin
+  - Qian Zhu
+  - Liliana Acevedo
+  - Stanley C. Ahalt
+  - John Alden
+  - Ahmed Alkanaq
+  - Nada Amin
+  - Ricardo Avila
+  - Michael Bada
+  - Jim Balhoff
+  - Andrew Baumgartner
+  - William Baumgartner
+  - Basazin Belhu
+  - Mac Kenzie Brandes
+  - Namdi Brandon
+  - Matthew Brush
+  - Richard Bruskiewich
+  - Noel Burtt
+  - Jackson Callaghan
+  - Marco Alvarado Cano
+  - Steven Carrell
+  - J. Harry Caufield
+  - Remzi Celebi
+  - James Champion
+  - Zhehuan Chen
+  - "Mei\u2010Jan Chen"
+  - Lawrence Chung
+  - Paul A. Clemons
+  - Kevin Cohen
+  - Tom Conlin
+  - Dan Corkill
+  - Maria Costanzo
+  - Steven Cox
+  - Andrew Crouse
+  - Camerron Crowder
+  - Mary E. Crumbley
+  - Cheng Dai
+  - Ricardo De Miranda Azevedo
+  - Eric Deutsch
+  - Jennifer Dougherty
+  - Venkata Duvvuri
+  - Stephen Edwards
+  - Vincent Emonet
+  - Nathaniel Fehrmann
+  - Jason Flannick
+  - Aleksandra M. Foksinska
+  - Vicki Gardner
+  - Edgar Gatica
+  - Amy Glen
+  - Prateek Goel
+  - Joseph Gormley
+  - Alon Greyber
+  - Perry Haaland
+  - Melissa A. Haendel
+  - Kristina Hanspers
+  - Kaiwen He
+  - Jeff Henrickson
+  - Maureen Hoatlin
+  - Andrew Hoffman
+  - Conrad Huang
+  - Robert Hubal
+  - "Kenneth Huellas\u2010Bruskiewicz"
+  - Forest B. Huls
+  - Lawrence Hunter
+  - Tursynay Issabekova
+  - Matthew Jarrell
+  - Lindsay Jenkins
+  - Arpita Joshi
+  - Jimin Kang
+  - Richa Kanwar
+  - Yaphet Kebede
+  - Keum Joo Kim
+  - Alexandria Kluge
+  - Michael Knowles
+  - Ryan Koesterer
+  - Daniel Korn
+  - David Koslicki
+  - Ashok Krishnamurthy
+  - Lindsey Kvarfordt
+  - Jay Lee
+  - Margaret Leigh
+  - Jason Lin
+  - Zheng Liu
+  - Shaopeng Liu
+  - Chunyu Ma
+  - Andrew Magis
+  - Tarun Mamidi
+  - Meisha Mandal
+  - Michelle Mantilla
+  - Jeffrey Massung
+  - Denise Mauldin
+  - Jason McClelland
+  - Julie McMurry
+  - Philip Mease
+  - Luis Mendoza
+  - Marian Mersmann
+  - Abrar Mesbah
+  - Matthew Might
+  - Kenny Morton
+  - Sierra A. T. Moxon
+  - Sandrine Muller
+  - Arun Teja Muluka
+  - Christopher J. Mungall
+  - John Osborne
+  - Phil Owen
+  - Michael Patton
+  - David B. Peden
+  - R. Carter Peene
+  - Bria Persaud
+  - Emily Pfaff
+  - Alexander Pico
+  - Elizabeth Pollard
+  - Guthrie Price
+  - Tim Putman
+  - Shruti Raj
+  - Stephen A. Ramsey
+  - Jason Reilly
+  - Anders Riutta
+  - Jared Roach
+  - Greg Rosenblatt
+  - Irit Rubin
+  - Sienna Rucka
+  - "Nathaniel Rudavsky\u2010Brody"
+  - Rayn Sakaguchi
+  - Eugene Santos
+  - Kevin Schaper
+  - Charles P. Schmitt
+  - Shepherd Schurman
+  - Erik Scott
+  - Sarah Seitanakis
+  - Priya Sharma
+  - Kent A. Shefchek
+  - Ilya Shmulevich
+  - Manil Shrestha
+  - Shalki Shrivastava
+  - Meghamala Sinha
+  - Brett Smith
+  - Harold Solbrig
+  - Karthik Soman
+  - Nicholas Southern
+  - Lisa Stillwell
+  - "Michael \u201C Michi\u201D Strasser"
+  - Anne E. Thessen
+  - Jillian Tinglin
+  - Lucas Tonstad
+  - "Thi Tran\u2010Nguyen"
+  - Alexander Tropsha
+  - Deepak R. Unni
+  - Gaurav Vaidya
+  - Luke Veenhuis
+  - Adam Viola
+  - Marcin von Grotthuss
+  - Max Wang
+  - Patrick Wang
+  - Rosina Weber
+  - Qi Wei
+  - Chunhua Weng
+  - Jordan Whitlock
+  - Andrew Williams
+  - Finn Womack
+  - Erica Wood
+  - Chunlei Wu
+  - Jiwen Kevin Xin
+  - Colleen Xu
+  - Chase Yakaboski
+  - Yao Yao
+  - Hong Yi
+  - Arif Yilmaz
+  - Marissa Zheng
+  - Xinghua Zhou
+  - Eric Zhou
+  - Tom Zisk
+  - ' '
+  publisher: Clinical and Translational Science
+  date: '2022-06-06'
+  link: https://doi.org/gq6hdk
+  _cache: c08b1d236fa0a59aa14e010441462ebe333f0507931998da4172b8e906254599
+- id: doi:10.1101/2022.03.15.484484
+  title: Allosteric binders of ACE2 are promising anti-SARS-CoV-2 agents
+  authors:
+  - Joshua E. Hochuli
+  - Sankalp Jain
+  - Cleber Melo-Filho
+  - Zoe L. Sessions
+  - Tesia Bobrowski
+  - Jun Choe
+  - Johnny Zheng
+  - Richard Eastman
+  - Daniel C. Talley
+  - Ganesha Rai
+  - Anton Simeonov
+  - Alexander Tropsha
+  - Eugene N. Muratov
+  - Bolormaa Baljinnyam
+  - Alexey V. Zakharov
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-16'
+  link: https://doi.org/grhjhn
+  _cache: 64ba8e289dff2f9db75a917e2f20e08db407542a238fe050171e809f476f480f
+- id: doi:10.1289/EHP9341
+  title: "STopTox: An\n            <i>in Silico</i>\n            Alternative to Animal\
+    \ Testing for Acute Systemic and Topical Toxicity"
+  authors:
+  - Joyce V.B. Borba
+  - Vinicius M. Alves
+  - Rodolpho C. Braga
+  - Daniel R. Korn
+  - Kirsten Overdahl
+  - Arthur C. Silva
+  - Steven U.S. Hall
+  - Erik Overdahl
+  - Nicole Kleinstreuer
+  - Judy Strickland
+  - David Allen
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Environmental Health Perspectives
+  date: '2022-02-01'
+  link: https://doi.org/grhjhp
+  _cache: b0a28f48e7466f080e8a8b6c5331e007484632b7d3c1ddc8bb2ef7b7d522dce8
+- id: doi:10.1016/j.drudis.2022.02.008
+  title: Defining clinical outcome pathways
+  authors:
+  - Daniel Korn
+  - Andrew J. Thieme
+  - Vinicius M. Alves
+  - Michael Yeakey
+  - Joyce V.V.B. Borba
+  - Stephen J. Capuzzi
+  - Karamarie Fecho
+  - Chris Bizon
+  - Stephen W. Edwards
+  - Rada Chirkova
+  - Christine M. Colvis
+  - Noel T. Southall
+  - Christopher P. Austin
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Drug Discovery Today
+  date: '2022-06-01'
+  link: https://doi.org/gqg445
+  _cache: d8f8539554c6e7409b34d64807317565ffb81da81bd802ed65744227ad9bf79f
+- id: doi:10.1002/minf.202100248
+  title: "Data Mining Meets Machine Learning: A Novel ANN\u2010based Multi\u2010body\
+    \ Interaction Docking Scoring Function (MBI\u2010score) Based on Utilizing Frequent\
+    \ Geometric and Chemical Patterns of Interfacial Atoms in Native Protein\u2010\
+    ligand Complexes"
+  authors:
+  - Raed Khashan
+  - Alexander Tropsha
+  - Weifan Zheng
+  publisher: Molecular Informatics
+  date: '2022-03-09'
+  link: https://doi.org/grhjhq
+  _cache: 0d7f5015d9bd39f2b885c2cb8b96a18e04d571c3e281ce7ce3ded3e43da18949
+- id: doi:10.1021/acs.jcim.1c01285
+  title: "COVID-19 Knowledge Extractor (COKE): A Curated Repository of Drug\u2013\
+    Target Associations Extracted from the CORD-19 Corpus of Scientific Publications\
+    \ on COVID-19"
+  authors:
+  - Daniel Korn
+  - Vera Pervitsky
+  - Tesia Bobrowski
+  - Vinicius M. Alves
+  - Charles Schmitt
+  - Chris Bizon
+  - Nancy Baker
+  - Rada Chirkova
+  - Artem Cherkasov
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-11-16'
+  link: https://doi.org/grd54x
+  _cache: 5884156741eab3b872e4f85b281d12fba8f2cf5d3f5d4c9c09d14e2bc6f9e671
+- id: doi:10.1016/j.drudis.2021.10.014
+  title: Knowledge-based approaches to drug discovery for rare diseases
+  authors:
+  - Vinicius M. Alves
+  - Daniel Korn
+  - Vera Pervitsky
+  - Andrew Thieme
+  - Stephen J. Capuzzi
+  - Nancy Baker
+  - Rada Chirkova
+  - Sean Ekins
+  - Eugene N. Muratov
+  - Anthony Hickey
+  - Alexander Tropsha
+  publisher: Drug Discovery Today
+  date: '2022-02-01'
+  link: https://doi.org/gndq6q
+  _cache: 9ac75b7fbc19e774384c0f9c17d02d7c8964a83989c4d224c08ae1f083725ed2
+- id: doi:10.3390/vaccines9101186
+  title: Shedding the Light on Post-Vaccine Myocarditis and Pericarditis in COVID-19
+    and Non-COVID-19 Vaccine Recipients
+  authors:
+  - Rima Hajjo
+  - Dima A. Sabbah
+  - Sanaa K. Bardaweel
+  - Alexander Tropsha
+  publisher: Vaccines
+  date: '2021-10-15'
+  link: https://doi.org/gn9n6x
+  _cache: 78c5102af5d695fa5c078616c2dae25c52631daa5cf04ccf75eec3e9ff72b16d
+- id: doi:10.1289/EHP10369
+  title: 'Erratum: CATMoS: Collaborative Acute Toxicity Modeling Suite'
+  authors:
+  - Kamel Mansouri
+  - Agnes L. Karmaus
+  - Jeremy Fitzpatrick
+  - Grace Patlewicz
+  - Prachi Pradeep
+  - Domenico Alberga
+  - Nathalie Alepee
+  - Timothy E.H. Allen
+  - Dave Allen
+  - Vinicius M. Alves
+  - Carolina H. Andrade
+  - Tyler R. Auernhammer
+  - Davide Ballabio
+  - Shannon Bell
+  - Emilio Benfenati
+  - Sudin Bhattacharya
+  - Joyce V. Bastos
+  - Stephen Boyd
+  - J. B. Brown
+  - Stephen J. Capuzzi
+  - Yaroslav Chushak
+  - Heather Ciallella
+  - Alex M. Clark
+  - Viviana Consonni
+  - Pankaj R. Daga
+  - Sean Ekins
+  - Sherif Farag
+  - Maxim Fedorov
+  - Denis Fourches
+  - Domenico Gadaleta
+  - Feng Gao
+  - Jeffery M. Gearhart
+  - Garett Goh
+  - Jonathan M. Goodman
+  - Francesca Grisoni
+  - Christopher M. Grulke
+  - Thomas Hartung
+  - Matthew Hirn
+  - Pavel Karpov
+  - Alexandru Korotcov
+  - Giovanna J. Lavado
+  - Michael Lawless
+  - Xinhao Li
+  - Thomas Luechtefeld
+  - Filippo Lunghini
+  - Giuseppe F. Mangiatordi
+  - Gilles Marcou
+  - Dan Marsh
+  - Todd Martin
+  - Andrea Mauri
+  - Eugene N. Muratov
+  - Glenn J. Myatt
+  - Dac-Trung Nguyen
+  - Orazio Nicolotti
+  - Reine Note
+  - Paritosh Pande
+  - Amanda K. Parks
+  - Tyler Peryea
+  - Ahsan H. Polash
+  - Robert Rallo
+  - Alessandra Roncaglioni
+  - Craig Rowlands
+  - Patricia Ruiz
+  - Daniel P. Russo
+  - Ahmed Sayed
+  - Risa Sayre
+  - Timothy Sheils
+  - Charles Siegel
+  - Arthur C. Silva
+  - Anton Simeonov
+  - Sergey Sosnin
+  - Noel Southall
+  - Judy Strickland
+  - Yun Tang
+  - Brian Teppen
+  - Igor V. Tetko
+  - Dennis Thomas
+  - Valery Tkachenko
+  - Roberto Todeschini
+  - Cosimo Toma
+  - Ignacio Tripodi
+  - Daniela Trisciuzzi
+  - Alexander Tropsha
+  - Alexandre Varnek
+  - Kristijan Vukovic
+  - Zhongyu Wang
+  - Liguo Wang
+  - Katrina M. Waters
+  - Andrew J. Wedlake
+  - Sanjeeva J. Wijeyesakere
+  - Dan Wilson
+  - Zijun Xiao
+  - Hongbin Yang
+  - Gergely Zahoranszky-Kohalmi
+  - Alexey V. Zakharov
+  - Fagen F. Zhang
+  - Zhen Zhang
+  - Tongan Zhao
+  - Hao Zhu
+  - Kimberley M. Zorn
+  - Warren Casey
+  - Nicole C. Kleinstreuer
+  publisher: Environmental Health Perspectives
+  date: '2021-10-01'
+  link: https://doi.org/grhjhr
+  _cache: fb6499a6c94affe0d2e1ff8f18705651f3c7025990b37b2881e190893522bbef
+- id: doi:10.5688/ajpe8670
+  title: Moving Towards FAIR Data Practices in Pharmacy Education
+  authors:
+  - Jacqueline E. McLaughlin
+  - Alexander Tropsha
+  - Joseph A. Nicolazzo
+  - Anita Crescenzi
+  - Kim LR Brouwer
+  publisher: American Journal of Pharmaceutical Education
+  date: '2021-07-22'
+  link: https://doi.org/grhjhs
+  _cache: ace74703b67dabed034999c542f1aa62e237b561228039be58d7bcf5bad7ca57
+- id: doi:10.2196/26714
+  title: 'A Biomedical Knowledge Graph System to Propose Mechanistic Hypotheses for
+    Real-World Environmental Health Observations: Cohort Study and Informatics Application'
+  authors:
+  - Karamarie Fecho
+  - Chris Bizon
+  - Frederick Miller
+  - Shepherd Schurman
+  - Charles Schmitt
+  - William Xue
+  - Kenneth Morton
+  - Patrick Wang
+  - Alexander Tropsha
+  publisher: JMIR Medical Informatics
+  date: '2021-07-20'
+  link: https://doi.org/gndq7b
+  _cache: 2b8124db5f80a3e9a774463760c440b9a258f3654def514a406650d844abe7c5
+- id: doi:10.1289/EHP9883
+  title: 'Erratum: CATMoS: Collaborative Acute Toxicity Modeling Suite'
+  authors:
+  - Kamel Mansouri
+  - Agnes Karmaus
+  - Jeremy Fitzpatrick
+  - Grace Patlewicz
+  - Prachi Pradeep
+  - Domenico Alberga
+  - Nathalie Alepee
+  - Timothy E.H. Allen
+  - Dave Allen
+  - Vinicius M. Alves
+  - Carolina H. Andrade
+  - Tyler R. Auernhammer
+  - Davide Ballabio
+  - Shannon Bell
+  - Emilio Benfenati
+  - Sudin Bhattacharya
+  - Joyce V. Bastos
+  - Stephen Boyd
+  - J.B. Brown
+  - Stephen J. Capuzzi
+  - Yaroslav Chushak
+  - Heather Ciallella
+  - Alex M. Clark
+  - Viviana Consonni
+  - Pankaj R. Daga
+  - Sean Ekins
+  - Sherif Farag
+  - Maxim Fedorov
+  - Denis Fourches
+  - Domenico Gadaleta
+  - Feng Gao
+  - Jeffery M. Gearhart
+  - Garett Goh
+  - Jonathan M. Goodman
+  - Francesca Grisoni
+  - Christopher M. Grulke
+  - Thomas Hartung
+  - Matthew Hirn
+  - Pavel Karpov
+  - Alexandru Korotcov
+  - Giovanna J. Lavado
+  - Michael Lawless
+  - Xinhao Li
+  - Thomas Luechtefeld
+  - Filippo Lunghini
+  - Giuseppe F. Mangiatordi
+  - Gilles Marcou
+  - Dan Marsh
+  - Todd Martin
+  - Andrea Mauri
+  - Eugene N. Muratov
+  - Glenn J. Myatt
+  - Dac-Trung Nguyen
+  - Orazio Nicolotti
+  - Reine Note
+  - Paritosh Pande
+  - Amanda K. Parks
+  - Tyler Peryea
+  - Ahsan Polash
+  - Robert Rallo
+  - Alessandra Roncaglioni
+  - Craig Rowlands
+  - Patricia Ruiz
+  - Daniel Russo
+  - Ahmed Sayed
+  - Risa Sayre
+  - Timothy Sheils
+  - Charles Siegel
+  - Arthur C. Silva
+  - Anton Simeonov
+  - Sergey Sosnin
+  - Noel Southall
+  - Judy Strickland
+  - Yun Tang
+  - Brian Teppen
+  - Igor V. Tetko
+  - Dennis Thomas
+  - Valery Tkachenko
+  - Roberto Todeschini
+  - Cosimo Toma
+  - Ignacio Tripodi
+  - Daniela Trisciuzzi
+  - Alexander Tropsha
+  - Alexandre Varnek
+  - Kristijan Vukovic
+  - Zhongyu Wang
+  - Liguo Wang
+  - Katrina M. Waters
+  - Andrew J. Wedlake
+  - Sanjeeva J. Wijeyesakere
+  - Dan Wilson
+  - Zijun Xiao
+  - Hongbin Yang
+  - Gergely Zahoranszky-Kohalmi
+  - Alexey V. Zakharov
+  - Fagen F. Zhang
+  - Zhen Zhang
+  - Tongan Zhao
+  - Hao Zhu
+  - Kimberley M. Zorn
+  - Warren Casey
+  - Nicole C. Kleinstreuer
+  publisher: Environmental Health Perspectives
+  date: '2021-07-01'
+  link: https://doi.org/grhjht
+  _cache: b5dc6e8d9ded700fa65fbb3b2db0f0801153fbfbc55ad11c5dca872ab2b5073e
+- id: doi:10.1177/02611929211029635
+  title: "Curated Data In \u2014 Trustworthy <i>In Silico</i> Models Out: The Impact\
+    \ of Data Quality on the Reliability of Artificial Intelligence Models as Alternatives\
+    \ to Animal Testing"
+  authors:
+  - Vinicius M. Alves
+  - Scott S. Auerbach
+  - Nicole Kleinstreuer
+  - John P. Rooney
+  - Eugene N. Muratov
+  - Ivan Rusyn
+  - Alexander Tropsha
+  - Charles Schmitt
+  publisher: Alternatives to Laboratory Animals
+  date: '2021-05-01'
+  link: https://doi.org/grhjhv
+  _cache: 633921c23e120325f64cba007a9270257730ff7497634880e811571c3fb20247
+- id: doi:10.1039/d0cs01065k
+  title: A critical overview of computational approaches employed for COVID-19 drug
+    discovery
+  authors:
+  - Eugene N. Muratov
+  - Rommie Amaro
+  - Carolina H. Andrade
+  - Nathan Brown
+  - Sean Ekins
+  - Denis Fourches
+  - Olexandr Isayev
+  - Dima Kozakov
+  - "Jos\xE9 L. Medina-Franco"
+  - Kenneth M. Merz
+  - Tudor I. Oprea
+  - Vladimir Poroikov
+  - Gisbert Schneider
+  - Matthew H. Todd
+  - Alexandre Varnek
+  - David A. Winkler
+  - Alexey V. Zakharov
+  - Artem Cherkasov
+  - Alexander Tropsha
+  publisher: Chemical Society Reviews
+  date: '2021-01-01'
+  link: https://doi.org/gmg9nm
+  _cache: 8e1b6c636c3b550f21e224beb5418b2c491d25d63261e3627655edf9cd3d7296
+- id: doi:10.1016/j.jbi.2021.103838
+  title: Learning Drug-Disease-Target Embedding (DDTE) from knowledge graphs to inform
+    drug repurposing hypotheses
+  authors:
+  - Changsung Moon
+  - Chunming Jin
+  - Xialan Dong
+  - Saad Abrar
+  - Weifan Zheng
+  - Rada Y. Chirkova
+  - Alexander Tropsha
+  publisher: Journal of Biomedical Informatics
+  date: '2021-07-01'
+  link: https://doi.org/gmpgs6
+  _cache: c1bebb7214263ab4faaae87e28627939fe665071e516f2abf689e166cc15b04e
+- id: doi:10.1289/EHP8495
+  title: 'CATMoS: Collaborative Acute Toxicity Modeling Suite'
+  authors:
+  - Kamel Mansouri
+  - Agnes L. Karmaus
+  - Jeremy Fitzpatrick
+  - Grace Patlewicz
+  - Prachi Pradeep
+  - Domenico Alberga
+  - Nathalie Alepee
+  - Timothy E.H. Allen
+  - Dave Allen
+  - Vinicius M. Alves
+  - Carolina H. Andrade
+  - Tyler R. Auernhammer
+  - Davide Ballabio
+  - Shannon Bell
+  - Emilio Benfenati
+  - Sudin Bhattacharya
+  - Joyce V. Bastos
+  - Stephen Boyd
+  - J.B. Brown
+  - Stephen J. Capuzzi
+  - Yaroslav Chushak
+  - Heather Ciallella
+  - Alex M. Clark
+  - Viviana Consonni
+  - Pankaj R. Daga
+  - Sean Ekins
+  - Sherif Farag
+  - Maxim Fedorov
+  - Denis Fourches
+  - Domenico Gadaleta
+  - Feng Gao
+  - Jeffery M. Gearhart
+  - Garett Goh
+  - Jonathan M. Goodman
+  - Francesca Grisoni
+  - Christopher M. Grulke
+  - Thomas Hartung
+  - Matthew Hirn
+  - Pavel Karpov
+  - Alexandru Korotcov
+  - Giovanna J. Lavado
+  - Michael Lawless
+  - Xinhao Li
+  - Thomas Luechtefeld
+  - Filippo Lunghini
+  - Giuseppe F. Mangiatordi
+  - Gilles Marcou
+  - Dan Marsh
+  - Todd Martin
+  - Andrea Mauri
+  - Eugene N. Muratov
+  - Glenn J. Myatt
+  - Dac-Trung Nguyen
+  - Orazio Nicolotti
+  - Reine Note
+  - Paritosh Pande
+  - Amanda K. Parks
+  - Tyler Peryea
+  - Ahsan H. Polash
+  - Robert Rallo
+  - Alessandra Roncaglioni
+  - Craig Rowlands
+  - Patricia Ruiz
+  - Daniel P. Russo
+  - Ahmed Sayed
+  - Risa Sayre
+  - Timothy Sheils
+  - Charles Siegel
+  - Arthur C. Silva
+  - Anton Simeonov
+  - Sergey Sosnin
+  - Noel Southall
+  - Judy Strickland
+  - Yun Tang
+  - Brian Teppen
+  - Igor V. Tetko
+  - Dennis Thomas
+  - Valery Tkachenko
+  - Roberto Todeschini
+  - Cosimo Toma
+  - Ignacio Tripodi
+  - Daniela Trisciuzzi
+  - Alexander Tropsha
+  - Alexandre Varnek
+  - Kristijan Vukovic
+  - Zhongyu Wang
+  - Liguo Wang
+  - Katrina M. Waters
+  - Andrew J. Wedlake
+  - Sanjeeva J. Wijeyesakere
+  - Dan Wilson
+  - Zijun Xiao
+  - Hongbin Yang
+  - Gergely Zahoranszky-Kohalmi
+  - Alexey V. Zakharov
+  - Fagen F. Zhang
+  - Zhen Zhang
+  - Tongan Zhao
+  - Hao Zhu
+  - Kimberley M. Zorn
+  - Warren Casey
+  - Nicole C. Kleinstreuer
+  publisher: Environmental Health Perspectives
+  date: '2021-04-01'
+  link: https://doi.org/grhjhw
+  _cache: 86b0d92023a27b0fc03ad9a12c0381279eacf2d38de8ecd7523a9743da3d8cb8
+- id: doi:10.3390/diagnostics11050742
+  title: Identification of Tumor-Specific MRI Biomarkers Using Machine Learning (ML)
+  authors:
+  - Rima Hajjo
+  - Dima A. Sabbah
+  - Sanaa K. Bardaweel
+  - Alexander Tropsha
+  publisher: Diagnostics
+  date: '2021-04-21'
+  link: https://doi.org/gkdvkn
+  _cache: 5fd456637028eb3b49119370b19f70e1ab99272ae5b62f203755474001fbbf8f
+- id: doi:10.1021/acs.jcim.0c01419
+  title: 'ZINC Express: A Virtual Assistant for Purchasing Compounds Annotated in
+    the ZINC Database'
+  authors:
+  - Tesia M. Bobrowski
+  - Daniel R. Korn
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-03-05'
+  link: https://doi.org/grhjfw
+  _cache: 118e62f6f700b4fcac3c43b664512da132154cbd8d85170e5f36bd5cb105d139
+- id: doi:10.1021/acs.jcim.0c01164
+  title: Large-Scale Modeling of Multispecies Acute Toxicity End Points Using Consensus
+    of Multitask Deep Learning Methods
+  authors:
+  - Sankalp Jain
+  - Vishal B. Siramshetty
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Nicole Kleinstreuer
+  - Alexander Tropsha
+  - Marc C. Nicklaus
+  - Anton Simeonov
+  - Alexey V. Zakharov
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-02-03'
+  link: https://doi.org/gndrvt
+  _cache: 21eb01a7e45e5afd764b4e9e0cf467abdc63d89a9e608b2dc255fb21c723e8af
+- id: doi:10.1002/minf.202000113
+  title: "QSAR Modeling of SARS\u2010CoV M<sup>pro</sup>Inhibitors Identifies Sufugolix,\
+    \ Cenicriviroc, Proglumetacin, and other Drugs as Candidates for Repurposing against\
+    \ SARS\u2010CoV\u20102"
+  authors:
+  - Vinicius M. Alves
+  - Tesia Bobrowski
+  - "Cleber C. Melo\u2010Filho"
+  - Daniel Korn
+  - Scott Auerbach
+  - Charles Schmitt
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2020-08-24'
+  link: https://doi.org/gg6mxz
+  _cache: 72e14cf26e3aec3837a6e75a06056d0811c0fbb466de11efb4d986dd4289ae1b
+- id: doi:10.1021/acs.jcim.0c00971
+  title: 'OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design'
+  authors:
+  - Maria Korshunova
+  - Boris Ginsburg
+  - Alexander Tropsha
+  - Olexandr Isayev
+  publisher: Journal of Chemical Information and Modeling
+  date: '2021-01-04'
+  link: https://doi.org/ghrvbs
+  _cache: 8ec86272c16e48c08b82a7fe435b4a80aa3de9296f156f69258ca855e75f3005
+- id: doi:10.1021/acs.jcim.0c01389
+  title: 'Editorial: Method and Data Sharing and Reproducibility of Scientific Results'
+  authors:
+  - Kenneth M. Merz
+  - Rommie Amaro
+  - Zoe Cournia
+  - Matthias Rarey
+  - Thereza Soares
+  - Alexander Tropsha
+  - Habibah A. Wahab
+  - Renxiao Wang
+  publisher: Journal of Chemical Information and Modeling
+  date: '2020-12-28'
+  link: https://doi.org/ghqz58
+  _cache: 554559a45cf595301986b6c5fe563e6eebde528af71ed2aa21fe5bea6a4a8068
+- id: doi:10.26434/chemrxiv.13289222
+  title: 'COVID-19 Knowledge Extractor (COKE): A Tool and a Web Portal to Extract
+    Drug - Target Protein Associations from the CORD-19 Corpus of Scientific Publications
+    on COVID-19'
+  authors:
+  - Daniel Korn
+  - Vera Pervitsky
+  - Tesia Bobrowski
+  - Vinicius Alves
+  - Charles Schmitt
+  - Cristopher Bizon
+  - Nancy Baker
+  - Rada Chirkova
+  - Artem Cherkasov
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2020-11-26'
+  link: https://doi.org/grhjhx
+  _cache: fef942721f5377767b243caf0aa07d2561f26ea6f1121d81660a5bf02d7de567
+- id: doi:10.2196/17964
+  title: 'Visualization Environment for Federated Knowledge Graphs: Development of
+    an Interactive Biomedical Query Language and Web Application Interface'
+  authors:
+  - Steven Cox
+  - Stanley C Ahalt
+  - James Balhoff
+  - Chris Bizon
+  - Karamarie Fecho
+  - Yaphet Kebede
+  - Kenneth Morton
+  - Alexander Tropsha
+  - Patrick Wang
+  - Hao Xu
+  publisher: JMIR Medical Informatics
+  date: '2020-11-23'
+  link: https://doi.org/gndqz9
+  _cache: a16d929d53b34705cd5d1016d115b619aa7f487220a75bae87e912912631b75a
+- id: doi:10.1093/bioinformatics/btaa718
+  title: 'COVID-KOP: integrating emerging COVID-19 data with the ROBOKOP database'
+  authors:
+  - Daniel Korn
+  - Tesia Bobrowski
+  - Michael Li
+  - Yaphet Kebede
+  - Patrick Wang
+  - Phillips Owen
+  - Gaurav Vaidya
+  - Eugene Muratov
+  - Rada Chirkova
+  - Chris Bizon
+  - Alexander Tropsha
+  publisher: Bioinformatics
+  date: '2020-11-11'
+  link: https://doi.org/gk72tg
+  _cache: bed9f81f421f9c492a94e33f96664c73cd265ecc0caaebe4765627ca0c7f1cd5
+- id: doi:10.1007/s11095-020-02930-9
+  title: 'A Systems Biology Workflow for Drug and Vaccine Repurposing: Identifying
+    Small-Molecule BCG Mimics to Reduce or Prevent COVID-19 Mortality'
+  authors:
+  - Rima Hajjo
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2020-10-06'
+  link: https://doi.org/gmnhzz
+  _cache: a98f529a0a0adbe3337ec524a8baf23d408d2580be855f7853104a58a87f5efa
+- id: doi:10.1016/j.drudis.2020.09.021
+  title: Recent progress on cheminformatics approaches to epigenetic drug discovery
+  authors:
+  - Zoe Sessions
+  - "Norberto S\xE1nchez-Cruz"
+  - "Fernando D. Prieto-Mart\xEDnez"
+  - Vinicius M. Alves
+  - Hudson P. Santos
+  - Eugene Muratov
+  - Alexander Tropsha
+  - "Jos\xE9 L. Medina-Franco"
+  publisher: Drug Discovery Today
+  date: '2020-12-01'
+  link: https://doi.org/grhjhz
+  _cache: 98bd97eb0e8cdd0b8f7f718a2459c44b1573e0309d07ca3df7c73206dafb982b
+- id: doi:10.1016/j.jbi.2020.103579
+  title: 'A semantic similarity based methodology for predicting protein-protein interactions:
+    Evaluation with P53-interacting kinases'
+  authors:
+  - Steven Cox
+  - Xialan Dong
+  - Ruhi Rai
+  - Laura Christopherson
+  - Weifan Zheng
+  - Alexander Tropsha
+  - Charles Schmitt
+  publisher: Journal of Biomedical Informatics
+  date: '2020-11-01'
+  link: https://doi.org/grhjh2
+  _cache: 9f0cabef423aea59f46d7aa0dc08165ddbecd7123229b4e5cad94f505e6ae4dc
+- id: doi:10.1021/acs.jmedchem.0c01338
+  title: "Correction to \u201CSynthesis and Structure\u2013Activity Relationships\
+    \ of DCLK1 Kinase Inhibitors Based on a 5,11-Dihydro-6<i>H</i>-benzo[<i>e</i>]pyrimido[5,4-<i>b</i>][1,4]diazepin-6-one\
+    \ Scaffold\u201D"
+  authors:
+  - Fleur M. Ferguson
+  - Yan Liu
+  - Wayne Harshbarger
+  - Ling Huang
+  - Jinhua Wang
+  - Xianming Deng
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  - Senthil Muthuswamy
+  - Kenneth D. Westover
+  - Nathanael S. Gray
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-08-13'
+  link: https://doi.org/grhjf3
+  _cache: abcbc779b77603847103bc2eddeec50db6ad941569867d0122bea4635487df6b
+- id: doi:10.1016/j.drudis.2020.07.008
+  title: 'Learning from history: do not flatten the curve of antiviral research!'
+  authors:
+  - Tesia Bobrowski
+  - Cleber C. Melo-Filho
+  - Daniel Korn
+  - Vinicius M. Alves
+  - Konstantin I. Popov
+  - Scott Auerbach
+  - Charles Schmitt
+  - Nathaniel J. Moorman
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Drug Discovery Today
+  date: '2020-09-01'
+  link: https://doi.org/gg4458
+  _cache: c1f0a37dd6b85e998a65651daeded38286640d5b9c32a914cee4867af5ae7d62
+- id: doi:10.1021/acs.jcim.0c00415
+  title: 'SCAM Detective: Accurate Predictor of Small, Colloidally Aggregating Molecules'
+  authors:
+  - Vinicius M. Alves
+  - Stephen J. Capuzzi
+  - Rodolpho C. Braga
+  - Daniel Korn
+  - Joshua E. Hochuli
+  - Kyle H. Bowler
+  - Adam Yasgar
+  - Ganesha Rai
+  - Anton Simeonov
+  - Eugene N. Muratov
+  - Alexey V. Zakharov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2020-07-17'
+  link: https://doi.org/gq7zjz
+  _cache: 1880b97a170ca5c1c2ead7704bb1e34cc3adfe492ab52b06c647eddfe2d1e16a
+- id: doi:10.1021/acs.chemrestox.0c00186
+  title: 'Pred-Skin: A Web Portal for Accurate Prediction of Human Skin Sensitizers'
+  authors:
+  - Joyce V. B. Borba
+  - Rodolpho C. Braga
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Nicole Kleinstreuer
+  - Alexander Tropsha
+  - Carolina Horta Andrade
+  publisher: Chemical Research in Toxicology
+  date: '2020-07-16'
+  link: https://doi.org/grhjfx
+  _cache: 8b09fe5b8b68fdfd88eab0203cdfed4fd94fe6404b2f932335b70e9d200db368
+- id: doi:10.26434/chemrxiv.12462623
+  title: 'COVID-KOP: Integrating Emerging COVID-19 Data with the ROBOKOP Database'
+  authors:
+  - Daniel Korn
+  - Tesia Bobrowski
+  - Michael Li
+  - Yaphet Kebede
+  - Patrick Wang
+  - Phillips Owen
+  - Gaurav Vaidya
+  - Eugene Muratov
+  - Rada Chirkova
+  - Cristopher Bizon
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2020-06-18'
+  link: https://doi.org/gk7mzh
+  _cache: 130d9f221672b7c75ed75e6c3b06d0023c6b63f152a59f9bd8985027e4c065ac
+- id: doi:10.3390/biom10060913
+  title: Computer-Aided Discovery of New Solubility-Enhancing Drug Delivery System
+  authors:
+  - "Miko\u0142aj Mizera"
+  - Eugene N. Muratov
+  - Vinicius M. Alves
+  - Alexander Tropsha
+  - Judyta Cielecka-Piontek
+  publisher: Biomolecules
+  date: '2020-06-16'
+  link: https://doi.org/grhjh3
+  _cache: 94b5e78171716a0617bcfc55e1b033048dc0611356e6e2b968dd5510bbddea85
+- id: doi:10.1021/acs.jmedchem.0c00596
+  title: "Synthesis and Structure\u2013Activity Relationships of DCLK1 Kinase Inhibitors\
+    \ Based on a 5,11-Dihydro-6<i>H</i>-benzo[<i>e</i>]pyrimido[5,4-<i>b</i>][1,4]diazepin-6-one\
+    \ Scaffold"
+  authors:
+  - Fleur M. Ferguson
+  - Yan Liu
+  - Wayne Harshbarger
+  - Ling Huang
+  - Jinhua Wang
+  - Xianming Deng
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  - Senthil Muthuswamy
+  - Kenneth D. Westover
+  - Nathanael S. Gray
+  publisher: Journal of Medicinal Chemistry
+  date: '2020-06-12'
+  link: https://doi.org/grhjf4
+  _cache: d762ec565b8b6f62d148b9044221d5a1ecdcdec33f46f78210205a1daa3d75a4
+- id: doi:10.26434/chemrxiv.12153594
+  title: Computational Models Identify Several FDA Approved or Experimental Drugs
+    as Putative Agents Against SARS-CoV-2
+  authors:
+  - Tesia Bobrowski
+  - Vinicius Alves
+  - Cleber C. Melo-Filho
+  - Daniel Korn
+  - Scott S. Auerbach
+  - Charles Schmitt
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2020-04-22'
+  link: https://doi.org/ghwtp8
+  _cache: 7c56fecd069ef2d4d34df1939d082f86d2ef2e1f7f2bf51294a5afd521327552
+- id: doi:10.1007/s11095-020-02842-8
+  title: Repurposing Quaternary Ammonium Compounds as Potential Treatments for COVID-19
+  authors:
+  - Nancy Baker
+  - Antony J. Williams
+  - Alexander Tropsha
+  - Sean Ekins
+  publisher: Pharmaceutical Research
+  date: '2020-05-25'
+  link: https://doi.org/grhjh4
+  _cache: aeaa87c07425a960a140cf97a86ab72366ee94090c350eabe237cb525773721a
+- id: doi:10.1039/d0cs90041a
+  title: 'Correction: QSAR without borders'
+  authors:
+  - Eugene N. Muratov
+  - "J\xFCrgen Bajorath"
+  - Robert P. Sheridan
+  - Igor V. Tetko
+  - Dmitry Filimonov
+  - Vladimir Poroikov
+  - Tudor I. Oprea
+  - Igor I. Baskin
+  - Alexandre Varnek
+  - Adrian Roitberg
+  - Olexandr Isayev
+  - Stefano Curtarolo
+  - Denis Fourches
+  - Yoram Cohen
+  - Alan Aspuru-Guzik
+  - David A. Winkler
+  - Dimitris Agrafiotis
+  - Artem Cherkasov
+  - Alexander Tropsha
+  publisher: Chemical Society Reviews
+  date: '2020-01-01'
+  link: https://doi.org/grhjh5
+  _cache: 92421865b22323ea09edf94b05823cb12126df4f6a8ea8ce87d6844b983c38cd
+- id: doi:10.1039/d0cs00098a
+  title: QSAR without borders
+  authors:
+  - Eugene N. Muratov
+  - "J\xFCrgen Bajorath"
+  - Robert P. Sheridan
+  - Igor V. Tetko
+  - Dmitry Filimonov
+  - Vladimir Poroikov
+  - Tudor I. Oprea
+  - Igor I. Baskin
+  - Alexandre Varnek
+  - Adrian Roitberg
+  - Olexandr Isayev
+  - Stefano Curtalolo
+  - Denis Fourches
+  - Yoram Cohen
+  - Alan Aspuru-Guzik
+  - David A. Winkler
+  - Dimitris Agrafiotis
+  - Artem Cherkasov
+  - Alexander Tropsha
+  publisher: Chemical Society Reviews
+  date: '2020-01-01'
+  link: https://doi.org/ghm7q8
+  _cache: c4f0b006f6d22aa481e0eb0aba8120c679fc1e6c97eb417abd46a70a4be722a5
+- id: doi:10.1016/j.csbj.2020.02.023
+  title: 'NanoSolveIT Project: Driving nanoinformatics research to develop innovative
+    and integrated tools for in silico nanosafety assessment'
+  authors:
+  - Antreas Afantitis
+  - Georgia Melagraki
+  - Panagiotis Isigonis
+  - Andreas Tsoumanis
+  - Dimitra Danai Varsou
+  - Eugenia Valsami-Jones
+  - Anastasios Papadiamantis
+  - Laura-Jayne A. Ellis
+  - Haralambos Sarimveis
+  - Philip Doganis
+  - Pantelis Karatzas
+  - Periklis Tsiros
+  - Irene Liampa
+  - Vladimir Lobaskin
+  - Dario Greco
+  - Angela Serra
+  - Pia Anneli Sofia Kinaret
+  - "Laura Aliisa Saarim\xE4ki"
+  - "Roland Grafstr\xF6m"
+  - Pekka Kohonen
+  - Penny Nymark
+  - Egon Willighagen
+  - Tomasz Puzyn
+  - Anna Rybinska-Fryca
+  - Alexander Lyubartsev
+  - Keld Alstrup Jensen
+  - Jan Gerit Brandenburg
+  - Stephen Lofts
+  - Claus Svendsen
+  - Samuel Harrison
+  - Dieter Maier
+  - Kaido Tamm
+  - "Jaak J\xE4nes"
+  - Lauri Sikk
+  - Maria Dusinska
+  - Eleonora Longhin
+  - "Elise Rund\xE9n-Pran"
+  - Espen Mariussen
+  - Naouale El Yamani
+  - Wolfgang Unger
+  - "J\xF6rg Radnik"
+  - Alexander Tropsha
+  - Yoram Cohen
+  - Jerzy Leszczynski
+  - Christine Ogilvie Hendren
+  - Mark Wiesner
+  - David Winkler
+  - Noriyuki Suzuki
+  - Tae Hyun Yoon
+  - Jang-Sik Choi
+  - Natasha Sanabria
+  - Mary Gulumian
+  - Iseult Lynch
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gh3n5k
+  _cache: a88a43edd5b1208e49b2e88812787d28054e134fdf04096195b58708018a45aa
+- id: doi:10.1021/acs.jcim.0c00140
+  title: Joint Virtual Special Issue on Computational Toxicology
+  authors:
+  - Igor V. Tetko
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2020-02-26'
+  link: https://doi.org/grhjh6
+  _cache: e539c83c0a41c66012ba17897043a9f4404e5e2a8985c7ea183843d8d202599c
+- id: doi:10.1289/EHP5580
+  title: 'CoMPARA: Collaborative Modeling Project for Androgen Receptor Activity'
+  authors:
+  - Kamel Mansouri
+  - Nicole Kleinstreuer
+  - Ahmed M. Abdelaziz
+  - Domenico Alberga
+  - Vinicius M. Alves
+  - Patrik L. Andersson
+  - Carolina H. Andrade
+  - Fang Bai
+  - Ilya Balabin
+  - Davide Ballabio
+  - Emilio Benfenati
+  - Barun Bhhatarai
+  - Scott Boyer
+  - Jingwen Chen
+  - Viviana Consonni
+  - Sherif Farag
+  - Denis Fourches
+  - "Alfonso T. Garc\xEDa-Sosa"
+  - Paola Gramatica
+  - Francesca Grisoni
+  - Chris M. Grulke
+  - Huixiao Hong
+  - Dragos Horvath
+  - Xin Hu
+  - Ruili Huang
+  - Nina Jeliazkova
+  - Jiazhong Li
+  - Xuehua Li
+  - Huanxiang Liu
+  - Serena Manganelli
+  - Giuseppe F. Mangiatordi
+  - Uko Maran
+  - Gilles Marcou
+  - Todd Martin
+  - Eugene Muratov
+  - Dac-Trung Nguyen
+  - Orazio Nicolotti
+  - Nikolai G. Nikolov
+  - Ulf Norinder
+  - Ester Papa
+  - Michel Petitjean
+  - Geven Piir
+  - Pavel Pogodin
+  - Vladimir Poroikov
+  - Xianliang Qiao
+  - Ann M. Richard
+  - Alessandra Roncaglioni
+  - Patricia Ruiz
+  - Chetan Rupakheti
+  - Sugunadevi Sakkiah
+  - Alessandro Sangion
+  - Karl-Werner Schramm
+  - Chandrabose Selvaraj
+  - Imran Shah
+  - Sulev Sild
+  - Lixia Sun
+  - Olivier Taboureau
+  - Yun Tang
+  - Igor V. Tetko
+  - Roberto Todeschini
+  - Weida Tong
+  - Daniela Trisciuzzi
+  - Alexander Tropsha
+  - George Van Den Driessche
+  - Alexandre Varnek
+  - Zhongyu Wang
+  - Eva B. Wedebye
+  - Antony J. Williams
+  - Hongbin Xie
+  - Alexey V. Zakharov
+  - Ziye Zheng
+  - Richard S. Judson
+  publisher: Environmental Health Perspectives
+  date: '2020-02-01'
+  link: https://doi.org/gjd4d3
+  _cache: 458f0c1e535f66f45309f658c5d3c21507ed4cb33e9c6821cc6943bd995fc7a4
+- id: doi:10.1080/07391102.2019.1704879
+  title: "An atypical heterotrimeric G\u03B1 protein has substantially reduced nucleotide\
+    \ binding but retains nucleotide-independent interactions with its cognate RGS\
+    \ protein and G\u03B2\u03B3 dimer"
+  authors:
+  - Fei Lou
+  - Tigran M. Abramyan
+  - Haiyan Jia
+  - Alexander Tropsha
+  - Alan M. Jones
+  publisher: Journal of Biomolecular Structure and Dynamics
+  date: '2019-12-23'
+  link: https://doi.org/grhjh7
+  _cache: 17cc2da8e0d825b2df1529421ec31a94d9caf98c3bf4e794e265a63be65f8d64
+- id: doi:10.1021/acs.jcim.9b00683
+  title: 'ROBOKOP KG and KGB: Integrated Knowledge Graphs from Federated Sources'
+  authors:
+  - Chris Bizon
+  - Steven Cox
+  - James Balhoff
+  - Yaphet Kebede
+  - Patrick Wang
+  - Kenneth Morton
+  - Karamarie Fecho
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2019-11-26'
+  link: https://doi.org/gj7chr
+  _cache: 919c70fd22f425d34fbb542d9f0de675646c62685b47fdac6695bd244e015e2b
+- id: doi:10.1093/bioinformatics/btz604
+  title: 'ROBOKOP: an abstraction layer and user interface for knowledge graphs to
+    support question answering'
+  authors:
+  - Kenneth Morton
+  - Patrick Wang
+  - Chris Bizon
+  - Steven Cox
+  - James Balhoff
+  - Yaphet Kebede
+  - Karamarie Fecho
+  - Alexander Tropsha
+  publisher: Bioinformatics
+  date: '2019-08-13'
+  link: https://doi.org/gj7chw
+  _cache: 7435a31e5572d39c8c5a002d3d9a5955a6c2a796af02a873f69e32911468533e
+- id: doi:10.1126/sciadv.aav9784
+  title: Cheminformatics-driven discovery of polymeric micelle formulations for poorly
+    soluble drugs
+  authors:
+  - Vinicius M. Alves
+  - Duhyeong Hwang
+  - Eugene Muratov
+  - Marina Sokolsky-Papkov
+  - Ekaterina Varlamova
+  - Natasha Vinod
+  - Chaemin Lim
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  - Alexander Kabanov
+  publisher: Science Advances
+  date: '2019-06-07'
+  link: https://doi.org/grhjf7
+  _cache: 7ffd220f7b300f4b29e1e8c764d3e31e4b366822445cb84e255d7217e8b87b4a
+- id: doi:10.1093/jamia/ocz042
+  title: 'A novel approach for exposing and sharing clinical data: the Translator
+    Integrated Clinical and Environmental Exposures Service'
+  authors:
+  - Karamarie Fecho
+  - Emily Pfaff
+  - Hao Xu
+  - James Champion
+  - Steve Cox
+  - Lisa Stillwell
+  - David B Peden
+  - Chris Bizon
+  - Ashok Krishnamurthy
+  - Alexander Tropsha
+  - Stanley C Ahalt
+  publisher: Journal of the American Medical Informatics Association
+  date: '2019-04-26'
+  link: https://doi.org/grhjh8
+  _cache: 8d0c0ee8ccdc7686f45e65bc18ad586f8491a6eb63aaec8b4c6ec5783886cf9b
+- id: doi:10.1021/acs.jcim.8b00927
+  title: Materials Informatics
+  authors:
+  - Hanoch Senderowitz
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-12-24'
+  link: https://doi.org/gfs7x2
+  _cache: e856e1a2bd75d279d5e3ffbed8ceef8c78c42fee13bea46b5ea8bd5d6c9de5cf
+- id: doi:10.1093/bioinformatics/btz127
+  title: Inter-Modular Linkers play a crucial role in governing the biosynthesis of
+    non-ribosomal peptides
+  authors:
+  - Sherif Farag
+  - Rachel M Bleich
+  - Elizabeth A Shank
+  - Olexandr Isayev
+  - Albert A Bowers
+  - Alexander Tropsha
+  publisher: Bioinformatics
+  date: '2019-02-20'
+  link: https://doi.org/grhjh9
+  _cache: 5fae3c391a293ad67dbfa74742e46143f19edb3ca26772d052317ca5b585fc7e
+- id: doi:10.1021/acs.jcim.8b00747
+  title: "Quantitative Structure\u2013Price Relationship (QS$R) Modeling and the Development\
+    \ of Economically Feasible Drug Discovery Projects"
+  authors:
+  - Michael Fernandez
+  - Fuqiang Ban
+  - Godwin Woo
+  - Oleksandr Isaev
+  - Carl Perez
+  - Valery Fokin
+  - Alexander Tropsha
+  - Artem Cherkasov
+  publisher: Journal of Chemical Information and Modeling
+  date: '2019-02-15'
+  link: https://doi.org/gfv7f2
+  _cache: 49bcdc2a1c98ae970a0bd1686eb7f0fcecfa9bd3c70595245ab2baad4ffa8051
+- id: doi:10.1093/toxsci/kfy286
+  title: "Oy Vey! A Comment on \u201CMachine Learning of Toxicological Big Data Enables\
+    \ Read-Across Structure Activity Relationships Outperforming Animal Test Reproducibility\u201D"
+  authors:
+  - Vinicius M Alves
+  - Joyce Borba
+  - Stephen J Capuzzi
+  - Eugene Muratov
+  - Carolina H Andrade
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Toxicological Sciences
+  date: '2018-11-30'
+  link: https://doi.org/grhjjb
+  _cache: b3b9d7ba4058209453a4899a9bd27c6c801e9c2e938cc544968c7e4fcd9fa97e
+- id: doi:10.1021/acs.jcim.8b00450
+  title: "Chemistry-Wide Association Studies (CWAS): A Novel Framework for Identifying\
+    \ and Interpreting Structure\u2013Activity Relationships"
+  authors:
+  - Yen S. Low
+  - Vinicius M. Alves
+  - Denis Fourches
+  - Alexander Sedykh
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-10-30'
+  link: https://doi.org/gfpbt9
+  _cache: f3462d24f9b9babc9b64704959b6812089bf88425cf7710a2f5943fe6cc0e17d
+- id: doi:10.1126/sciadv.aap7885
+  title: Deep reinforcement learning for de novo drug design
+  authors:
+  - Mariya Popova
+  - Olexandr Isayev
+  - Alexander Tropsha
+  publisher: Science Advances
+  date: '2018-07-06'
+  link: https://doi.org/gdzfdc
+  _cache: 63f6da6fca3ea52ad4d619a3ca8c3b3aa32acf0aba39691fb49342a37cee043e
+- id: doi:10.1007/s10822-018-0135-9
+  title: 'Chemistry, information and Frank: a tribute to Frank Brown'
+  authors:
+  - Dimitris K. Agrafiotis
+  - M. Katharine Holloway
+  - Scott Arne Johnson
+  - Charles H. Reynolds
+  - Terry Richard Stouch
+  - Alexander Tropsha
+  - Chris L. Waller
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2018-07-01'
+  link: https://doi.org/grhjjc
+  _cache: b8e772cf4d77f324d0ee092800048281efed763765bbcb5ca872eed416bf48e5
+- id: doi:10.1007/s40264-018-0688-5
+  title: Predicting Adverse Drug Effects from Literature- and Database-Mined Assertions
+  authors:
+  - Mary K. La
+  - Alexander Sedykh
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Drug Safety
+  date: '2018-06-06'
+  link: https://doi.org/grhjf8
+  _cache: 25d7122ae8d7b3a01c8947d6d580d647c026c2dd0e2461fe1681e74f762f5581
+- id: doi:10.1289/EHP2998
+  title: "Conditional Toxicity Value (CTV) Predictor: An\n            <i>In Silico</i>\n\
+    \            Approach for Generating Quantitative Risk Estimates for Chemicals"
+  authors:
+  - Jessica A. Wignall
+  - Eugene Muratov
+  - Alexander Sedykh
+  - Kathryn Z. Guyton
+  - Alexander Tropsha
+  - Ivan Rusyn
+  - Weihsueh A. Chiu
+  publisher: Environmental Health Perspectives
+  date: '2018-05-21'
+  link: https://doi.org/gdk7k4
+  _cache: 7a53b1e486a3256b4d751b06e5048f6bfc1624d3496c7d2a7fc12c81f36f7694
+- id: doi:10.1021/acs.jcim.8b00124
+  title: "Multi-Descriptor Read Across (MuDRA): A Simple and Transparent Approach\
+    \ for Developing Accurate Quantitative Structure\u2013Activity Relationship Models"
+  authors:
+  - Vinicius M. Alves
+  - Alexander Golbraikh
+  - Stephen J. Capuzzi
+  - Kammy Liu
+  - Wai In Lam
+  - Daniel Robert Korn
+  - Diane Pozefsky
+  - Carolina Horta Andrade
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-05-29'
+  link: https://doi.org/gdvdvh
+  _cache: 4db9b54c733880a35e40eb8e33a398dace61d9a14fc0e8bb3e9c75b88c05f484
+- id: doi:10.1021/acs.jcim.8b00016
+  title: Materials Informatics
+  authors:
+  - Hanoch Senderowitz
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-04-11'
+  link: https://doi.org/grhjf9
+  _cache: 3e243a9ea4c0084f430ad600d4213bdeb5812251439d4e6595703f20c79d9b55
+- id: doi:10.1021/acs.jmedchem.8b00035
+  title: Computer-Aided Discovery and Characterization of Novel Ebola Virus Inhibitors
+  authors:
+  - Stephen J. Capuzzi
+  - Wei Sun
+  - Eugene N. Muratov
+  - "Carles Mart\xEDnez-Romero"
+  - Shihua He
+  - Wenjun Zhu
+  - Hao Li
+  - Gregory Tawa
+  - Ethan G. Fisher
+  - Miao Xu
+  - Paul Shinn
+  - Xiangguo Qiu
+  - "Adolfo Garc\xEDa-Sastre"
+  - Wei Zheng
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2018-04-06'
+  link: https://doi.org/gdhg46
+  _cache: b8cea4a31f06623c262bc359c83118824d8dce0f3e698efb88ddd71dfe3619c9
+- id: doi:10.18632/oncotarget.23462
+  title: Quantitative high-throughput phenotypic screening of pediatric cancer cell
+    lines identifies multiple opportunities for drug repurposing
+  authors:
+  - Min Shen
+  - Rosita Asawa
+  - Ya-Qin Zhang
+  - Elizabeth Cunningham
+  - Hongmao Sun
+  - Alexander Tropsha
+  - William P. Janzen
+  - Eugene N. Muratov
+  - Stephen J. Capuzzi
+  - Sherif Farag
+  - Ajit Jadhav
+  - Julie Blatt
+  - Anton Simeonov
+  - Natalia J. Martinez
+  publisher: Oncotarget
+  date: '2017-12-19'
+  link: https://doi.org/grhjjf
+  _cache: eefe9d7fc27162f2de54ce688a9e3fd2a1626c2af58cd121b563c08ed553f148
+- id: doi:10.1016/j.drudis.2018.01.018
+  title: A bibliometric review of drug repurposing
+  authors:
+  - Nancy C. Baker
+  - Sean Ekins
+  - Antony J. Williams
+  - Alexander Tropsha
+  publisher: Drug Discovery Today
+  date: '2018-03-01'
+  link: https://doi.org/gjrdwh
+  _cache: 05dcf7e1dde6b6c0ddd755977d5931e5f1d7ad4b669695d15fa40a54d255b77d
+- id: doi:10.1021/acs.jcim.7b00589
+  title: "Chemotext: A Publicly Available Web Server for Mining Drug\u2013Target\u2013\
+    Disease Relationships in PubMed"
+  authors:
+  - Stephen J. Capuzzi
+  - Thomas E. Thornton
+  - Kammy Liu
+  - Nancy Baker
+  - Wai In Lam
+  - "Colin P. O\u2019Banion"
+  - Eugene N. Muratov
+  - Diane Pozefsky
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2018-01-19'
+  link: https://doi.org/gft9kg
+  _cache: fd4c7a5056bd654100d081b2f534cbe060f11677d2dcdfe158881ccdebf78607
+- id: doi:10.1038/nnano.2017.233
+  title: Reproducibility, sharing and progress in nanomaterial databases
+  authors:
+  - Alexander Tropsha
+  - Karmann C. Mills
+  - Anthony J. Hickey
+  publisher: Nature Nanotechnology
+  date: '2017-12-01'
+  link: https://doi.org/grhjjg
+  _cache: 0e2f50b83352dbc4d0a426801dd249aa523d328b66a4ce012064a150340ce8f2
+- id: doi:10.3390/ph10030066
+  title: Modernization of Enoxaparin Molecular Weight Determination Using Homogeneous
+    Standards
+  authors:
+  - Katelyn Arnold
+  - Stephen Capuzzi
+  - Yongmei Xu
+  - Eugene Muratov
+  - Kevin Carrick
+  - Anita Szajek
+  - Alexander Tropsha
+  - Jian Liu
+  publisher: Pharmaceuticals
+  date: '2017-07-22'
+  link: https://doi.org/grhjjh
+  _cache: 6b1baa5bf494cfcb93026128f21e9a954eafd2599e6f60aba955b1405052f83b
+- id: doi:10.1039/C6GC01836J
+  title: QSAR models of human data can enrich or replace LLNA testing for human skin
+    sensitization
+  authors:
+  - Vinicius M. Alves
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Rodolpho C. Braga
+  - Thomas E. Thornton
+  - Denis Fourches
+  - Judy Strickland
+  - Nicole Kleinstreuer
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  publisher: Green Chemistry
+  date: '2016-01-01'
+  link: https://doi.org/gk6kv6
+  _cache: 991942656da7676947f5505144613cb71ac861cee5319c753050a9c149f3353c
+- id: doi:10.1038/ncomms15679
+  title: Universal fragment descriptors for predicting properties of inorganic crystals
+  authors:
+  - Olexandr Isayev
+  - Corey Oses
+  - Cormac Toher
+  - Eric Gossett
+  - Stefano Curtarolo
+  - Alexander Tropsha
+  publisher: Nature Communications
+  date: '2017-06-05'
+  link: https://doi.org/gbgspz
+  _cache: f3bc5769d7cbdfcad0685c5101efe304d938135db08ca4b41aa273b8ae944fe2
+- id: doi:10.1039/C6GC01492E
+  title: Alarms about structural alerts
+  authors:
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Stephen J. Capuzzi
+  - Regina Politi
+  - Yen Low
+  - Rodolpho C. Braga
+  - Alexey V. Zakharov
+  - Alexander Sedykh
+  - Elena Mokshyna
+  - Sherif Farag
+  - Carolina H. Andrade
+  - Victor E. Kuz'min
+  - Denis Fourches
+  - Alexander Tropsha
+  publisher: Green Chemistry
+  date: '2016-01-01'
+  link: https://doi.org/gd4thc
+  _cache: 1c90c480de2960abae619375fd99d088cfb94f93df8663e866e02fcc33122862
+- id: doi:10.5688/ajpe81346
+  title: Computer-Assisted Decision Support for Student Admissions Based on Their
+    Predicted Academic Performance
+  authors:
+  - Eugene Muratov
+  - Margaret Lewis
+  - Denis Fourches
+  - Alexander Tropsha
+  - Wendy C. Cox
+  publisher: American Journal of Pharmaceutical Education
+  date: '2017-04-01'
+  link: https://doi.org/grhjjk
+  _cache: 80f62425ca5e59bdc40a7d275d11fa3106f2e92cf004a6ad95ddcea9dd08f733
+- id: doi:10.1016/j.fct.2017.04.008
+  title: 'Chemical toxicity prediction for major classes of industrial chemicals:
+    Is it possible to develop universal models covering cosmetics, drugs, and pesticides?'
+  authors:
+  - Vinicius M. Alves
+  - Eugene N. Muratov
+  - Alexey Zakharov
+  - Nail N. Muratov
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  publisher: Food and Chemical Toxicology
+  date: '2018-02-01'
+  link: https://doi.org/gc4qf6
+  _cache: 6118e99385501f6e30270005e8f8df923ff0aca99ab347c784f752263f1de80e
+- id: doi:10.1016/j.jconrel.2017.02.015
+  title: New drug candidates for liposomal delivery identified by computer modeling
+    of liposomes' remote loading and leakage
+  authors:
+  - Ahuva Cern
+  - David Marcus
+  - Alexander Tropsha
+  - Yechezkel Barenholz
+  - Amiram Goldblum
+  publisher: Journal of Controlled Release
+  date: '2017-04-01'
+  link: https://doi.org/gbjw5p
+  _cache: 3ce7c0c7638ef6d1ec7da505b56fbf3a0afaca9610f01bfee33b9f800bcb60fe
+- id: doi:10.1021/acs.jcim.6b00465
+  title: 'Phantom PAINS: Problems with the Utility of Alerts for <u>P</u>an-<u>A</u>ssay
+    <u>IN</u>terference Compound<u>S</u>'
+  authors:
+  - Stephen J. Capuzzi
+  - Eugene N. Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2017-02-25'
+  link: https://doi.org/f9th74
+  _cache: 1674ef4c45e26a914b6ce37263e891bd4491f2fe6797d2f665bf4aca1464c581
+- id: doi:10.1021/acs.jcim.6b00462
+  title: 'Chembench: A Publicly Accessible, Integrated Cheminformatics Portal'
+  authors:
+  - Stephen J. Capuzzi
+  - Ian Sang-June Kim
+  - Wai In Lam
+  - Thomas E. Thornton
+  - Eugene N. Muratov
+  - Diane Pozefsky
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2017-01-19'
+  link: https://doi.org/f9nfnx
+  _cache: 520b7d3a701f91ce7b0db2291af6bca59db671bc1ec0b4fa55fd24ee9f7e87d0
+- id: doi:10.1002/minf.201600082
+  title: 'Public (Q)SAR Services, Integrated Modeling Environments, and Model Repositories
+    on the Web: State of the Art and Perspectives for Future Development'
+  authors:
+  - Igor V. Tetko
+  - Uko Maran
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2016-10-25'
+  link: https://doi.org/f3scjj
+  _cache: 826a3802857f1f39a327fac114c008d3f543827a6e5641bd0aae67b4eb6f33c1
+- id: doi:10.1002/minf.201500038
+  title: Comparative Analysis of QSAR-based vs. Chemical Similarity Based Predictors
+    of GPCRs Binding Affinity
+  authors:
+  - Man Luo
+  - Xiang S. Wang
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2015-10-23'
+  link: https://doi.org/f3jqtn
+  _cache: bdf91c3c47c825e4714354322a1a226e3194793d5b42148071505ba66fb13c1b
+- id: doi:10.1002/minf.201500040
+  title: 'Pred-hERG: A Novel web-Accessible Computational Tool for Predicting Cardiac
+    Toxicity'
+  authors:
+  - Rodolpho C. Braga
+  - Vinicius M. Alves
+  - Meryck F. B. Silva
+  - Eugene Muratov
+  - Denis Fourches
+  - "Luciano M. Li\xE3o"
+  - Alexander Tropsha
+  - Carolina H. Andrade
+  publisher: Molecular Informatics
+  date: '2015-07-20'
+  link: https://doi.org/f3ctzm
+  _cache: cb5697434bc7f3f5cf5c97374164f177b144b279c886bdafe283ee2852d7f9b4
+- id: doi:10.1038/mp.2016.97
+  title: Genome-wide common and rare variant analysis provides novel insights into
+    clozapine-associated neutropenia
+  authors:
+  - S E Legge
+  - ' '
+  - M L Hamshere
+  - S Ripke
+  - A F Pardinas
+  - J I Goldstein
+  - E Rees
+  - A L Richards
+  - G Leonenko
+  - L F Jorskog
+  - K D Chambert
+  - D A Collier
+  - G Genovese
+  - I Giegling
+  - P Holmans
+  - A Jonasdottir
+  - G Kirov
+  - S A McCarroll
+  - J H MacCabe
+  - K Mantripragada
+  - J L Moran
+  - B M Neale
+  - H Stefansson
+  - D Rujescu
+  - M J Daly
+  - P F Sullivan
+  - M J Owen
+  - M C O'Donovan
+  - J T R Walters
+  publisher: Molecular Psychiatry
+  date: '2016-07-12'
+  link: https://doi.org/f9nm4k
+  _cache: 54e999cc3365c08ab818f0cc78834307b49a9484a12ef1b8c873974f1f1b75da
+- id: doi:10.1021/acs.jcim.6b00129
+  title: 'Trust, but Verify II: A Practical Guide to Chemogenomics Data Curation'
+  authors:
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2016-06-22'
+  link: https://doi.org/f8xxs9
+  _cache: 02925153dc1008106a823e0e1a36efdf5f8152fd8b91d1694b53e5539757425b
+- id: doi:10.1021/acs.jcim.5b00751
+  title: Docking and Scoring with Target-Specific Pose Classifier Succeeds in Native-Like
+    Pose Identification But Not Binding Affinity Prediction in the CSAR 2014 Benchmark
+    Exercise
+  authors:
+  - Regina Politi
+  - Marino Convertino
+  - Konstantin Popov
+  - Nikolay V. Dokholyan
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2016-04-20'
+  link: https://doi.org/f8s83t
+  _cache: b534fa02049b9c78700412f2b9bf275cd3bb6cf655dd10eefa08511d3847be92
+- id: doi:10.1289/ehp.1510267
+  title: 'CERAPP: Collaborative Estrogen Receptor Activity Prediction Project'
+  authors:
+  - Kamel Mansouri
+  - Ahmed Abdelaziz
+  - Aleksandra Rybacka
+  - Alessandra Roncaglioni
+  - Alexander Tropsha
+  - Alexandre Varnek
+  - Alexey Zakharov
+  - Andrew Worth
+  - Ann M. Richard
+  - Christopher M. Grulke
+  - Daniela Trisciuzzi
+  - Denis Fourches
+  - Dragos Horvath
+  - Emilio Benfenati
+  - Eugene Muratov
+  - Eva Bay Wedebye
+  - Francesca Grisoni
+  - Giuseppe F. Mangiatordi
+  - Giuseppina M. Incisivo
+  - Huixiao Hong
+  - Hui W. Ng
+  - Igor V. Tetko
+  - Ilya Balabin
+  - Jayaram Kancherla
+  - Jie Shen
+  - Julien Burton
+  - Marc Nicklaus
+  - Matteo Cassotti
+  - Nikolai G. Nikolov
+  - Orazio Nicolotti
+  - Patrik L. Andersson
+  - Qingda Zang
+  - Regina Politi
+  - Richard D. Beger
+  - Roberto Todeschini
+  - Ruili Huang
+  - Sherif Farag
+  - Sine A. Rosenberg
+  - Svetoslav Slavov
+  - Xin Hu
+  - Richard S. Judson
+  publisher: Environmental Health Perspectives
+  date: '2016-07-01'
+  link: https://doi.org/f3rs3p
+  _cache: 975050623ed07de0e16c29bc17a9020930d0e265367bd1c898c25789c809fbf9
+- id: doi:10.1021/acs.jmedchem.5b01945
+  title: Computational Methods for Drug Discovery and Design
+  authors:
+  - Alexander Tropsha
+  - "J\xFCrgen Bajorath"
+  publisher: Journal of Medicinal Chemistry
+  date: '2015-12-30'
+  link: https://doi.org/grhjjm
+  _cache: 1259b9b5bf4081d8db8ac06637510b9326f1eb12a5dddaa7ca1176bd7866ab85
+- id: doi:10.1021/acs.molpharmaceut.5b00762
+  title: "QSAR Modeling and Prediction of Drug\u2013Drug Interactions"
+  authors:
+  - Alexey V. Zakharov
+  - Ekaterina V. Varlamova
+  - Alexey A. Lagunin
+  - Alexander V. Dmitriev
+  - Eugene N. Muratov
+  - Denis Fourches
+  - "Victor E. Kuz\u2019min"
+  - Vladimir V. Poroikov
+  - Alexander Tropsha
+  - Marc C. Nicklaus
+  publisher: Molecular Pharmaceutics
+  date: '2016-01-05'
+  link: https://doi.org/f78kvp
+  _cache: 11efd9070c90b8eca2d5c13daa072828a2d89e1e009563f8cea2ac13978e340d
+- id: doi:10.3109/17435390.2015.1073397
+  title: Computer-aided design of carbon nanotubes with the desired bioactivity and
+    safety profiles
+  authors:
+  - Denis Fourches
+  - Dongqiuye Pu
+  - Liwen Li
+  - Hongyu Zhou
+  - Qingxin Mu
+  - Gaoxing Su
+  - Bing Yan
+  - Alexander Tropsha
+  publisher: Nanotoxicology
+  date: '2015-11-02'
+  link: https://doi.org/grhjjp
+  _cache: 66c76f137ef388e6161e10f4ccf5ba6b79f0f9d4b63ca91db43e5c96e8505968
+- id: doi:10.1093/jamia/ocv127
+  title: 'Cheminformatics-aided pharmacovigilance: application to Stevens-Johnson
+    Syndrome'
+  authors:
+  - Yen S Low
+  - Ola Caster
+  - Tomas Bergvall
+  - Denis Fourches
+  - Xiaoling Zang
+  - "G Niklas Nor\xE9n"
+  - Ivan Rusyn
+  - Ralph Edwards
+  - Alexander Tropsha
+  publisher: Journal of the American Medical Informatics Association
+  date: '2015-10-24'
+  link: https://doi.org/f3tdd2
+  _cache: 1fb3026317febc1720a5722a07c4a4cf3fe408d7349772d7febab22a0ac369e4
+- id: doi:10.1038/nchembio.1881
+  title: Curation of chemogenomics data
+  authors:
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Nature Chemical Biology
+  date: '2015-07-21'
+  link: https://doi.org/grhjjq
+  _cache: 0891964554e6316d69a70101c65acb80d9d35e993b980e2305fb13d01b4b7e2a
+- id: doi:10.1021/acs.jcim.5b00180
+  title: Letter from the Editors
+  authors:
+  - Kenneth M. Merz
+  - Matthias Rarey
+  - Alexander Tropsha
+  - Habibah A. Wahab
+  publisher: Journal of Chemical Information and Modeling
+  date: '2015-04-27'
+  link: https://doi.org/grhjjr
+  _cache: 6d7b3912555ca15e0561d347c0970c8ad58086d3b7177b9d368fcc6a62bf3207
+- id: doi:10.1002/minf.201400134
+  title: Drug Side Effect Profiles as Molecular Descriptors for Predictive Modeling
+    of Target Bioactivity
+  authors:
+  - Nancy C. Baker
+  - Denis Fourches
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2015-02-01'
+  link: https://doi.org/f254vd
+  _cache: 7103b66d30d6d37bee98fc357aa0a76871d24efe4b6bf2d4d6590e81ac8044eb
+- id: doi:10.1016/j.taap.2014.12.014
+  title: 'Predicting chemically-induced skin reactions. Part I: QSAR models of skin
+    sensitization and their application to identify potentially hazardous compounds'
+  authors:
+  - Vinicius M. Alves
+  - Eugene Muratov
+  - Denis Fourches
+  - Judy Strickland
+  - Nicole Kleinstreuer
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  publisher: Toxicology and Applied Pharmacology
+  date: '2015-04-01'
+  link: https://doi.org/f698qp
+  _cache: 9ef878205132b223bb79fb3bcc2fafe89780cc07ec160f1517e84a99707438bc
+- id: doi:10.1016/j.taap.2014.12.013
+  title: 'Predicting chemically-induced skin reactions. Part II: QSAR models of skin
+    permeability and the relationships between skin permeability and skin sensitization'
+  authors:
+  - Vinicius M. Alves
+  - Eugene Muratov
+  - Denis Fourches
+  - Judy Strickland
+  - Nicole Kleinstreuer
+  - Carolina H. Andrade
+  - Alexander Tropsha
+  publisher: Toxicology and Applied Pharmacology
+  date: '2015-04-01'
+  link: https://doi.org/f6929c
+  _cache: b2b3b38f93b0ce81383300bcedb773893e3e4362abdd17647572d686d6c77940
+- id: doi:10.1021/ci500519w
+  title: Target-Specific Native/Decoy Pose Classifier Improves the Accuracy of Ligand
+    Ranking in the CSAR 2013 Benchmark
+  authors:
+  - Denis Fourches
+  - Regina Politi
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2014-12-18'
+  link: https://doi.org/f62hxw
+  _cache: adfbc8d2977a95867b23281a2ff114e2feb0729f522c1bb6ac3a7d5434be0533
+- id: doi:10.1038/ncomms5757
+  title: Clozapine-induced agranulocytosis is associated with rare HLA-DQB1 and HLA-B
+    alleles
+  authors:
+  - Jacqueline I. Goldstein
+  - L. Fredrik Jarskog
+  - Chris Hilliard
+  - Ana Alfirevic
+  - Laramie Duncan
+  - Denis Fourches
+  - Hailiang Huang
+  - Monkol Lek
+  - Benjamin M. Neale
+  - Stephan Ripke
+  - Kevin Shianna
+  - Jin P. Szatkiewicz
+  - Alexander Tropsha
+  - Edwin JCG van den Oord
+  - Ingolf Cascorbi
+  - Michael Dettling
+  - Ephraim Gazit
+  - Donald C. Goff
+  - Arthur L. Holden
+  - Deanna L. Kelly
+  - Anil K. Malhotra
+  - Jimmi Nielsen
+  - Munir Pirmohamed
+  - Dan Rujescu
+  - Thomas Werge
+  - Deborah L. Levy
+  - Richard C. Josiassen
+  - James L. Kennedy
+  - Jeffrey A. Lieberman
+  - Mark J. Daly
+  - Patrick F. Sullivan
+  publisher: Nature Communications
+  date: '2014-09-04'
+  link: https://doi.org/f24x45
+  _cache: f1293937acef62b5e96139ea428e6d636276e0ebee7e076da94d74e7c1649e9c
+- id: doi:10.1016/j.drudis.2014.08.003
+  title: "Expanding the scope of drug repurposing in pediatrics: The Children's Pharmacy\
+    \ Collaborative\u2122"
+  authors:
+  - Julie Blatt
+  - Sherif Farag
+  - Seth J. Corey
+  - Zafeira Sarrimanolis
+  - Eugene Muratov
+  - Denis Fourches
+  - Alexander Tropsha
+  - William P. Janzen
+  publisher: Drug Discovery Today
+  date: '2014-11-01'
+  link: https://doi.org/grhjjs
+  _cache: d1c01d8f1341f576c9d775eba00acc753cc6d34bdbe905ac99259afaf9f7ec81
+- id: doi:10.1016/j.taap.2014.07.009
+  title: Prediction of binding affinity and efficacy of thyroid hormone receptor ligands
+    using QSAR and structure-based modeling methods
+  authors:
+  - Regina Politi
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Toxicology and Applied Pharmacology
+  date: '2014-10-01'
+  link: https://doi.org/f6jgfh
+  _cache: 29b5080ec1b2412e8b0ab314b329f77e387cb5680d91bcad174546e699896a33
+- id: doi:10.1021/cr400295a
+  title: Chemical Basis of Interactions Between Engineered Nanoparticles and Biological
+    Systems
+  authors:
+  - Qingxin Mu
+  - Guibin Jiang
+  - Lingxin Chen
+  - Hongyu Zhou
+  - Denis Fourches
+  - Alexander Tropsha
+  - Bing Yan
+  publisher: Chemical Reviews
+  date: '2014-06-13'
+  link: https://doi.org/ghcdzk
+  _cache: 641f9acbabc821d5d437186aaf46e244bae5f93e20142d111cfcca96e1ea6770
+- id: doi:10.2174/1568026614666140506121116
+  title: Integrative Approaches for Predicting In Vivo Effects of Chemicals from their
+    Structural Descriptors and the Results of Short-Term Biological Assays
+  authors:
+  - Yen Low
+  - Alexander Sedykh
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Current Topics in Medicinal Chemistry
+  date: '2014-06-01'
+  link: https://doi.org/f6bq2g
+  _cache: ab87689f25161fd8aab331dd89639fc264590db438c42362d63edbf4255ed642
+- id: doi:10.2174/1568026614666140506124442
+  title: 'Tuning hERG Out: Antitarget QSAR Models for Drug Development'
+  authors:
+  - Rodolpho Braga
+  - Vinicius Alves
+  - Meryck Silva
+  - Eugene Muratov
+  - Denis Fourches
+  - Alexander Tropsha
+  - Carolina Andrade
+  publisher: Current Topics in Medicinal Chemistry
+  date: '2014-06-01'
+  link: https://doi.org/grhjjt
+  _cache: 1ee2db65c0225a10b68a85aab6116210345fdfe57dff9407d389b5a0eb6c2e8f
+- id: doi:10.1002/minf.201300165
+  title: The Development of Novel Chemical Fragment-Based Descriptors Using Frequent
+    Common Subgraph Mining Approach and Their Application in QSAR Modeling
+  authors:
+  - Raed Khashan
+  - Weifan Zheng
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2014-03-01'
+  link: https://doi.org/f2qhq7
+  _cache: 3d18f57ca64268741b3b123edcfb97304f32a0d74e5b86b9af586ab2d7c6e1b6
+- id: doi:10.1089/AID.2013.0254
+  title: 'Short Communication: Cheminformatics Analysis to Identify Predictors of
+    Antiviral Drug Penetration into the Female Genital Tract'
+  authors:
+  - Corbin G. Thompson
+  - Alexander Sedykh
+  - Melanie R. Nicol
+  - Eugene Muratov
+  - Denis Fourches
+  - Alexander Tropsha
+  - Angela D.M. Kashuba
+  publisher: AIDS Research and Human Retroviruses
+  date: '2014-11-01'
+  link: https://doi.org/f6mrjd
+  _cache: fbbb942ecf9dc5c549406d573b42a3bd9659dcb1d8f7ca01ea1f502363b1f0b6
+- id: doi:10.1021/ci400460q
+  title: "Application of Quantitative Structure\u2013Activity Relationship Models\
+    \ of 5-HT<sub>1A</sub>Receptor Binding to Virtual Screening Identifies Novel and\
+    \ Potent 5-HT<sub>1A</sub>Ligands"
+  authors:
+  - Man Luo
+  - Xiang Simon Wang
+  - Bryan L. Roth
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2014-02-12'
+  link: https://doi.org/gnqbp4
+  _cache: 47b7e4ef8b235a5418dc7009bf87fa755a00b50a6dd5f16b750e1d97b96aeb6b
+- id: doi:10.1093/bioinformatics/btt718
+  title: 'HTS navigator: freely accessible cheminformatics software for analyzing
+    high-throughput screening data'
+  authors:
+  - Denis Fourches
+  - Maria F. Sassano
+  - Bryan L. Roth
+  - Alexander Tropsha
+  publisher: Bioinformatics
+  date: '2013-12-28'
+  link: https://doi.org/f5tz9w
+  _cache: 78eea034093540b6961762db27df372b864b47d9a67bbd506199879af2afa0d3
+- id: doi:10.1021/jm4004285
+  title: 'QSAR Modeling: Where Have You Been? Where Are You Going To?'
+  authors:
+  - Artem Cherkasov
+  - Eugene N. Muratov
+  - Denis Fourches
+  - Alexandre Varnek
+  - Igor I. Baskin
+  - Mark Cronin
+  - John Dearden
+  - Paola Gramatica
+  - Yvonne C. Martin
+  - Roberto Todeschini
+  - Viviana Consonni
+  - "Victor E. Kuz\u2019min"
+  - Richard Cramer
+  - Romualdo Benigni
+  - Chihae Yang
+  - James Rathman
+  - Lothar Terfloth
+  - Johann Gasteiger
+  - Ann Richard
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2014-01-06'
+  link: https://doi.org/f58s2p
+  _cache: c1cb1b50220ff26c90a0f0239524eb435b4a2e35d1da4346bedb6d5e41271cf4
+- id: doi:10.1038/nchembio.1389
+  title: PITPs as targets for selectively interfering with phosphoinositide signaling
+    in cells
+  authors:
+  - Aaron H Nile
+  - Ashutosh Tripathi
+  - Peihua Yuan
+  - Carl J Mousley
+  - Sundari Suresh
+  - Iain M Wallace
+  - Sweety D Shah
+  - Denise Teotico Pohlhaus
+  - Brenda Temple
+  - Corey Nislow
+  - Guri Giaever
+  - Alexander Tropsha
+  - Ronald W Davis
+  - Robert P St. Onge
+  - Vytas A Bankaitis
+  publisher: Nature Chemical Biology
+  date: '2013-11-24'
+  link: https://doi.org/grg6c4
+  _cache: 59fe8a4233b0a684c0a377c79006803832e5f32c7ae9f5fa57de3f5cb8d006be
+- id: doi:10.1021/ci400572x
+  title: Data Set Modelability by QSAR
+  authors:
+  - Alexander Golbraikh
+  - Eugene Muratov
+  - Denis Fourches
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2014-01-08'
+  link: https://doi.org/grhjjv
+  _cache: c77494b9994690c4184eaf85db3b81fdf7e42d215b661204da9ad18001026116
+- id: doi:10.1016/j.jconrel.2013.10.029
+  title: 'Computer-aided design of liposomal drugs: In silico prediction and experimental
+    validation of drug candidates for liposomal remote loading'
+  authors:
+  - Ahuva Cern
+  - Yechezkel Barenholz
+  - Alexander Tropsha
+  - Amiram Goldblum
+  publisher: Journal of Controlled Release
+  date: '2014-01-01'
+  link: https://doi.org/f5njrw
+  _cache: 797216ccbebcf930c60d6b6e5f7e495c7f94cc1b908f5c9faea7a37adb45f1db
+- id: doi:10.1016/j.compbiolchem.2013.07.002
+  title: A systems chemical biology study of malate synthase and isocitrate lyase
+    inhibition in Mycobacterium tuberculosis during active and NRP growth
+  authors:
+  - Elebeoba E. May
+  - "Andrei Leit\xE3o"
+  - Alexander Tropsha
+  - Tudor I. Oprea
+  publisher: Computational Biology and Chemistry
+  date: '2013-12-01'
+  link: https://doi.org/f5nbxr
+  _cache: 6188de7b3a17089ba8c21afc213532efb490b1d6c2ca9f06b7b9c7152073ae1f
+- id: doi:10.1002/minf.201300076
+  title: Using Graph Indices for the Analysis and Comparison of Chemical Datasets
+  authors:
+  - Denis Fourches
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2013-09-09'
+  link: https://doi.org/f2dw9g
+  _cache: 1463b862d2893e21a00b6ee2a288fa9793bc29b5deef27d4a097a779a38f6bcb
+- id: doi:10.1021/tx400110f
+  title: "Integrative Chemical\u2013Biological Read-Across Approach for Chemical Hazard\
+    \ Classification"
+  authors:
+  - Yen Low
+  - Alexander Sedykh
+  - Denis Fourches
+  - Alexander Golbraikh
+  - Maurice Whelan
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Chemical Research in Toxicology
+  date: '2013-08-05'
+  link: https://doi.org/f47bh4
+  _cache: 361086b356ee872dd6f45b767764e43489cb9b112b748af3ee6679c63d648228
+- id: doi:10.1021/ci400216q
+  title: Predicting Binding Affinity of CSAR Ligands Using Both Structure-Based and
+    Ligand-Based Approaches
+  authors:
+  - Denis Fourches
+  - Eugene Muratov
+  - Feng Ding
+  - Nikolay V. Dokholyan
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2013-07-17'
+  link: https://doi.org/f485b7
+  _cache: b5496379861275439cc53ca055b9d7ca2050cd329610dc3672915053a68bf537
+- id: doi:10.1016/j.taap.2013.04.032
+  title: Identification of putative estrogen receptor-mediated endocrine disrupting
+    chemicals using QSAR- and structure-based virtual screening approaches
+  authors:
+  - Liying Zhang
+  - Alexander Sedykh
+  - Ashutosh Tripathi
+  - Hao Zhu
+  - Antreas Afantitis
+  - Varnavas D. Mouchlis
+  - Georgia Melagraki
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Toxicology and Applied Pharmacology
+  date: '2013-10-01'
+  link: https://doi.org/f5c97r
+  _cache: 6de68b6a78e3b7746e199ce3f53779b000d5e0d4219d6ed6c7c4c9528d0aebc3
+- id: doi:10.1002/jps.23584
+  title: 'An updated review on drug-induced cholestasis: Mechanisms and investigation
+    of physicochemical properties and pharmacokinetic parameters'
+  authors:
+  - Kyunghee Yang
+  - "Kathleen K\xF6ck"
+  - Alexander Sedykh
+  - Alexander Tropsha
+  - Kim L.R. Brouwer
+  publisher: Journal of Pharmaceutical Sciences
+  date: '2013-09-01'
+  link: https://doi.org/f5dg6x
+  _cache: 02057e0e036888df612130520f2a7779863e7e44732873a5b72a624c826eb89a
+- id: doi:10.1007/s11095-013-1023-6
+  title: The Use of Pseudo-Equilibrium Constant Affords Improved QSAR Models of Human
+    Plasma Protein Binding
+  authors:
+  - Xiang-Wei Zhu
+  - Alexander Sedykh
+  - Hao Zhu
+  - Shu-Shen Liu
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2013-04-09'
+  link: https://doi.org/f42vzx
+  _cache: ea598544365461620f5df33af099537c5296a7a388dfab6a13c9320f54920035
+- id: doi:10.1007/s11095-012-0935-x
+  title: 'Human Intestinal Transporter Database: QSAR Modeling and Virtual Profiling
+    of Drug Uptake, Efflux and Interactions'
+  authors:
+  - Alexander Sedykh
+  - Denis Fourches
+  - Jianmin Duan
+  - Oliver Hucke
+  - Michel Garneau
+  - Hao Zhu
+  - Pierre Bonneau
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2012-12-27'
+  link: https://doi.org/f4rpz2
+  _cache: 6be374cd4aa1c0d1397ae6a1521262e7aecbf84d4ec6a9426e747a330a161328
+- id: doi:10.1021/ci300421n
+  title: Discovery of Novel Antimalarial Compounds Enabled by QSAR-Based Virtual Screening
+  authors:
+  - Liying Zhang
+  - Denis Fourches
+  - Alexander Sedykh
+  - Hao Zhu
+  - Alexander Golbraikh
+  - Sean Ekins
+  - Julie Clark
+  - Michele C. Connelly
+  - Martina Sigal
+  - Dena Hodges
+  - Armand Guiguemde
+  - R. Kiplin Guy
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2013-01-23'
+  link: https://doi.org/f4nsc6
+  _cache: 35a2bafdb1063f0566a89612200ff9e861336a16b23364bbbb44f2782c43c9d7
+- id: doi:10.1021/ci300338w
+  title: Does Rational Selection of Training and Test Sets Improve the Outcome of
+    QSAR Modeling?
+  authors:
+  - Todd M. Martin
+  - Paul Harten
+  - Douglas M. Young
+  - Eugene N. Muratov
+  - Alexander Golbraikh
+  - Hao Zhu
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2012-10-03'
+  link: https://doi.org/f4bh4q
+  _cache: a8d5a0e8da09b87e6dd34eaa19fe3c9603c65c03535318d25fcfa64650f95520
+- id: doi:10.1007/978-3-7643-8340-4_13
+  title: Recent Trends in Statistical QSAR Modeling of Environmental Chemical Toxicity
+  authors:
+  - Alexander Tropsha
+  publisher: Experientia Supplementum
+  date: '2012-01-01'
+  link: https://doi.org/grhjjx
+  _cache: c876170906992a773b53ea2bde6df87d65bd28a50756fa9e69d21c635540ce00
+- id: doi:10.1002/prot.24110
+  title: 'Scoring protein interaction decoys using exposed residues (SPIDER): A novel
+    multibody interaction scoring function based on frequent geometric patterns of
+    interfacial residues'
+  authors:
+  - Raed Khashan
+  - Weifan Zheng
+  - Alexander Tropsha
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2012-06-07'
+  link: https://doi.org/f378cm
+  _cache: e56efd9fd3c68e63274b1ca9ea9c3b643098665aefb4ebc43642f536c78c8fa8
+- id: doi:10.1021/jm2011657
+  title: 'Chemocentric Informatics Approach to Drug Discovery: Identification and
+    Experimental Validation of Selective Estrogen Receptor Modulators as Ligands of
+    5-Hydroxytryptamine-6 Receptors and as Potential Cognition Enhancers'
+  authors:
+  - Rima Hajjo
+  - Vincent Setola
+  - Bryan L. Roth
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2012-06-11'
+  link: https://doi.org/f33htf
+  _cache: fcffc627c52cd5823effac377ffd9c55eb8e9714050cb5e8af220b15bdf009f0
+- id: doi:10.1093/toxsci/kfs095
+  title: Predictive Modeling of Chemical Hazard by Integrating Numerical Descriptors
+    of Chemical Structures and Short-term Toxicity Assay Data
+  authors:
+  - Ivan Rusyn
+  - Alexander Sedykh
+  - Yen Low
+  - Kathryn Z. Guyton
+  - Alexander Tropsha
+  publisher: Toxicological Sciences
+  date: '2012-03-02'
+  link: https://doi.org/f3xn73
+  _cache: f3946617e967e42e55a4108edb344a4cc250c6e5fc30fc3086e4247f9b727809
+- id: doi:10.1002/prot.24035
+  title: Do crystal structures obviate the need for theoretical models of GPCRs for
+    structure-based virtual screening?
+  authors:
+  - Hao Tang
+  - Xiang Simon Wang
+  - Jui-Hua Hsieh
+  - Alexander Tropsha
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2012-03-13'
+  link: https://doi.org/fzp9xf
+  _cache: b0ce7ecb85201d1be4dedd3634a03eae3d6a75f6509b593153509e7e6b888075
+- id: doi:10.1093/toxsci/kfs023
+  title: Quantitative High-Throughput Screening for Chemical Toxicity in a Population-Based
+    In Vitro Model
+  authors:
+  - Eric F. Lock
+  - Nour Abdo
+  - Ruili Huang
+  - Menghang Xia
+  - Oksana Kosyk
+  - "Shannon H. O\u2019Shea"
+  - Yi-Hui Zhou
+  - Alexander Sedykh
+  - Alexander Tropsha
+  - Christopher P. Austin
+  - Raymond R. Tice
+  - Fred A. Wright
+  - Ivan Rusyn
+  publisher: Toxicological Sciences
+  date: '2012-01-19'
+  link: https://doi.org/fxmg4s
+  _cache: 257e49761dc63582f7a0e0b5ce5479e1054784a30f839a0478965ea6b416b7b6
+- id: doi:10.1016/j.bpj.2011.11.4008
+  title: Discrete Molecular Dynamics Distinguishes Nativelike Binding Poses from Decoys
+    in Difficult Targets
+  authors:
+  - "Elizabeth\_A. Proctor"
+  - Shuangye Yin
+  - Alexander Tropsha
+  - "Nikolay\_V. Dokholyan"
+  publisher: Biophysical Journal
+  date: '2012-01-01'
+  link: https://doi.org/fz25z3
+  _cache: 777a5d20280f26c31d3848d586099bc5e0008703226e8f84b7bbe3d749e22464
+- id: doi:10.1016/j.jconrel.2011.11.029
+  title: Quantitative structure - property relationship modeling of remote liposome
+    loading of drugs
+  authors:
+  - Ahuva Cern
+  - Alexander Golbraikh
+  - Aleck Sedykh
+  - Alexander Tropsha
+  - Yechezkel Barenholz
+  - Amiram Goldblum
+  publisher: Journal of Controlled Release
+  date: '2012-06-01'
+  link: https://doi.org/b7jfst
+  _cache: 5ed3d1cad320aebf35058f9f16a0ddd421bc6e234351c816a9409f322f52d462
+- id: doi:10.1214/11-AOAS472
+  title: Local kernel canonical correlation analysis with application to virtual drug
+    screening
+  authors:
+  - Daniel Samarov
+  - J. S. Marron
+  - Yufeng Liu
+  - Christopher Grulke
+  - Alexander Tropsha
+  publisher: The Annals of Applied Statistics
+  date: '2011-09-01'
+  link: https://doi.org/bsx22x
+  _cache: aa0a454e13dbf2618329dc037a31aea82f3860da36250cc3ddf689261a5cb96c
+- id: doi:10.1021/ci2002507
+  title: 'Cheminformatics Meets Molecular Mechanics: A Combined Application of Knowledge-Based
+    Pose Scoring and Physical Force Field-Based Hit Scoring Functions Improves the
+    Accuracy of Structure-Based Virtual Screening'
+  authors:
+  - Jui-Hua Hsieh
+  - Shuangye Yin
+  - Xiang S. Wang
+  - Shubin Liu
+  - Nikolay V. Dokholyan
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2011-12-14'
+  link: https://doi.org/dd6jx3
+  _cache: 9e3beb1fd52175a096810896a2a171c24e4480673c6a79f7b74766d21bab36ff
+- id: doi:10.1016/j.jmb.2011.09.031
+  title: Community-Wide Assessment of Protein-Interface Modeling Suggests Improvements
+    to Design Methodology
+  authors:
+  - Sarel J. Fleishman
+  - Timothy A. Whitehead
+  - Eva-Maria Strauch
+  - Jacob E. Corn
+  - Sanbo Qin
+  - Huan-Xiang Zhou
+  - Julie C. Mitchell
+  - Omar N.A. Demerdash
+  - Mayuko Takeda-Shitaka
+  - Genki Terashi
+  - Iain H. Moal
+  - Xiaofan Li
+  - Paul A. Bates
+  - Martin Zacharias
+  - Hahnbeom Park
+  - Jun-su Ko
+  - Hasup Lee
+  - Chaok Seok
+  - Thomas Bourquard
+  - Julie Bernauer
+  - Anne Poupon
+  - "J\xE9r\xF4me Az\xE9"
+  - Seren Soner
+  - "\u015Eefik Kerem Oval\u0131"
+  - Pemra Ozbek
+  - Nir Ben Tal
+  - "T\xFCrkan Haliloglu"
+  - Howook Hwang
+  - Thom Vreven
+  - Brian G. Pierce
+  - Zhiping Weng
+  - "Laura P\xE9rez-Cano"
+  - Carles Pons
+  - "Juan Fern\xE1ndez-Recio"
+  - Fan Jiang
+  - Feng Yang
+  - Xinqi Gong
+  - Libin Cao
+  - Xianjin Xu
+  - Bin Liu
+  - Panwen Wang
+  - Chunhua Li
+  - Cunxin Wang
+  - Charles H. Robert
+  - Mainak Guharoy
+  - Shiyong Liu
+  - Yangyu Huang
+  - Lin Li
+  - Dachuan Guo
+  - Ying Chen
+  - Yi Xiao
+  - Nir London
+  - Zohar Itzhaki
+  - Ora Schueler-Furman
+  - Yuval Inbar
+  - Vladimir Potapov
+  - Mati Cohen
+  - Gideon Schreiber
+  - Yuko Tsuchiya
+  - Eiji Kanamori
+  - Daron M. Standley
+  - Haruki Nakamura
+  - Kengo Kinoshita
+  - Camden M. Driggers
+  - Robert G. Hall
+  - Jessica L. Morgan
+  - Victor L. Hsu
+  - Jian Zhan
+  - Yuedong Yang
+  - Yaoqi Zhou
+  - Panagiotis L. Kastritis
+  - Alexandre M.J.J. Bonvin
+  - Weiyi Zhang
+  - Carlos J. Camacho
+  - Krishna P. Kilambi
+  - Aroop Sircar
+  - Jeffrey J. Gray
+  - Masahito Ohue
+  - Nobuyuki Uchikoga
+  - Yuri Matsuzaki
+  - Takashi Ishida
+  - Yutaka Akiyama
+  - Raed Khashan
+  - Stephen Bush
+  - Denis Fouches
+  - Alexander Tropsha
+  - "Juan Esquivel-Rodr\xEDguez"
+  - Daisuke Kihara
+  - P. Benjamin Stranges
+  - Ron Jacak
+  - Brian Kuhlman
+  - Sheng-You Huang
+  - Xiaoqin Zou
+  - Shoshana J. Wodak
+  - Joel Janin
+  - David Baker
+  publisher: Journal of Molecular Biology
+  date: '2011-11-01'
+  link: https://doi.org/csgdpz
+  _cache: 46ddb3bda5d43f9d85b5e1789265ede540454ff7e143b3f1a255207a3d2d04f1
+- id: doi:10.1021/ci200146e
+  title: Combined Application of Cheminformatics- and Physical Force Field-Based Scoring
+    Functions Improves Binding Affinity Prediction for CSAR Data Sets
+  authors:
+  - Jui-Hua Hsieh
+  - Shuangye Yin
+  - Shubin Liu
+  - Alexander Sedykh
+  - Nikolay V. Dokholyan
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2011-08-30'
+  link: https://doi.org/d3ccfc
+  _cache: 39b312a9260264dde182b24ccab362e09333a2032ccf057c112c4cb3b111e5b6
+- id: doi:10.1021/tx200148a
+  title: Predicting Drug-Induced Hepatotoxicity Using QSAR and Toxicogenomics Approaches
+  authors:
+  - Yen Low
+  - Takeki Uehara
+  - Yohsuke Minowa
+  - Hiroshi Yamada
+  - Yasuo Ohno
+  - Tetsuro Urushidani
+  - Alexander Sedykh
+  - Eugene Muratov
+  - "Viktor Kuz\u2019min"
+  - Denis Fourches
+  - Hao Zhu
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Chemical Research in Toxicology
+  date: '2011-07-21'
+  link: https://doi.org/ccrxh5
+  _cache: 3426ee4dbede9cd294185fcfdfdcb46f65f2e41756cf9750328a1780b8151487
+- id: doi:10.2174/138620711794728743
+  title: Exploring Quantitative Nanostructure-Activity Relationships (QNAR) Modeling
+    as a Tool for Predicting Biological Effects of Manufactured Nanoparticles
+  authors:
+  - Denis Fourches
+  - Dongqiuye Pu
+  - Alexander Tropsha
+  publisher: Combinatorial Chemistry &amp; High Throughput Screening
+  date: '2011-03-01'
+  link: https://doi.org/b8s4pv
+  _cache: f6aee5f71d06c30a2325b499fce65fb90755a67bd83a170aba48fc7002fca984
+- id: doi:10.1021/ci100253r
+  title: 'Applicability Domains for Classification Problems: Benchmarking of Distance
+    to Models for Ames Mutagenicity Set'
+  authors:
+  - Iurii Sushko
+  - Sergii Novotarskyi
+  - "Robert K\xF6rner"
+  - Anil Kumar Pandey
+  - Artem Cherkasov
+  - Jiazhong Li
+  - Paola Gramatica
+  - Katja Hansen
+  - Timon Schroeter
+  - "Klaus-Robert M\xFCller"
+  - Lili Xi
+  - Huanxiang Liu
+  - Xiaojun Yao
+  - "Tomas \xD6berg"
+  - Farhad Hormozdiari
+  - Phuong Dao
+  - Cenk Sahinalp
+  - Roberto Todeschini
+  - Pavel Polishchuk
+  - Anatoliy Artemenko
+  - "Victor Kuz\u2019min"
+  - Todd M. Martin
+  - Douglas M. Young
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  - Igor Baskin
+  - Dragos Horvath
+  - Gilles Marcou
+  - Christophe Muller
+  - Alexander Varnek
+  - Volodymyr V. Prokopenko
+  - Igor V. Tetko
+  publisher: Journal of Chemical Information and Modeling
+  date: '2010-10-29'
+  link: https://doi.org/fqq387
+  _cache: 1154e0a4dcafabc60e342c5681492b47582a1661a61aa6ee45aefd2ba9526e5e
+- id: doi:10.1007/978-1-60761-931-4_6
+  title: Application of QSAR and Shape Pharmacophore Modeling Approaches for Targeted
+    Chemical Library Design
+  authors:
+  - Jerry O. Ebalunode
+  - Weifan Zheng
+  - Alexander Tropsha
+  publisher: Methods in Molecular Biology
+  date: '2010-10-15'
+  link: https://doi.org/dzxpxw
+  _cache: 69b412e8df660bfaf2eff4bbea91c53006d8cba800d7091fb491678c47ae7fb4
+- id: doi:10.1289/ehp.1002476
+  title: "Use of\n            <i>in Vitro</i>\n            HTS-Derived Concentration\u2013\
+    Response Data as Biological Descriptors Improves the Accuracy of QSAR Models of\n\
+    \            <i>in Vivo</i>\n            Toxicity"
+  authors:
+  - Alexander Sedykh
+  - Hao Zhu
+  - Hao Tang
+  - Liying Zhang
+  - Ann Richard
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Environmental Health Perspectives
+  date: '2011-03-01'
+  link: https://doi.org/b5r47x
+  _cache: 95726a6e6b8a43a23126ea617f02c1c324bc45025d4e1b5382bea9dfdca8ebd2
+- id: doi:10.1021/jm100600y
+  title: "Development, Validation, and Use of Quantitative Structure\u2212Activity\
+    \ Relationship Models of 5-Hydroxytryptamine (2B) Receptor Ligands to Identify\
+    \ Novel Receptor Binders and Putative Valvulopathic Compounds among Common Drugs"
+  authors:
+  - Rima Hajjo
+  - Christopher M. Grulke
+  - Alexander Golbraikh
+  - Vincent Setola
+  - Xi-Ping Huang
+  - Bryan L. Roth
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2010-10-19'
+  link: https://doi.org/cgrsps
+  _cache: a0f8aaf393fc48776f762b230b95ef8be02f8457b20cdcbc117772ec8ede6b14
+- id: doi:10.1093/bioinformatics/btq556
+  title: 'Chembench: a cheminformatics workbench'
+  authors:
+  - Theo Walker
+  - Christopher M. Grulke
+  - Diane Pozefsky
+  - Alexander Tropsha
+  publisher: Bioinformatics
+  date: '2010-09-30'
+  link: https://doi.org/dbsk3s
+  _cache: 038b159dc2b0c474f3da2e0b10a5f487919b698face4a48420518413634c61a9
+- id: doi:10.1021/nn1013484
+  title: "Quantitative Nanostructure\u2212Activity Relationship Modeling"
+  authors:
+  - Denis Fourches
+  - Dongqiuye Pu
+  - Carlos Tassa
+  - Ralph Weissleder
+  - Stanley Y. Shaw
+  - Russell J. Mumper
+  - Alexander Tropsha
+  publisher: ACS Nano
+  date: '2010-09-21'
+  link: https://doi.org/fbd68q
+  _cache: 09a4a56787c7fd4db2e22f507a900d42061e74f9453cebcbe61396a5ef73dee7
+- id: doi:10.1007/978-1-60761-839-3_18
+  title: Computational Systems Chemical Biology
+  authors:
+  - Tudor I. Oprea
+  - Elebeoba E. May
+  - "Andrei Leit\xE3o"
+  - Alexander Tropsha
+  publisher: Methods in Molecular Biology
+  date: '2010-08-28'
+  link: https://doi.org/cw8mxx
+  _cache: f548a6ba5066cbfb12c6014b0cfeaa27b6d34484a2ced659eaf756f8a39d20ec
+- id: doi:10.1002/minf.201000061
+  title: Best Practices for QSAR Model Development, Validation, and Exploitation
+  authors:
+  - Alexander Tropsha
+  publisher: Molecular Informatics
+  date: '2010-07-06'
+  link: https://doi.org/c5vdqj
+  _cache: dc8ad05abd64bd634b6e99c0603756eff86967605ba0244d5ba4efded64f578c
+- id: doi:10.1021/ci100176x
+  title: 'Trust, But Verify: On the Importance of Chemical Structure Curation in Cheminformatics
+    and QSAR Modeling Research'
+  authors:
+  - Denis Fourches
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2010-06-24'
+  link: https://doi.org/dj97x3
+  _cache: 4e9d2e482bc189311d1aca173dd999b7aad37ed7c14af7b12e7292d43a5f0be3
+- id: doi:10.1109/TITB.2010.2053550
+  title: 'Functional Neighbors: Inferring Relationships between Nonhomologous Protein
+    Families Using Family-Specific Packing Motifs'
+  authors:
+  - D Bandyopadhyay
+  - ' Jun Huan'
+  - ' Jinze Liu'
+  - J Prins
+  - J Snoeyink
+  - ' Wei Wang'
+  - A Tropsha
+  publisher: IEEE Transactions on Information Technology in Biomedicine
+  date: '2010-09-01'
+  link: https://doi.org/bwnpbs
+  _cache: 4c014b6373141b8d58db1b3e7b38f3a39a303e6015cc1b672221b11eff7f874b
+- id: doi:10.1021/tx900451r
+  title: "Modeling Liver-Related Adverse Effects of Drugs Using <i>k</i>Nearest Neighbor\
+    \ Quantitative Structure\u2212Activity Relationship Method"
+  authors:
+  - Amie D. Rodgers
+  - Hao Zhu
+  - Denis Fourches
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Chemical Research in Toxicology
+  date: '2010-03-01'
+  link: https://doi.org/cd493c
+  _cache: 71c7bee588c07443a0fb1c71c1735e72b968258a53eaf8acbb8abfe96d9f24ad
+- id: doi:10.1021/tx900326k
+  title: Cheminformatics Analysis of Assertions Mined from Literature That Describe
+    Drug-Induced Liver Injury in Different Species
+  authors:
+  - Denis Fourches
+  - Julie C. Barnes
+  - Nicola C. Day
+  - Paul Bradley
+  - Jane Z. Reed
+  - Alexander Tropsha
+  publisher: Chemical Research in Toxicology
+  date: '2009-12-16'
+  link: https://doi.org/d4mscr
+  _cache: 47a3383e1659e99ee4eb1b1611bc2812aed6c8e00a2d14520b191e99c8d1ec83
+- id: doi:10.1021/tx900189p
+  title: "Quantitative Structure\u2212Activity Relationship Modeling of Rat Acute\
+    \ Toxicity by Oral Exposure"
+  authors:
+  - Hao Zhu
+  - Todd M. Martin
+  - Lin Ye
+  - Alexander Sedykh
+  - Douglas M. Young
+  - Alexander Tropsha
+  publisher: Chemical Research in Toxicology
+  date: '2009-10-21'
+  link: https://doi.org/dv76t3
+  _cache: ee9d2e8c975bbe8f2cd7a8b1769b1aa7b29bbdd410c2dfa770c06a1db6a4484d
+- id: doi:10.1289/ehp.0800471
+  title: "A Novel Two-Step Hierarchical Quantitative Structure\u2013Activity Relationship\
+    \ Modeling Work Flow for Predicting Acute Toxicity of Chemicals in Rodents"
+  authors:
+  - Hao Zhu
+  - Lin Ye
+  - Ann Richard
+  - Alexander Golbraikh
+  - Fred A. Wright
+  - Ivan Rusyn
+  - Alexander Tropsha
+  publisher: Environmental Health Perspectives
+  date: '2009-08-01'
+  link: https://doi.org/dzmwz4
+  _cache: e328fe113d9e0a1131a5d3fdb31cff065ed861056e2e9da4e8c3240a9812997e
+- id: doi:10.1007/s10822-009-9277-0
+  title: 'Identification of family-specific residue packing motifs and their use for
+    structure-based protein function prediction: II. Case studies and applications'
+  authors:
+  - Deepak Bandyopadhyay
+  - Jun Huan
+  - Jan Prins
+  - Jack Snoeyink
+  - Wei Wang
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2009-06-23'
+  link: https://doi.org/c4rn8z
+  _cache: f86f504aa05f1c2369b933526c232671550caba851c77508449f3b5a9aa31fb8
+- id: doi:10.1007/s10822-009-9273-4
+  title: 'Identification of family-specific residue packing motifs and their use for
+    structure-based protein function prediction: I. Method development'
+  authors:
+  - Deepak Bandyopadhyay
+  - Jun Huan
+  - Jan Prins
+  - Jack Snoeyink
+  - Wei Wang
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2009-06-20'
+  link: https://doi.org/fghbb9
+  _cache: 1ad2147d9472b312f152e0665e0bb33f4acbb5294dd7b52550b97ff38ffbaf1c
+- id: doi:10.1021/jm8013772
+  title: "Discovery of Geranylgeranyltransferase-I Inhibitors with Novel Scaffolds\
+    \ by the Means of Quantitative Structure\u2212Activity Relationship Modeling,\
+    \ Virtual Screening, and Experimental Validation"
+  authors:
+  - Yuri K. Peterson
+  - Xiang S. Wang
+  - Patrick J. Casey
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2009-06-18'
+  link: https://doi.org/dcbp4f
+  _cache: 532cf7659f600c89b00cd01395b1b7a49c270d49b12572dea0e737f2f843856a
+- id: doi:10.1021/ci800366f
+  title: Novel Inhibitors of Human Histone Deacetylase (HDAC) Identified by QSAR Modeling
+    of Known Inhibitors, Virtual Screening, and Experimental Validation
+  authors:
+  - Hao Tang
+  - Xiang S. Wang
+  - Xi-Ping Huang
+  - Bryan L. Roth
+  - Kyle V. Butler
+  - Alan P. Kozikowski
+  - Mira Jung
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2009-01-30'
+  link: https://doi.org/b69prq
+  _cache: c0eeafec2b032ce67887161a585c1280416279fa2aac7681ee87ec81c8665b91
+- id: doi:10.1007/s11095-009-9832-3
+  title: "A Turning Point For Blood\u2013Brain Barrier Modeling"
+  authors:
+  - Sean Ekins
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2009-01-23'
+  link: https://doi.org/b262vv
+  _cache: 2920b62ebf085770d55d53100db31c6bc01932a2f57a2e54a2c9c4e714f7717c
+- id: doi:10.1021/ci800151m
+  title: Critical Assessment of QSAR Models of Environmental Toxicity against <i>Tetrahymena
+    pyriformis:</i> Focusing on Applicability Domain and Overfitting by Variable Selection
+  authors:
+  - Igor V. Tetko
+  - Iurii Sushko
+  - Anil Kumar Pandey
+  - Hao Zhu
+  - Alexander Tropsha
+  - Ester Papa
+  - "Tomas \xD6berg"
+  - Roberto Todeschini
+  - Denis Fourches
+  - Alexandre Varnek
+  publisher: Journal of Chemical Information and Modeling
+  date: '2008-08-26'
+  link: https://doi.org/drb9t3
+  _cache: b28d78a14c1c2a818c219c26c253763c8b7d137fcdfafa40fc1db1050d079482
+- id: doi:10.1007/s11095-008-9609-0
+  title: "QSAR Modeling of the Blood\u2013Brain Barrier Permeability for Diverse Organic\
+    \ Compounds"
+  authors:
+  - Liying Zhang
+  - Hao Zhu
+  - Tudor I. Oprea
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Pharmaceutical Research
+  date: '2008-06-14'
+  link: https://doi.org/cmhbqz
+  _cache: 88552805ef588e8dc00dee64211423a606f8268d2363b50363c8ccef60da99f8
+- id: doi:10.1002/prot.22094
+  title: HIV-1 protease function and structure studies with the simplicial neighborhood
+    analysis of protein packing method
+  authors:
+  - Shuxing Zhang
+  - Andrew H. Kaplan
+  - Alexander Tropsha
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2008-05-22'
+  link: https://doi.org/cmm6q4
+  _cache: cc28e309576f37fd8d3cf06ab8cc929ab5482942cb3876f7371c60c4b2d9d102
+- id: doi:10.1021/ci700404c
+  title: Combinatorial QSAR Modeling of Specificity and Subtype Selectivity of Ligands
+    Binding to Serotonin Receptors 5HT1E and 5HT1F
+  authors:
+  - Xiang S. Wang
+  - Hao Tang
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2008-05-01'
+  link: https://doi.org/b9k22j
+  _cache: cfaf3e96c4e97adfa2b5fafe8e82cda84b8e3cb483cdc47ff08213c5d90ef99e
+- id: doi:10.1289/ehp.10573
+  title: "Use of Cell Viability Assay Data Improves the Prediction Accuracy of Conventional\
+    \ Quantitative Structure\u2013Activity Relationship Models of Animal Carcinogenicity"
+  authors:
+  - Hao Zhu
+  - Ivan Rusyn
+  - Ann Richard
+  - Alexander Tropsha
+  publisher: Environmental Health Perspectives
+  date: '2008-04-01'
+  link: https://doi.org/bmv3fg
+  _cache: 1d133baa99041e5b26378cbfa0ee7fadabc568ef83cdb069f778bd99e721c266
+- id: doi:10.1021/ci700334f
+  title: 'Distributed Chemical Computing Using ChemStar: An Open Source Java Remote
+    Method Invocation Architecture Applied to Large Scale Molecular Data from PubChem'
+  authors:
+  - M. Karthikeyan
+  - S. Krishnan
+  - Anil Kumar Pandey
+  - Andreas Bender
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2008-04-01'
+  link: https://doi.org/cntpnw
+  _cache: 4a7a6ab74dc2367ca78b1d264721d2c07cd4ba6725b1eee70c5d2b680e72aa77
+- id: doi:10.1007/s10822-008-9199-2
+  title: Differentiation of AmpC beta-lactamase binders vs. decoys using classification
+    kNN QSAR modeling and application of the QSAR classifier to virtual screening
+  authors:
+  - Jui-Hua Hsieh
+  - Xiang S. Wang
+  - Denise Teotico
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2008-03-13'
+  link: https://doi.org/dm4rxr
+  _cache: 858be54cc0ca17b21d7c13a264dd6247ee5d4c744525f0112420046712d3f0d9
+- id: doi:10.1021/ci700443v
+  title: Combinatorial QSAR Modeling of Chemical Toxicants Tested against Tetrahymena
+    pyriformis
+  authors:
+  - Hao Zhu
+  - Alexander Tropsha
+  - Denis Fourches
+  - Alexandre Varnek
+  - Ester Papa
+  - Paola Gramatica
+  - "Tomas \xD6berg"
+  - Phuong Dao
+  - Artem Cherkasov
+  - Igor V. Tetko
+  publisher: Journal of Chemical Information and Modeling
+  date: '2008-03-01'
+  link: https://doi.org/bmbw33
+  _cache: 1af00110388b69935e1391274c1904a85b67e7a712b6d21c0897ccb52c529fc4
+- id: doi:10.2174/138161207782794257
+  title: Predictive QSAR Modeling Workflow, Model Applicability Domains, and Virtual
+    Screening
+  authors:
+  - Alexander Tropsha
+  - Alexander Golbraikh
+  publisher: Current Pharmaceutical Design
+  date: '2007-12-01'
+  link: https://doi.org/cqxwh2
+  _cache: 428cc54a42fff61d2eecca0aaad4dcab8505e14463b7cb170519c2c2efd3c8f9
+- id: doi:10.1038/nchembio0807-447
+  title: Systems chemical biology
+  authors:
+  - Tudor I Oprea
+  - Alexander Tropsha
+  - Jean-Loup Faulon
+  - Mark D Rintoul
+  publisher: Nature Chemical Biology
+  date: '2007-08-01'
+  link: https://doi.org/dkg3sz
+  _cache: 7810bac2640220eb5738dd969b40ceb91e8d174f64f8b3517c177d635106f845
+- id: doi:10.1007/s10822-007-9102-6
+  title: 'Antitumor Agents 252. Application of validated QSAR models to database mining:
+    discovery of novel tylophorine derivatives as potential anticancer agents'
+  authors:
+  - Shuxing Zhang
+  - Linyi Wei
+  - Ken Bastow
+  - Weifan Zheng
+  - Arnold Brossi
+  - Kuo-Hsiung Lee
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2007-03-06'
+  link: https://doi.org/cvgmt5
+  _cache: d788f21c003212d822d59905513f728f94efdd6ab615b89aba9a960e5b60159e
+- id: doi:10.1021/jm051245v
+  title: "QSAR Modeling of Human Serum Protein Binding with Several Modeling Techniques\
+    \ Utilizing Structure\u2212Information Representation"
+  authors:
+  - Joseph R. Votano
+  - Marc Parham
+  - L. Mark Hall
+  - Lowell H. Hall
+  - Lemont B. Kier
+  - Scott Oloff
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2006-11-07'
+  link: https://doi.org/cffqhc
+  _cache: 934026b51fdf0cdc3446a5621c5e744c7a2eafba87a7ef58e0b63856939d3f4a
+- id: doi:10.1021/ci060132x
+  title: "A Novel Automated Lazy Learning QSAR (ALL-QSAR) Approach:\u2009 Method Development,\
+    \ Applications, and Virtual Screening of Chemical Databases Using Validated ALL-QSAR\
+    \ Models"
+  authors:
+  - Shuxing Zhang
+  - Alexander Golbraikh
+  - Scott Oloff
+  - Harold Kohn
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2006-09-01'
+  link: https://doi.org/cctfrf
+  _cache: 473d9c04dc754ed4a3b24b2ec7736565e39f4aa5cbb6f2d46992899b19fac7aa
+- id: doi:10.1126/science.313.5791.1235c
+  title: Why Academic Drug Discovery Makes Sense
+  authors:
+  - Alan P. Kozikowski
+  - Bryan Roth
+  - Alexander Tropsha
+  publisher: Science
+  date: '2006-09-01'
+  link: https://doi.org/d9cjf3
+  _cache: 8fa8ebcc06b5dad02abf6bcc6d6603fe40df20d8a37c4f34ca98d350495b720a
+- id: doi:10.1021/ct600071z
+  title: Calculation of the Relative Binding Affinity of Enzyme Inhibitors Using the
+    Generalized Linear Response Method
+  authors:
+  - Xin Chen
+  - Alexander Tropsha
+  publisher: Journal of Chemical Theory and Computation
+  date: '2006-07-04'
+  link: https://doi.org/fr4js4
+  _cache: 905d77992c5e9c8485f750128e2b882530ef50d695816ff8a8e88014d83ffb24
+- id: doi:10.1016/j.bmc.2006.05.077
+  title: 'Novel ligands for the human histamine H1 receptor: Synthesis, pharmacology,
+    and comparative molecular field analysis studies of 2-dimethylamino-5-(6)-phenyl-1,2,3,4-tetrahydronaphthalenes'
+  authors:
+  - Ola M. Ghoneim
+  - Jacqueline A. Legere
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  - Raymond G. Booth
+  publisher: Bioorganic &amp; Medicinal Chemistry
+  date: '2006-10-01'
+  link: https://doi.org/dvzb7b
+  _cache: e0ff1f3c938ad41ba440f365197caa1027c5bf7a07a568930bab528745847008
+- id: doi:10.1110/ps.062189906
+  title: Structure-based function inference using protein family-specific fingerprints
+  authors:
+  - Deepak Bandyopadhyay
+  - Jun Huan
+  - Jinze Liu
+  - Jan Prins
+  - Jack Snoeyink
+  - Wei Wang
+  - Alexander Tropsha
+  publisher: Protein Science
+  date: '2006-06-01'
+  link: https://doi.org/dh7vtf
+  _cache: 66afe3614870ffa2fb7d2911777d97602631326b0d50a10485b10b6e21633b51
+- id: doi:10.1021/ci0504317
+  title: Combinatorial QSAR Modeling of P-Glycoprotein Substrates
+  authors:
+  - Patricia de Cerqueira Lima
+  - Alexander Golbraikh
+  - Scott Oloff
+  - Yunde Xiao
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2006-03-02'
+  link: https://doi.org/dwd6nw
+  _cache: c56859074d252d43130d1bc5a609ed10510b0c02902f1ce2a9434bceea0c5980
+- id: doi:10.1021/jm050260x
+  title: "Development of Quantitative Structure\u2212Binding Affinity Relationship\
+    \ Models Based on Novel Geometrical Chemical Descriptors of the Protein\u2212\
+    Ligand Interfaces"
+  authors:
+  - Shuxing Zhang
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2006-04-13'
+  link: https://doi.org/bp2cmb
+  _cache: 451cfdfb20f9fb43dc98dfb940528f61bc477b4be786b7d93c9bfd8a5cd51eac
+- id: doi:10.1021/ci050065r
+  title: "Chemometric Analysis of Ligand Receptor Complementarity:\u2009 Identifying\
+    \ Complementary Ligands Based on Receptor Information (CoLiBRI)"
+  authors:
+  - Scott Oloff
+  - Shuxing Zhang
+  - Nagamani Sukumar
+  - Curt Breneman
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2006-01-11'
+  link: https://doi.org/bcsfj9
+  _cache: 04015578e621a43d6b5d1c0c5e695ff0ce4c5479204ace94ecde6bffbaa7feff
+- id: doi:10.1021/jm049116m
+  title: Application of Validated QSAR Models of D<sub>1</sub> Dopaminergic Antagonists
+    for Database Mining
+  authors:
+  - Scott Oloff
+  - Richard B. Mailman
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2005-10-13'
+  link: https://doi.org/b5j42c
+  _cache: b1702adb249071c85cc97b60acc235e443f8709100892dc420326f437cb9c318
+- id: doi:10.1007/s10822-005-4789-8
+  title: "Quantitative Structure\u2013activity Relationship Analysis of Pyridinone\
+    \ HIV-1 Reverse Transcriptase Inhibitors using the k Nearest Neighbor Method and\
+    \ QSAR-based Database Mining"
+  authors:
+  - Jose Luis Medina-Franco
+  - Alexander Golbraikh
+  - Scott Oloff
+  - Rafael Castillo
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2005-04-01'
+  link: https://doi.org/bn95gc
+  _cache: 09347d73f1130b2d46d841c69c64b40ce847752538b1aee73e48d3d16597ac76
+- id: doi:10.1089/cmb.2005.12.657
+  title: Comparing Graph Representations of Protein Structure for Mining Family-Specific
+    Residue-Based Packing Motifs
+  authors:
+  - Jun Huan
+  - Deepak Bandyopadhyay
+  - Wei Wang
+  - Jack Snoeyink
+  - Jan Prins
+  - Alexander Tropsha
+  publisher: Journal of Computational Biology
+  date: '2005-07-01'
+  link: https://doi.org/fstdh6
+  _cache: d01a691217f62d4f78438f93cc90d91c1f5336e2fd04991b2c5e158af9f0e494
+- id: doi:10.1021/ci049628+
+  title: "<i>k</i> Nearest Neighbors QSAR Modeling as a Variational Problem:\u2009\
+    \ Theory and Applications"
+  authors:
+  - Peter Itskowitz
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Modeling
+  date: '2005-04-15'
+  link: https://doi.org/brbpw7
+  _cache: 52659cb3df58e430e40dff868aa9bbc68e397bc7bfce1993c64e2f40c913e468
+- id: doi:10.1093/mutage/geh043
+  title: Three new consensus QSAR models for the prediction of Ames genotoxicity
+  authors:
+  - J. R. Votano
+  publisher: Mutagenesis
+  date: '2004-09-01'
+  link: https://doi.org/b32jsw
+  _cache: 915f5d71fe12347786a5e91f8e18cdbac0efe10fac7fa931c6d6ff9cbc6ccd45
+- id: doi:10.1016/j.jmgm.2004.05.001
+  title: "Modeling of p38 mitogen-activated protein kinase inhibitors using the Catalyst\u2122\
+    \ HypoGen and k-nearest neighbor QSAR methods"
+  authors:
+  - Zhiyan Xiao
+  - Shikha Varma
+  - Yun-De Xiao
+  - Alexander Tropsha
+  publisher: Journal of Molecular Graphics and Modelling
+  date: '2004-10-01'
+  link: https://doi.org/bdqjcr
+  _cache: d0cbfbb0039600956463941b23d5802e256089a3500ed9c81fc45bc2de1e0241
+- id: doi:10.1002/jps.20117
+  title: "Quantitative structure\u2212pharmacokinetic parameters relationships (QSPKR)\
+    \ analysis of antimicrobial agents in humans using simulated annealing k\u2010\
+    nearest\u2010neighbor and partial least\u2010square analysis methods**This paper\
+    \ was presented in part at the Annual Meeting of the American Association of Pharmaceutical\
+    \ Scientists in Toronto in 2003."
+  authors:
+  - Chee Ng
+  - Yunde Xiao
+  - Wendy Putnam
+  - Bert Lum
+  - Alexander Tropsha
+  publisher: Journal of Pharmaceutical Sciences
+  date: '2004-10-01'
+  link: https://doi.org/cnczfh
+  _cache: 955250f4895208111c354a345b9d05291b69ce2253271e31ce5ef1c5a1cddca1
+- id: doi:10.1002/prot.20131
+  title: Evaluation of the relative stability of liganded versus ligand-free protein
+    conformations using Simplicial Neighborhood Analysis of Protein Packing (SNAPP)
+    method
+  authors:
+  - Douglas B. Sherman
+  - Shuxing Zhang
+  - J. Bruce Pitner
+  - Alexander Tropsha
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2004-06-11'
+  link: https://doi.org/bf2vsk
+  _cache: 3182a06bc227616226da1592135bee933421b514faefa45aa5a62eb1359703b7
+- id: doi:10.1021/bi0499112
+  title: A Conformational Change in Heparan Sulfate 3-<i>O</i>-Sulfotransferase-1
+    Is Induced by Binding to Heparan Sulfate
+  authors:
+  - Suzanne C. Edavettal
+  - Kevin Carrick
+  - Ruchir R. Shah
+  - Lars C. Pedersen
+  - Alexander Tropsha
+  - R. Marshall Pope
+  - Jian Liu
+  publisher: Biochemistry
+  date: '2004-04-01'
+  link: https://doi.org/fn2zhc
+  _cache: 28beb201f7009434cf6c0b4b9ef5ca600918ade5cd4ca2d25d6c6f6b08d97a24
+- id: doi:10.1021/jm030584q
+  title: "Application of Predictive QSAR Models to Database Mining:\u2009 Identification\
+    \ and Experimental Validation of Novel Anticonvulsant Compounds"
+  authors:
+  - Min Shen
+  - "C\xE9cile B\xE9guin"
+  - Alexander Golbraikh
+  - James P. Stables
+  - Harold Kohn
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2004-03-20'
+  link: https://doi.org/c4wxbf
+  _cache: 425b968acee8ea53bd8ff65d5fe4965abc28cc202a86d1b5ac3de3b318d3fbe2
+- id: doi:10.1021/ci034203t
+  title: Combinatorial QSAR of Ambergris Fragrance Compounds
+  authors:
+  - Assia Kovatcheva
+  - Alexander Golbraikh
+  - Scott Oloff
+  - Yun-De Xiao
+  - Weifan Zheng
+  - Peter Wolschann
+  - Gerhard Buchbauer
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Computer Sciences
+  date: '2004-02-05'
+  link: https://doi.org/cwvw84
+  _cache: fee101232df38255f5cc6b956bb016f5ed6c4864085c24793299de0ca042ba82
+- id: doi:10.1016/S0076-6879(03)74022-1
+  title: 'Simplicial Neighborhood Analysis of Protein Packing (SNAPP): A Computational
+    Geometry Approach to Studying Proteins'
+  authors:
+  - Alexander Tropsha
+  - Charles W. Carter
+  - Stephen Cammer
+  - Iosif I. Vaisman
+  publisher: Methods in Enzymology
+  date: '2003-01-01'
+  link: https://doi.org/c8659k
+  _cache: 09268cb03fe7681b089d6c91def3737dfdd25c225c5a45ef080b2b27634bf2c9
+- id: doi:10.1038/nm968
+  title: "Autoimmunity is triggered by cPR-3(105\u2013201), a protein complementary\
+    \ to human autoantigen proteinase-3"
+  authors:
+  - William F Pendergraft
+  - Gloria A Preston
+  - Ruchir R Shah
+  - Alexander Tropsha
+  - Charles W Carter
+  - J Charles Jennette
+  - Ronald J Falk
+  publisher: Nature Medicine
+  date: '2003-12-07'
+  link: https://doi.org/bcc7b7
+  _cache: 4b47d0d77c8e4e40cefdb88d6abce67ea7c44e403020548fa8405268a6522b16
+- id: doi:10.1023/a:1025386326946
+  title: ''
+  authors:
+  - Alexander Golbraikh
+  - Min Shen
+  - Zhiyan Xiao
+  - Yun-De Xiao
+  - Kuo-Hsiung Lee
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2003-01-01'
+  link: https://doi.org/fjgzvm
+  _cache: 3b001532b6499f0658c4429ecf987aee9498fb8790e781a200a24c2a7e5c58a3
+- id: doi:10.1093/bioinformatics/btg186
+  title: Development of a four-body statistical pseudo-potential to discriminate native
+    from non-native protein conformations
+  authors:
+  - B. Krishnamoorthy
+  - A. Tropsha
+  publisher: Bioinformatics
+  date: '2003-08-11'
+  link: https://doi.org/dbqznh
+  _cache: 1845cee731f41afefdd80403d702a5d87f0aeffafb4b1864075f666453417f7f
+- id: doi:10.1021/jm020491t
+  title: Development and Validation of <i>k</i>-Nearest-Neighbor QSPR Models of Metabolic
+    Stability of Drug Candidates
+  authors:
+  - Min Shen
+  - Yunde Xiao
+  - Alexander Golbraikh
+  - Vijay K. Gombar
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2003-05-30'
+  link: https://doi.org/ckm6bv
+  _cache: c93a7bf1e701ebc0632c38dd761a0a139ecfde3107c37bd553a90ea36cd8005b
+- id: doi:10.1023/a:1021372108686
+  title: ''
+  authors:
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Molecular Diversity
+  date: '2000-01-01'
+  link: https://doi.org/dqfsrv
+  _cache: 963c5cfc86439ff4866885300cf29e442c286a4d027a21d474c14e893f494dc0
+- id: doi:10.1021/ci025516b
+  title: QSAR Modeling Using Chirality Descriptors Derived from Molecular Topology
+  authors:
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Computer Sciences
+  date: '2002-12-05'
+  link: https://doi.org/fbt3q8
+  _cache: ad7d269c35ea00d94de4efcc702aa91a710e3ca8046a84576123026b7547e923
+- id: doi:10.1023/a:1020869118689
+  title: ''
+  authors:
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  publisher: Journal of Computer-Aided Molecular Design
+  date: '2002-01-01'
+  link: https://doi.org/bz8d27
+  _cache: c24b3943df17c04b1a8b5e7fc3543bd230034b3bc98ac97f0920576cc8d3a55a
+- id: doi:10.1021/ci0103469
+  title: Novel <i>ZE</i>-Isomerism Descriptors Derived from Molecular Topology and
+    Their Application to QSAR Analysis
+  authors:
+  - Alexander Golbraikh
+  - Danail Bonchev
+  - Alexander Tropsha
+  publisher: Journal of Chemical Information and Computer Sciences
+  date: '2002-05-11'
+  link: https://doi.org/cfsz5d
+  _cache: 39b0514e9028328250171652ad2195e5c193d66fd06a6890369841b3c333518f
+- id: doi:10.1021/jm010488u
+  title: "Quantitative Structure\u2212Activity Relationship Analysis of Functionalized\
+    \ Amino Acid Anticonvulsant Agents Using <i>k</i> Nearest Neighbor and Simulated\
+    \ Annealing PLS Methods"
+  authors:
+  - Min Shen
+  - Arnaud LeTiran
+  - Yunde Xiao
+  - Alexander Golbraikh
+  - Harold Kohn
+  - Alexander Tropsha
+  publisher: Journal of Medicinal Chemistry
+  date: '2002-05-30'
+  link: https://doi.org/dhnbvz
+  _cache: 8d734e4b0686e7186f334c9b69ade73c7f4e23d912e21ef94a2fe293ad3b17c6
+- id: doi:10.1021/jm0105427
+  title: Antitumor Agents. 213. Modeling of Epipodophyllotoxin Derivatives Using Variable
+    Selection <i>k</i> Nearest Neighbor QSAR Method
+  authors:
+  - Zhiyan Xiao
+  - Yun-De Xiao
+  - Jun Feng
+  - Alexander Golbraikh
+  - Alexander Tropsha
+  - Kuo-Hsiung Lee
+  publisher: Journal of Medicinal Chemistry
+  date: '2002-04-24'
+  link: https://doi.org/fcskpr
+  _cache: 3850614ab04cfd5652a74a42fd811d088653f297b7ecd487f4aec5f2e5bd19a7
+- id: doi:10.2174/1386207024607400
+  title: Rational Principles of Compound Selection for Combinatorial Library Design
+  authors:
+  - ' Tropsha'
+  publisher: Combinatorial Chemistry &amp; High Throughput Screening
+  date: '2002-01-01'
+  link: https://doi.org/grhjj2
+  _cache: aaf4a2a59abae4d43fce147a0256994acfd486ddd010b68ed13a388d47a68e86
 - id: doi:10.1038/s42004-022-00733-0
   title: Generative and reinforcement learning approaches for the automated de novo
     design of bioactive compounds
