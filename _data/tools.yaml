@@ -44,3 +44,13 @@
   repo: molecularmodelinglab/salsa
   tags:
     - Model
+    
+- title: ExEmPLAR
+  subtitle: Extracting, Exploring, and Embedding Pathways Leading to Actionable Research
+  group: featured
+  image: images/exemplar.png
+  link: https://www.exemplar.mml.unc.edu/
+  description: A user-interface for exploring and analyzing biomedical knowledge graphs.
+  repo: beasleyjonm/AOP-COP-Path-Extractor
+  tags:
+    - Webserver
