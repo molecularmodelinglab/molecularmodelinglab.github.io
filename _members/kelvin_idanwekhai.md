@@ -1,6 +1,6 @@
 ---
 name: Kelvin Idanwekhai
-image: images/FILLME.jpg
+image: images/kelvin.jpg
 description: Recovering Tech Bro
 role: phd
 aliases:
