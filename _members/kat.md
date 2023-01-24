@@ -1,6 +1,6 @@
 ---
 name: Kat Kirchoff
-image: images/james.jpg
+image: images/kat.jpg
 description: Head SALSA Chef
 role: phd
 aliases:
