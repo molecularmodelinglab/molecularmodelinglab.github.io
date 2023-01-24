@@ -8,5 +8,5 @@ aliases:
 links:
   email: enesk@unc.edu
   github: eneskelestemur
-  linkedin: www.linkedin.com/in/enes-kelestemur
+  linkedin: enes-kelestemur
 ---
