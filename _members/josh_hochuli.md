@@ -1,6 +1,6 @@
 ---
 name: Josh Hochuli
-image: images/josh.jpg
+image: images/josh.png
 role: phd
 aliases:
   - Joshua Hochuli
