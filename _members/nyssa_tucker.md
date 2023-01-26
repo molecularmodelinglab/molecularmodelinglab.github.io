@@ -6,6 +6,7 @@ role: phd
 aliases:
   - N. Tucker
   - N Tucker
+  - 0000-0002-6740-8313
 links:
   email: nyssa@unc.edu
   github: ntuck
