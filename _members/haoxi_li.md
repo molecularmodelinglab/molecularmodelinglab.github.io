@@ -1,7 +1,6 @@
 ---
 name: Haoxi Li
 image: images/haoxi.png
-description: 
 role: postdoc
 aliases:
   - H. Li
