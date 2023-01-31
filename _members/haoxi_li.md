@@ -1,6 +1,6 @@
 ---
 name: Haoxi Li
-image: image/haoxi.png
+image: images/haoxi.png
 description: 
 role: postdoc
 aliases:
