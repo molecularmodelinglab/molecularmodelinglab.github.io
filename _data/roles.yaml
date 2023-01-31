@@ -13,6 +13,10 @@ postdoc:
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
+  
+intern:
+  icon: fas fa-graduation-cap
+  text: Intern
 
 undergrad:
   icon: fas fa-user-graduate
