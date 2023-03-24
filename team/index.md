@@ -7,91 +7,63 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab is a team of highly skilled interdisciplinary scientists and scientists-in-training. Cheminformatics is a field
+that requires effective and clear communication between a wide array experts in different areas, from biology to 
+synthetic chemistry. We work to approach our work from as many different viewpoints as possible so that it is the most
+impact to our colleagues that utilize it.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: assistant_prof, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+
+{:.center}
+
+{% include section.html dark=true %}
+
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+We want to push the frontier of data science and train the next generation of data scientists.
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="- Join the Team"
+  link="join"
+  style="button"
+%}
+
+{% include section.html %}
+
+## Collaborators 
+
+As computer loving people, we don't often get to see the insides of chemical lab. Instead, in the pursuit safety, we 
+leave this work up to out lovely collaborators, both at UNC and across the globe and experts in all various domains. 
+We also collaborate closely with several other computational groups and companies. 
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: colab" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: adjunct, group: colab" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: org, group: colab" style="small" %}
+
+{% include section.html %}
+
+## Alumni
+
+Alumni from the MML have found success at all kinds of futures, from academic to industrial.
+These are past lab members who have moved on for our group to further innovate elsewhere
+
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: alum" style="small" %}
 
 {% include section.html %}
 
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: intern"
-%}
-{:.center}
-
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Join
-
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
-
-{% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  include figure.html
+  image="images/lab_photo.jpg"
+  caption="The MML managed to have 60% attendance on picture day (NEW RECORD!)"
+  width="100%"
 %}

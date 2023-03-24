@@ -2,15 +2,18 @@
 title: Home
 ---
 
-# A memorable quote or some thing
+# Supporting Drug Discovery with Data Science
 
-Some text about what we do and stuff
+The Molecular Modeling Lab (MML) at UNC Chapel Hill Eshelman School of Pharmacy works at the interface of 
+pharmaceutical and data science to happen accelerate the discovery of novel drugs. Our focus is split between 
+development of open source, innovative computational methods and applications of such methods in tangible discovery 
+campaigns. 
 
 {%
   include link.html
   type="github"
   icon=""
-  text="checkout our GitHub"
+  text="Checkout our GitHub"
   link="molecularmodelinglab"
   style="button"
 %}
@@ -33,8 +36,9 @@ Some text about what we do and stuff
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We use machine learning and datascience to investigate the relationship between chemicals and their various biological
+activities. We strive to not just make advancements in methodology, but to development robust workflows for using these
+tools. 
 
 {%
   include link.html
@@ -50,13 +54,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/reserach.jpg"
   link="research"
-  title="Our Research"
+  title="QSAR and Cheminformatics"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tools are useless if no one can use them. All of our tools and code is freely available for anyone to utilize and build
+upon. Further, many have easy to use web interfaces to make them more accessible to the public.
 
 {%
   include link.html
@@ -78,7 +82,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a group a diverse researchers with many different academic backgrounds. Our team approaches problems from many
+viewpoints to make our work the most impactful
 
 {%
   include link.html
@@ -98,5 +103,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you're interested in joining the MML reach out to [Dr. Alexander Tropsha](https://pharmacy.unc.edu/directory/tropsha/)

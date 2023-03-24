@@ -1,43 +1,69 @@
 - title: BANANA
   subtitle: BAsic NeurAl Network for bindding Affinity
-  group: featured
+  group: model
   image: images/banana_logo_small.png
-  link: https://github.com/
+  link: https://github.com/molecularmodelinglab/banana
   description: MPNN for predicting binding affinity of small molecules to protein pockets.
   repo: molecularmodelinglab/banana
   tags:
     - Model
+    - Binding Affinity
 
 - title: BigBind
-  group: featured
+  group: database
   image: images/bigbind_logo.png
-  link: https://github.com/
+  link: https://github.com/molecularmodelinglab/bigbind
   description: A dataset built from CrossDocked and ChEMBL data
   repo: molecularmodelinglab/bigbind
   tags:
     - Dataset
+    - Structural
 
 - title: SMACC
   subtitle: Small Molecule Antiviral Compound Collection
-  group: more
-  image: images/smacc_logo.svg
+  group: database
+  image: images/smacc_logo.png
   link: https://smacc.mml.unc.edu/
   description: A dataset a small molecules that have antiviral activity collected from ChEMBL.
   tags:
     - Dataset
+    - Virology
 
 - title: STopTox
-  group: featured
+  subtitle: Systemic and Topical chemical Toxicity
+  group: model
   image: images/stoptox_logo_tp.png
   link: https://stoptox.mml.unc.edu/
-  description: a machine learning app to predict the battery of acute toxicity test classically known as "6-pack"
+  description: A machine learning app to predict the battery of acute toxicity test classically known as "6-pack"
   tags:
     - Webserver
     - Model
+    - Toxicology
+
+- title: PhaKinPro
+  subtitle: Pharmacokinetic Property calculator
+  group: model
+  image: images/tmp_logo.png
+  link: https://phakinpro.mml.unc.edu/
+  description: A machine learning app to predict several human pharmacokinetic endpoint for small molecules
+  tags:
+    - Webserver
+    - Model
+    - Pharmacokinetic
+
+- title: LiabilityPredictor
+  group: model
+  image: images/tmp_logo.png
+  link: https://liability.mml.unc.edu/
+  description: A machine learning app to predict if a small molecule is at risk of interfering/being a liability to an assay
+  tags:
+    - Webserver
+    - Model
+    - Assay
 
 - title: SALSA
   subtitle: Structurally Aware Latent Space Auto-encoder
-  group: featured
+  group: model
   image: images/Salsa-Logo.png
   link: https://github.com/
   description: A contrastive autoencoder for generating a latent space where chemicals of similar graph edit distance are near each other
@@ -47,10 +73,11 @@
     
 - title: ExEmPLAR
   subtitle: Extracting, Exploring, and Embedding Pathways Leading to Actionable Research
-  group: featured
+  group: tool
   image: images/robokop.png
   link: https://www.exemplar.mml.unc.edu/
   description: A user-interface for exploring and analyzing biomedical knowledge graphs.
   repo: beasleyjonm/AOP-COP-Path-Extractor
   tags:
     - Webserver
+    - Knowledge Graph

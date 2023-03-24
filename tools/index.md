@@ -7,21 +7,31 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As a lab, we release and periodically update all the tools we develop and use for our research. Our tools are open 
+sourced, and we encourage you to reach out to us with any collaboration or issues. The goal is to produce high quality, 
+clean tools that can be easily utilized by any research with minimal investment to learning how the tool works. 
+Sometimes we offer a tool as a webserver for easier use, though standalone local version exist as well.
+
+Our tools, curated databases, and webservers can be found below. If you use one of these please cite it! Our 
+students and researchers work hard to make these tools available for easy use, give them a pat on the back.
+
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Predictive models
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: model" style="small" %}
 
-{% include section.html %}
+## Methods
 
-## More
+{% include list.html component="card" data="tools" filters="group: method" style="small" %}
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+## Databases
+
+{% include list.html component="card" data="tools" filters="group: database" style="small" %}
+
+## Tools
+
+{% include list.html component="card" data="tools" filters="group: tool" style="small" %}

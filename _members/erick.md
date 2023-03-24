@@ -1,6 +1,6 @@
 ---
 name: Erick Tavares Marcelino Alves
-image: Pictures/capture.png
+image: images/default-person.png
 description: Brazilian Toxiqsar guy
 role: intern
 aliases:

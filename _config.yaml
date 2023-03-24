@@ -4,13 +4,13 @@
 title: Molecular Modeling Lab @ UNC
 description: The webpage of the Molecular Modeling Lab run by Professor Alexander Tropsha at UNC Chapel Hill
 logo: images/logo_no_text.svg
-header: images/lab_photo.jpg
-footer: images/lab_photo.jpg
+header: images/web_banner.jpg
+footer: images/web_banner.jpg
 baseurl: 
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: alex_tropsha@unc.edu
   google-scholar: inPIy48AAAAJ
   github: molecularmodelinglab
 

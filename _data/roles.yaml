@@ -2,7 +2,7 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
  
-assitant_prof:
+assistant_prof:
   icon: fas fa-microscope
   text: Assistant Professor
 
@@ -15,7 +15,7 @@ phd:
   text: PhD Student
   
 intern:
-  icon: fas fa-graduation-cap
+  icon: fas fa-code
   text: Intern
 
 undergrad:
@@ -29,3 +29,11 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+adjunct:
+  icon: fas fa-book-open-reader
+  text: Adjunct Professor
+
+org:
+  icon: fas fa-building
+  text: Organization
