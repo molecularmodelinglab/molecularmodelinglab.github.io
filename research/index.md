@@ -7,7 +7,22 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-The Laboratory for Molecular Modeling (MML) develops and applies computational methods and software to address outstanding problems in the areas of molecular and materials design and discovery. Our methods and technologies afford rigorous processing of domain-specific data streams and the creation of predictive models that reliably prioritize experimental studies. . Specific projects include the development of methods and models to accelerate drug discovery (supported by NIH grants R01GM140154) and enable chemical safety assessment and the selection or design of novel drug candidates with optimal ADMET (Adsorption, Distribution, Metabolism, Excretion, Toxicity) properties (supported by NIH grants R41ES033857 and R41ES033589), with applications to several pharmaceutical areas including Alzheimer’s Disease (previously supported by NIH grant R56AG059428), cancer (previously supported by NIH grant U01CA207160), and viral diseases (supported by NIH grant U19AI171292). We are also actively working in the emerging area of biomedical knowledge graph mining (supported by NIH grants U24ES035214 and 3OT2TR003441 and a UNC Creativity Hub grant) building tools and methodologies for addressing complex biomedical questions. Another area of active research is materials informatics where we collaborate with colleagues in the UNC Departments of Chemistry and Applied Physical Sciences to support the AI accelerated discovery of solar energy materials (supported by a UNC Creativity Hub grant).
+The Laboratory for Molecular Modeling (MML) develops and applies computational methods and software to address 
+outstanding problems in the areas of molecular and materials design and discovery. Our methods and technologies 
+afford rigorous processing of domain-specific data streams and the creation of predictive models that reliably 
+prioritize experimental studies. Specific projects include the development of methods and models to accelerate 
+drug discovery (supported by NIH grants [R01GM140154](https://reporter.nih.gov/search/QaUpoli2g0SJ7zKRmh4UJQ/project-details/10398798)) and enable chemical safety assessment and the selection or 
+design of novel drug candidates with optimal ADMET (Adsorption, Distribution, Metabolism, Excretion, Toxicity) 
+properties (supported by NIH grants [R41ES033857](https://reporter.nih.gov/search/FPjWzN7VA0i0WsDOw6j3Yg/project-details/10379210) and [R41ES033589](https://reporter.nih.gov/search/FPjWzN7VA0i0WsDOw6j3Yg/project-details/10324720)), with applications to several pharmaceutical 
+areas including Alzheimer’s Disease (previously supported by NIH grant [R56AG059428](https://reporter.nih.gov/search/QaUpoli2g0SJ7zKRmh4UJQ/project-details/9701335)), cancer (previously supported 
+by NIH grant [U01CA207160](https://reporter.nih.gov/search/QaUpoli2g0SJ7zKRmh4UJQ/project-details/9548186)), and viral diseases (supported by NIH grant [U19AI171292](https://reporter.nih.gov/search/IAbeniS3GkapIr1iTaF3Ww/project-details/10513679)). We are also actively working in 
+the emerging area of biomedical knowledge graph mining (supported by NIH grants [U24ES035214](https://reporter.nih.gov/search/QaUpoli2g0SJ7zKRmh4UJQ/project-details/10494653) and [3OT2TR003441](https://reporter.nih.gov/search/QaUpoli2g0SJ7zKRmh4UJQ/project-details/10706749) and a 
+[UNC Creativity Hub grant](https://research.unc.edu/creativity-hubs/projects/winner-2022/)) building tools and methodologies for addressing complex biomedical questions. Another 
+area of active research is materials informatics where we collaborate with colleagues in the UNC Departments of 
+Chemistry and Applied Physical Sciences to support the AI accelerated discovery of solar energy materials 
+(supported by a [UNC Creativity Hub grant](https://research.unc.edu/creativity-hubs/projects/winner-2020/)).
+
+See [Funding](/funding) for more information about our funding sources
 
 Key publications by areas of research:
 
