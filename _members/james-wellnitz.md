@@ -5,6 +5,7 @@ description: Chief Slurm Officer
 role: phd
 aliases:
   - J. Wellnitz
+  - James Wellnitz
   - J Wellnitz
 links:
   home-page: https://jimmyjbling.github.io/
