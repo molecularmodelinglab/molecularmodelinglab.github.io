@@ -4365,3 +4365,63 @@
   orcid: 0000-0003-3802-8896
   page: alexander-tropsha
   _cache: e16513660c9a3df7d209925fc04f2cc5dc216629c7bb04b99a1ae11732697636
+- id: doi:10.26434/chemrxiv-2023-rnc4l
+  title: 'Novel Pharmacokinetics Profiler (PhaKinPro): Model Development, Validation,
+    and Implementation as a Web-Tool for Triaging Compounds with Undesired PK Profiles'
+  authors:
+  - Marielle Rath
+  - James Wellnitz
+  - Holli-Joi Martin
+  - Cleber Melo-Filho
+  - Joshua Hochuli
+  - Guilherme Martins da Silva
+  - Jon-Michael Beasley
+  - Travis Maxfield
+  - Zoe Sessions
+  - Konstantin Popov
+  - Alexey Zakharov
+  - Artem Cherkasov
+  - Vinicius Alves
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2023-03-20'
+  link: https://doi.org/grzzm7
+  orcid: 0000-0002-9181-3431
+  page: james-wellnitz
+  _cache: b034036af008ba498181ecf057c97c9ef738825185b889b7e9cf8f75e56bba3e
+- id: doi:10.26434/chemrxiv-2023-r78sj
+  title: 'Lies and Liabilities: Computational Assessment of High-Throughput Screening
+    Hits to Identify Artifact Compounds.'
+  authors:
+  - Vinicius Alves
+  - Adam Yasgar
+  - James Wellnitz
+  - Ganesha Bantukallu
+  - Marielle Rath
+  - Rodolpho Braga
+  - Stephen Capuzzi
+  - Anton Simeonov
+  - Eugene Muratov
+  - Alexey Zakharov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2023-02-22'
+  link: https://doi.org/grzzm6
+  orcid: 0000-0002-9181-3431
+  page: james-wellnitz
+  _cache: a206317e911db707a5c1da742e6ea5206c6e0fd6505b84c3ea228331f2a7fcd4
+- id: doi:10.1111/mmi.14666
+  title: "The assembly of \u03B2\u2010barrel membrane proteins by BAM and SAM"
+  authors:
+  - Karl Lundquist
+  - Evan Billings
+  - Maxine Bi
+  - James Wellnitz
+  - Nicholas Noinaj
+  publisher: Molecular Microbiology
+  date: '2020-12-23'
+  link: https://doi.org/grzzn2
+  orcid: 0000-0002-9181-3431
+  page: james-wellnitz
+  _cache: 19776b9ffe732a32cb4d52b9959e886a1cd71daec3e8749bc0486e651fab0ca0
