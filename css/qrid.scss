@@ -6,13 +6,26 @@ $one: 500px;
 
 .grid {
   display: grid;
-  --repeat: 5;
-  grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
-  gap: 0px;
+  gap: 10px;
   //margin: 0px 0;
-  grid-row-gap: 0px;
+}
+
+.grid[data-style="buttons"] {
+  --repeat: 3;
+  grid-template-columns: repeat(var(--repeat), 1fr);
+  margin-bottom: -200px;
+  align-content: center;
+
+  & > * {
+    aspect-ratio: 1 / 1;
+  }
+
+  & img {
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+  }
 }
 
 .grid > * {
@@ -20,7 +33,6 @@ $one: 500px;
   min-height: 0;
   width: 100%;
   //max-height: 50vh;
-  margin-bottom: -60px;
 }
 
 @media (max-width: $two) {
@@ -36,8 +48,11 @@ $one: 500px;
 }
 
 .grid[data-style="square"] {
+  --repeat: 4;
+  grid-template-columns: repeat(var(--repeat), 1fr);
   align-items: center;
   align-content: center;
+  margin-bottom: -60px;
 
   & > * {
     aspect-ratio: 1 / 1;

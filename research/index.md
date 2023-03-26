@@ -24,25 +24,25 @@ Chemistry and Applied Physical Sciences to support the AI accelerated discovery 
 
 See [Funding](/funding) for more information about our funding sources
 
-Key publications by areas of research:
+## Selected publications by areas of research:
 
-### Computer-Aided Drug Discovery:
+### Computer-Aided Drug Discovery
 
-1) Tropsha A. Best Practices for QSAR Model Development, Validation, and Exploitation. Mol Inform [Internet] 2010 [cited 2013 Jun 10];29(6–7):476–88. Available from: http://doi.wiley.com/10.1002/minf.201000061
+1) Tropsha A. Best Practices for QSAR Model Development, Validation, and Exploitation. Mol Inform [Internet] 2010 [cited 2013 Jun 10];29(6–7):476–88. Available from: [http://doi.wiley.com/10.1002/minf.201000061](http://doi.wiley.com/10.1002/minf.201000061)
 
-2) Cherkasov A, Muratov EN, Fourches D, et al. QSAR Modeling: Where have you been? Where are you going to? J Med Chem [Internet] 2014 [cited 2013 Dec 22];57(12):4977–5010. Available from: http://www.ncbi.nlm.nih.gov/pubmed/24351051
+2) Cherkasov A, Muratov EN, Fourches D, et al. QSAR Modeling: Where have you been? Where are you going to? J Med Chem [Internet] 2014 [cited 2013 Dec 22];57(12):4977–5010. Available from: [http://www.ncbi.nlm.nih.gov/pubmed/24351051](http://www.ncbi.nlm.nih.gov/pubmed/24351051)
 
 3) Popova M, Isayev O, Tropsha A. Deep reinforcement learning for de novo drug design. Sci Adv 2018;4(7):eaap7885
 
-4) Muratov EN, Amaro R, Andrade CH, et al. A critical overview of computational approaches employed for COVID-19 drug discovery. Chem Soc Rev [Internet] 2021 [cited 2021 Jul 21];50:9121–51. Available from: https://pubs.rsc.org/en/content/articlehtml/2021/cs/d0cs01065k
+4) Muratov EN, Amaro R, Andrade CH, et al. A critical overview of computational approaches employed for COVID-19 drug discovery. Chem Soc Rev [Internet] 2021 [cited 2021 Jul 21];50:9121–51. Available from: [https://pubs.rsc.org/en/content/articlehtml/2021/cs/d0cs01065k](https://pubs.rsc.org/en/content/articlehtml/2021/cs/d0cs01065k)
 
-5) Muratov EN, Bajorath J, Sheridan RP, et al. QSAR without borders. Chem Soc Rev [Internet] 2020 [cited 2020 Jul 9];49(11):3525–64. Available from: https://pubs.rsc.org/en/content/articlehtml/2020/cs/d0cs00098a
+5) Muratov EN, Bajorath J, Sheridan RP, et al. QSAR without borders. Chem Soc Rev [Internet] 2020 [cited 2020 Jul 9];49(11):3525–64. Available from: [https://pubs.rsc.org/en/content/articlehtml/2020/cs/d0cs00098a](https://pubs.rsc.org/en/content/articlehtml/2020/cs/d0cs00098a)
 
 ### ADME/Tox Modeling
 
 1) Borba JVVB, Alves V, Braga R, et al. STopTox: An in-silico alternative to animal testing for acute Systemic and Topical Toxicity. Environ Health Perspect 2022;130(2):27012.
 
-2) Alves VM, Capuzzi SJ, Braga RC, et al. A Perspective and a New Integrated Computational Strategy for Skin Sensitization Assessment. ACS Sustain Chem Eng [Internet] 2018 [cited 2018 Feb 12];6:2845–2859. Available from: http://pubs.acs.org/doi/10.1021/acssuschemeng.7b04220
+2) Alves VM, Capuzzi SJ, Braga RC, et al. A Perspective and a New Integrated Computational Strategy for Skin Sensitization Assessment. ACS Sustain Chem Eng [Internet] 2018 [cited 2018 Feb 12];6:2845–2859. Available from: [http://pubs.acs.org/doi/10.1021/acssuschemeng.7b04220](http://pubs.acs.org/doi/10.1021/acssuschemeng.7b04220)
 
 3) Alves V, Muratov E, Capuzzi S, et al. Alarms about structural alerts. Green Chem 2016;18(16):4348–60.
 
@@ -58,9 +58,11 @@ Key publications by areas of research:
 
 2) Moot T, Isayev O, Call RW, et al. Material informatics driven design and experimental validation of lead titanate as an aqueous solar photocathode. Mater Discov 2016;6:9–16.
 
-3) Isayev O, Fourches D, Muratov EN, et al. Materials Cartography: Representing and Mining Materials Space Using Structural and Electronic Fingerprints. Chem Mater [Internet] 2015 [cited 2015 Jun 26];27(3):735–43. Available from: http://dx.doi.org/10.1021/cm503507h
+3) Isayev O, Fourches D, Muratov EN, et al. Materials Cartography: Representing and Mining Materials Space Using Structural and Electronic Fingerprints. Chem Mater [Internet] 2015 [cited 2015 Jun 26];27(3):735–43. Available from: [http://dx.doi.org/10.1021/cm503507h](http://dx.doi.org/10.1021/cm503507h)
 
 {% include section.html %}
+
+## All publications
 
 {% include search-box.html %}
 

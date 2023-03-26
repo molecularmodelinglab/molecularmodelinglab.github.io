@@ -103,4 +103,4 @@ viewpoints to make our work the most impactful
   text=text
 %}
 
-If you're interested in joining the MML reach out to [Dr. Alexander Tropsha](https://pharmacy.unc.edu/directory/tropsha/)
+If you're interested in joining the MML, [click here!](join)

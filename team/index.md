@@ -7,6 +7,36 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
+
+{% capture content %}
+
+{%
+  include button.html
+  text="Current Members"
+  link="team/#current-members"
+  style="button"
+%}
+
+{%
+  include button.html
+  text="Collaborators"
+  link="team/#collaborators"
+  style="button"
+%}
+
+{%
+  include button.html
+  text="Alumni"
+  link="team/#alumni"
+  style="button"
+%}
+
+{% endcapture %}
+
+{% include qrid.html style="buttons" content=content %}
+
+## Current Members
+
 Our lab is a team of highly skilled interdisciplinary scientists and scientists-in-training. Cheminformatics is a field
 that requires effective and clear communication between a wide array experts in different areas, from biology to 
 synthetic chemistry. We work to approach our work from as many different viewpoints as possible so that it is the most
@@ -30,7 +60,7 @@ We want to push the frontier of data science and train the next generation of da
 {%
   include button.html
   icon="fa-solid fa-handshake-angle"
-  text="- Join the Team"
+  text="&nbsp;Join the Team"
   link="join"
   style="button"
 %}

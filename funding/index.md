@@ -1,7 +1,7 @@
 ---
 title: Funding
 nav:
-  order: 1
+  order: 4
   tooltip: Where we get the money
 ---
 
@@ -39,7 +39,7 @@ these organizations for their continuing support
 
 {% include grid.html style="square" content=content %}
 
-Below is a list of current/past grant that support our group
+Below is a list of current/past grants that support our group
 
  * **ARAGORN: Autonomous Relay Agent for Generation of Ranked Networks (Phase II)**
 We propose an Autonomous Relay Agent for Generation of Ranked Networks (ARAGORN), which will query Knowledge Providers (KPs) and synthesize answers relevant to user-specified questions, building upon algorithms and components developed as part of the ROBOKOP [1,2] application during the feasibility phase of Translator. The ARAGORN services represent the next generation of ROBOKOP component services, iterating and innovating in response to challenges exposed in the Translator feasibility phase. 
