@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://jimmyjbling.github.io/
   google-scholar: ZhselLIAAAAJ
+  orcid: 0000-0002-9181-3431
   email: jwellnitz@unc.edu
   github: jimmjbling
   linkedin: james-wellnitz-3168b0150

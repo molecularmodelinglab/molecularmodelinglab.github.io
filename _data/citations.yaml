@@ -14,6 +14,48 @@
   date: '2023-01-01'
   link: https://doi.org/grm2gz
   _cache: 7c49d2ae54806f7235147301fa58ff998262c8b25c656b25ffcee678c5a95276
+- id: doi:10.26434/chemrxiv-2023-r78sj
+  title: 'Lies and Liabilities: Computational Assessment of High-Throughput Screening
+    Hits to Identify Artifact Compounds.'
+  authors:
+  - Vinicius Alves
+  - Adam Yasgar
+  - James Wellnitz
+  - Ganesha Bantukallu
+  - Marielle Rath
+  - Rodolpho Braga
+  - Stephen Capuzzi
+  - Anton Simeonov
+  - Eugene Muratov
+  - Alexey Zakharov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2023-02-22'
+  link: https://doi.org/grzzm6
+  _cache: cac4f508066e7cfdb6d4a7aba087ecdd0c85f2fb60e872cdb23e847350b20ef7
+- id: doi:10.26434/chemrxiv-2023-rnc4l
+  title: 'Novel Pharmacokinetics Profiler (PhaKinPro): Model Development, Validation,
+    and Implementation as a Web-Tool for Triaging Compounds with Undesired PK Profiles'
+  authors:
+  - Marielle Rath
+  - James Wellnitz
+  - Holli-Joi Martin
+  - Cleber Melo-Filho
+  - Joshua Hochuli
+  - Guilherme Martins da Silva
+  - Jon-Michael Beasley
+  - Travis Maxfield
+  - Zoe Sessions
+  - Konstantin Popov
+  - Alexey Zakharov
+  - Artem Cherkasov
+  - Vinicius Alves
+  - Eugene Muratov
+  - Alexander Tropsha
+  publisher: American Chemical Society (ACS)
+  date: '2023-03-20'
+  link: https://doi.org/grzzm7
+  _cache: 1b3637bf5583aa9364bb2bebb85c90b6d1d0b587dc54afee00850cf9fa1b6fdb
 - id: doi:10.1016/j.yrtph.2022.105277
   title: Integrated approach to elucidate metal-implant related adverse outcome pathways
   authors:
@@ -3808,6 +3850,19 @@
   date: '2002-01-01'
   link: https://doi.org/grhjj2
   _cache: aaf4a2a59abae4d43fce147a0256994acfd486ddd010b68ed13a388d47a68e86
+- id: doi:10.1039/D2CS00948J
+  title: Surely you are joking, Mr Docking!
+  authors:
+  - F. Gentile
+  - T. I. Oprea
+  - A. Tropsha
+  - A. Cherkasov
+  publisher: Chemical Society Reviews
+  date: '2023-01-01'
+  link: https://doi.org/grzzm5
+  orcid: 0000-0003-3802-8896
+  page: alexander-tropsha
+  _cache: 98fa5726b36e94afae0cee48b12f7bfd8dd9cc4eb570beb9db4e7c1e66423e84
 - id: doi:10.1038/s42004-022-00733-0
   title: Generative and reinforcement learning approaches for the automated de novo
     design of bioactive compounds
