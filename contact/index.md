@@ -30,6 +30,17 @@ Find us in Beard Hall room 301 drinking coffee and talking about drugs (the medi
 %}
 {:.center}
 
+Invested in joining the lab? We are always looking for motivated undergraduate and graduate students to join our ranks.
+If you have a background in computational chemistry and interested in a Post-Doc reach out to Alex
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="&nbsp;Join the Team"
+  link="join"
+  style="button"
+%}
+
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address

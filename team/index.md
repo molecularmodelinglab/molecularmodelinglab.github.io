@@ -1,11 +1,11 @@
 ---
-title: Team
+title: Lab Members
 nav:
-  order: 1
+  order: 2
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Lab Members
 
 
 {% capture content %}
