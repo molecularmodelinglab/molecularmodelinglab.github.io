@@ -8,6 +8,7 @@ aliases:
   - K Idanwekhai
   - Idanwekhai K.
   - Kelvin Paschal
+  - Kelvin Idanwekhai
 links:
   orcid: 0000-0002-3804-8830
   home-page: https://kelvinpaschal.com
