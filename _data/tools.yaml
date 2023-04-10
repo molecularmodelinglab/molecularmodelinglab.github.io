@@ -29,6 +29,16 @@
     - Dataset
     - Virology
 
+- title: STOPLIGHT
+  subtitle: Drug-likeness Scoring Calculator
+  group: model
+  image: images/stoplight.png
+  link: https://stoplight.mml.unc.edu/
+  description: A webserver for generating a "goodness" score for early stage hits in drug discovery campaigns
+  tags:
+    - Webserver
+    - Model
+
 - title: STopTox
   subtitle: Systemic and Topical chemical Toxicity
   group: model
