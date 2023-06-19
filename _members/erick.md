@@ -2,7 +2,7 @@
 name: Erick Tavares Marcelino Alves
 image: images/erick.jpeg
 description: Brazilian Toxiqsar guy
-role: intern
+role: alum
 aliases:
   - E. T. M. Alves
   
