@@ -1,7 +1,7 @@
 ---
 name: Enes Kelestemur
 image: images/enesk.jpg
-description: Rotation
+description: PENDING
 role: phd
 aliases:
   - Enes Kelestemur
