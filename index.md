@@ -82,8 +82,7 @@ upon. Further, many of our tools have easy to use web interfaces to enhance acce
 %}
 
 {% capture text %}
-We are a group of diverse researchers with a broad range academic backgrounds. Our team is able to approach problems from 
-multifaceted viewpoints to increase the robustness of our solutions.
+We are a group of diverse researchers with a broad range of academic backgrounds. Our team is able to approach problems from multifaceted viewpoints to increase the robustness of our solutions.
 
 {%
   include link.html
