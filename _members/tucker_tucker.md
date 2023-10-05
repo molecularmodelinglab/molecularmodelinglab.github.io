@@ -2,7 +2,7 @@
 name: Tucker Tucker
 image: images/tucker.jpg
 description: Very important
-role: mascot
+role: pi
 aliases:
   - T. Tucker
   - T Tucker
