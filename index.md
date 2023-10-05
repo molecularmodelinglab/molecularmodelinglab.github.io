@@ -4,8 +4,8 @@ title: Home
 
 # Supporting Drug Discovery with Data Science
 
-The Molecular Modeling Lab (MML) at UNC Chapel Hill Eshelman School of Pharmacy works at the interface of 
-pharmaceutical and data science to happen accelerate the discovery of novel drugs. Our focus is split between 
+The Molecular Modeling Lab (MML) at UNC Chapel Hill Eshelman School of Pharmacy works at the intersection of 
+pharmaceutical development and data science to accelerate the discovery of novel drugs. Our focus is split between 
 development of open source, innovative computational methods and applications of such methods in tangible discovery 
 campaigns. 
 
@@ -36,8 +36,8 @@ campaigns.
 # Highlights
 
 {% capture text %}
-We use machine learning and datascience to investigate the relationship between chemicals and their various biological
-activities. We strive to not just make advancements in methodology, but to development robust workflows for using these
+We use machine learning and data science to investigate the relationship between chemicals and their various biological
+activities. We strive to not only make advancements in methodology, but to develop robust workflows for using these
 tools. 
 
 {%
@@ -60,7 +60,7 @@ tools.
 
 {% capture text %}
 Tools are useless if no one can use them. All of our tools and code is freely available for anyone to utilize and build
-upon. Further, many have easy to use web interfaces to make them more accessible to the public.
+upon. Further, many of our tools have easy to use web interfaces to enhance accessibility for the public.
 
 {%
   include link.html
@@ -82,8 +82,7 @@ upon. Further, many have easy to use web interfaces to make them more accessible
 %}
 
 {% capture text %}
-We are a group a diverse researchers with many different academic backgrounds. Our team approaches problems from many
-viewpoints to make our work the most impactful
+We are a group of diverse researchers with a broad range of academic backgrounds. Our team is able to approach problems from multifaceted viewpoints to increase the robustness of our solutions.
 
 {%
   include link.html
