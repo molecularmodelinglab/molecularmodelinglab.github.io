@@ -3,6 +3,7 @@ name: Marielle Rath
 image: images/marielle.jpeg
 description: Pharmacist-in-training
 role: undergrad
+group: alum
 aliases:
   - Marielle Rath
   - M. Rath
@@ -12,4 +13,4 @@ links:
   linkedin: marielle-rath-8ab242192
 ---
 
-Junior at UNC-Chapel Hill who is enthusiastic about pharmaceutical research and connecting with other STEM-driven faculty and peers.
+PharmD Student at UNC College of Pharmacy

@@ -3850,6 +3850,21 @@
   date: '2002-01-01'
   link: https://doi.org/grhjj2
   _cache: aaf4a2a59abae4d43fce147a0256994acfd486ddd010b68ed13a388d47a68e86
+- id: doi:10.48550/arXiv.2106.15529
+  title: On Graph Neural Network Ensembles for Large-Scale Molecular Property Prediction
+  authors:
+  - Edward Elson Kosasih
+  - Joaquin Cabezas
+  - Xavier Sumba
+  - Piotr Bielak
+  - Kamil Tagowski
+  - Kelvin Idanwekhai
+  - Benedict Aaron Tjandra
+  - Arian Rokkum Jamasb
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gr2nzx
+  _cache: be8ec5a9b888f5df6015d990bce9576eca5f6ac6ff1d94a8f1efe8c59501dd3d
 - id: doi:10.1039/D2CS00948J
   title: Surely you are joking, Mr Docking!
   authors:
