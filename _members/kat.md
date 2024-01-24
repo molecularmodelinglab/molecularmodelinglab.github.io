@@ -3,6 +3,7 @@ name: Kat Kirchoff
 image: images/kat.jpg
 description: Head SALSA Chef
 role: phd
+group: alum
 aliases:
   - KE Kirchoff
   - Kathryn E Kirchoff
