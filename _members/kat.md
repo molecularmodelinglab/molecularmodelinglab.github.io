@@ -1,7 +1,7 @@
 ---
 name: Kat Kirchoff
 image: images/kat.jpg
-description: Head SALSA Chef
+description: Post-Doc @ Lessler Lab UNC
 role: phd
 group: alum
 aliases:
