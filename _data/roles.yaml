@@ -18,6 +18,10 @@ intern:
   icon: fas fa-code
   text: Intern
 
+staffsci:
+  icon: fas fa-code
+  text: Research Scientist
+
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
