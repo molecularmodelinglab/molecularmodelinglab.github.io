@@ -1,7 +1,7 @@
 ---
 name: Vinicius Alves
 image: images/vini.jpg
-description: Computational Chemist at Takeda 
+description: Principal Scientist II @ Novartis
 role: assistant_prof
 aliases:
   - V. Alves
