@@ -1,7 +1,7 @@
 ---
 name: Travis Maxfield
 image: images/travis.png
-description: Spiritual Adviser
+description: Senior Machine Learning Scientist @ Anagenex
 role: postdoc
 group: alum
 aliases:
