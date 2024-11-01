@@ -3,6 +3,7 @@ name: David Major
 image: images/david_m.jpg
 description: Josh's Trainee
 role: undergrad
+group: alum
 aliases:
   - David Major
   - D Major
