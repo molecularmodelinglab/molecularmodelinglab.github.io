@@ -1,6 +1,6 @@
 ---
 name: Damilola Oshunyinka
-image: images/LolaPNG professional headshot.png 
+image: images/Lola_headshot.png
 description: Research Apprentice - KG
 role: phd
 aliases:
@@ -13,4 +13,4 @@ links:
 ---
 
 Count me in for anything on making sense out of raw data.
-I'm Nigerian, ofcourse I love jollof rice and plantain.
+I'm Nigerian, of course I love jollof rice and plantain.
