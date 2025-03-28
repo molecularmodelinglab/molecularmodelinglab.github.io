@@ -1,8 +1,8 @@
 ---
 name: Jon-Michael Beasley
 image: images/jmb.jpg
-description: Knowledge Graph Guy
-role: phd
+description: Knowledge Graph Engineer at AbbVie
+role: alum
 aliases:
   - JMB
 links:
