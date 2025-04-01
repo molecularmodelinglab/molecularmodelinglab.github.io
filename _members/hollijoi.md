@@ -2,7 +2,7 @@
 name: Holli-Joi Martin
 image: images/holli.jpg
 description: Studies virus 
-role: phd
+role: postdoc
 aliases:
   - Holli-Joi
   - Holli-Joi Martin

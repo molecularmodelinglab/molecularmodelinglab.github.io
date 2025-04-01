@@ -2,7 +2,7 @@
 name: Huxley Ford
 image: images/hux.jpeg
 description: Very important
-role: phd
+role: mascot
 links:
   home-page: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 aliases:
