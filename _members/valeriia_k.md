@@ -2,7 +2,7 @@
 name: Valeriia Kaneva
 image: images/valeria.jpg
 description: Research Software Engineer
-role: intern
+role: programmer
 aliases:
   - Valeriia Kaneva
   - Valeriia N. Kaneva
