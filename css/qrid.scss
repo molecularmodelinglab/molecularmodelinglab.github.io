@@ -45,6 +45,9 @@ $one: 500px;
   .grid {
     --repeat: 1;
   }
+  .grid[data-style="buttons"] {
+    margin-bottom: -10px;
+  }
 }
 
 .grid[data-style="square"] {
