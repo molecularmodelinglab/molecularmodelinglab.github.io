@@ -1,6 +1,6 @@
 ---
 name: Kushal Koirala
-image: images/kushal_upd.jpg
+image: images/kushal.jpg
 description: Graduate Student
 role: phd
 aliases:
