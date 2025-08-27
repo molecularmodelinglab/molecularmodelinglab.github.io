@@ -3,6 +3,7 @@ name: Jorge Antonio Elias Godoy Carlos
 image: images/jorge.jpg
 description: Short Term Scholar
 role: intern
+group: alum
 aliases:
   - J. A. E. G. Carlos
   
