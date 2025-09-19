@@ -2,7 +2,8 @@
 name: Ricardo Tieghi
 image: images/ricardo.jpeg
 description: Scientific Program Analyst @ Dynavet Solutions
-role: alum
+role: undergrad
+group: alum
 aliases:
   - Ricardo Tieghi
   - R. Tieghi
