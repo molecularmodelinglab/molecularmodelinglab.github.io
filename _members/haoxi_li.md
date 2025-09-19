@@ -2,7 +2,7 @@
 name: Haoxi Li
 image: images/haoxi.png
 role: postdoc
-description: senior scientist @ structure therapeutics
+description: Senior Scientist @ Structure Therapeutics
 group: alum
 aliases:
   - H. Li

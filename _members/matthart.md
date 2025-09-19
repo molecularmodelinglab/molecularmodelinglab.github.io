@@ -3,6 +3,7 @@ name: Matthew Hart
 image: images/matthart.jpeg
 description: Material Informaticist
 role: phd
+group: alum
 aliases:
   - Matthew Hart
   - M. Hart
