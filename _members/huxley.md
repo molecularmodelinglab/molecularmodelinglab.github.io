@@ -3,6 +3,7 @@ name: Huxley Ford
 image: images/hux.jpeg
 description: Very important
 role: mascot
+group: alum
 links:
   home-page: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 aliases:
