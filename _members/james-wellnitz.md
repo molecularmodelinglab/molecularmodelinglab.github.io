@@ -1,8 +1,9 @@
 ---
 name: James Wellnitz
 image: images/james.jpg
-description: Chief Slurm Officer
+description: Advisor - Frontier AI @ Eli Lilly
 role: phd
+group: alum
 aliases:
   - J. Wellnitz
   - James Wellnitz
