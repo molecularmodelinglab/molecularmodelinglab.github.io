@@ -11,4 +11,8 @@ nav:
 
 ## Recent Updates
 
-Stay tuned for news and updates from our lab.
+### Postdoc Spotlight
+
+Marcello DeLuca was featured in [UNC's Postdoc Spotlight](https://research.unc.edu/2025/11/06/the-postdoc-spotlight-marcello-deluca/). Congratulations Marcello!
+
+{% include section.html %}
