@@ -11,13 +11,13 @@ nav:
 
 ## Recent Updates
 
-**December, 2025** - Congratulations to Marcello DeLuca for being featured in [UNC's Postdoc Spotlight](https://research.unc.edu/2025/11/06/the-postdoc-spotlight-marcello-deluca)! This new series highlights both the research taking place at UNC and the experiences of the postdocs behind the work.
+**December 2025** - Congratulations to Marcello DeLuca for being featured in [UNC's Postdoc Spotlight](https://research.unc.edu/2025/11/06/the-postdoc-spotlight-marcello-deluca)! This new series highlights both the research taking place at UNC and the experiences of the postdocs behind the work.
 
 **June 2025** - Congratulations to Kelvin Idanwekhai for winning 1st Place in the AFFINITY Junior Researcher Oral Presentation competition for his work "Data-Efficient and Adaptive Machine Learning Framework for Accelerated AAV Downstream Processing"! Great work, Kelvin!
 
-**June, 2025** - James Wellnitz successfully defended his dissertation. Congratulations on this major achievement!
+**June 2025** - James Wellnitz successfully defended his dissertation. Congratulations on this major achievement!
 
-**May, 2025** - Congratulations to Ricardo Tieghi for presenting [DeTox](https://detox.mml.unc.edu) at The 2025 Symposium Session "Qualifying NAMs for Developmental and Reproductive Toxicity: Advancements and Pitfalls"! His work was featured in the [2025 Annual Meeting Report: NAMs Hit the Bullseye in DART Assessments](https://toxchange.toxicology.org/blogs/rebecca-somach/2025/05/15/2025-annual-meeting-report-nams-hit-the-bullseye-i).
+**May 2025** - Congratulations to Ricardo Tieghi for presenting [DeTox](https://detox.mml.unc.edu) at The 2025 Symposium Session "Qualifying NAMs for Developmental and Reproductive Toxicity: Advancements and Pitfalls"! His work was featured in the [2025 Annual Meeting Report: NAMs Hit the Bullseye in DART Assessments](https://toxchange.toxicology.org/blogs/rebecca-somach/2025/05/15/2025-annual-meeting-report-nams-hit-the-bullseye-i).
 
 **April 2025** - Ricardo Tieghi featured in [NIEHS Environmental Factor interview "From Avid Reader to Toxicity Tool Developer"](https://www.niehs.nih.gov/news/factor/2025/4), congratulations!
 
