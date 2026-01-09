@@ -11,6 +11,8 @@ nav:
 
 ## Recent Updates
 
+**January 2026** - Congratulations to Kelvin Idanwekhai for being featured in the [Department of Chemistry's News](https://chem.unc.edu/news/ph-d-student-uses-machine-learning-to-transform-gene-therapy-production/)! The article highlights Kelvin’s Ph.D. research on applying machine learning and Bayesian optimization to improve adeno-associated virus (AAV) purification, a critical step in gene therapy manufacturing.
+
 **December 2025** - Congratulations to Marcello DeLuca for being featured in [UNC's Postdoc Spotlight](https://research.unc.edu/2025/11/06/the-postdoc-spotlight-marcello-deluca)! This new series highlights both the research taking place at UNC and the experiences of the postdocs behind the work.
 
 **June 2025** - Congratulations to Kelvin Idanwekhai for winning 1st Place in the AFFINITY Junior Researcher Oral Presentation competition for his work "Data-Efficient and Adaptive Machine Learning Framework for Accelerated AAV Downstream Processing"! Great work, Kelvin!
