@@ -11,6 +11,8 @@ nav:
 
 ## Recent Updates
 
+**January 2026** - Marcello DeLuca, Kushal Koirala, Elvin Ding and co-authors published the manuscript [Medicines, Diseases, Indications, and Contraindications (MeDIC): a foundational resource to support drug repurposing](https://academic.oup.com/nar/article/54/D1/D1477/8378180). The work introduces [MeDIC](https://medic.renci.org/), an open foundational database built exclusively from government regulatory sources, featuring highly curated lists of drugs, diseases, indications, contraindications, and additional metadata. 
+
 **January 2026** - Congratulations to Kelvin Idanwekhai for being featured in the [Department of Chemistry's News](https://chem.unc.edu/news/ph-d-student-uses-machine-learning-to-transform-gene-therapy-production/)! The article highlights Kelvin’s Ph.D. research on applying machine learning and Bayesian optimization to improve adeno-associated virus (AAV) purification, a critical step in gene therapy manufacturing.
 
 **December 2025** - Congratulations to Marcello DeLuca for being featured in [UNC's Postdoc Spotlight](https://research.unc.edu/2025/11/06/the-postdoc-spotlight-marcello-deluca)! This new series highlights both the research taking place at UNC and the experiences of the postdocs behind the work.
