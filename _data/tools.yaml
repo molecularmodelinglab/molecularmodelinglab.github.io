@@ -91,3 +91,12 @@
   tags:
     - Webserver
     - Knowledge Graph
+
+- title: MeDIC
+  subtitle: Medicines, Diseases, Indications, and Contraindications
+  group: database
+  image: images/tmp_logo.png
+  link: https://medic.renci.org/
+  description: A database featuring highly curated lists of drugs, diseases, indications, contraindications, and additional metadata. 
+  tags:
+    - Dataset
