@@ -97,6 +97,17 @@
   group: database
   image: images/tmp_logo.png
   link: https://medic.renci.org/
-  description: A database featuring highly curated lists of drugs, diseases, indications, contraindications, and additional metadata. 
+  description: A database featuring highly curated lists of drugs, diseases, indications, contraindications, and additional metadata.
   tags:
     - Dataset
+
+- title: HEALER
+  subtitle: Hit Expansion to Advanced Leads Using Enumerated Reactions
+  group: tool
+  image: images/healer_logo_no_text.png
+  link: https://healer.mml.unc.edu/
+  description: A computational chemistry platform designed to accelerate lead optimization by generating synthetically accessible chemical space.
+  tags:
+    - Webserver
+    - Lead Optimization
+
