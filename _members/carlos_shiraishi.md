@@ -3,6 +3,7 @@ name: Carlos S. H. Shiraishi
 image: images/carlos_shiraishi.jpeg
 description: Short Term Scholar
 role: intern
+group: alum
 aliases:
   - Carlos S. H. Shiraishi
   - Carlos Shiraishi
