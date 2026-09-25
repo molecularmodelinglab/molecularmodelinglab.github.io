@@ -88,6 +88,7 @@ These are past lab members who have moved on for our group to further innovate e
 {% include list.html data="members" component="portrait" filters="role: assistant_prof, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: alum" style="small" %}
 
