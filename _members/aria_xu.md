@@ -8,4 +8,4 @@ aliases:
 links:
   email: xxy@unc.edu
 ---
-CS & Biology Major. Loading research interests...
+CS & Biology Major. Research interests: Machine learning and computational approaches to drug discovery and healthcare; ADMET and PK prediction.
