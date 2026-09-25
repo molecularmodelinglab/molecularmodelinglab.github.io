@@ -1,7 +1,7 @@
 ---
 name: Valeriia Kaneva
 image: images/valeria.jpg
-description: Research Software Engineer
+description: First-Year PhD Student @ UNC BBSP
 group: alum
 role: programmer
 aliases:
